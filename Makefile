@@ -35,21 +35,21 @@ html: theme/static/css/marx.min.css $(PELICAN)
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
-regenerate: $(PELICAN) theme/static/css/marx.min.css
+regenerate: $(PELICAN)
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-serve:
+serve: $(PELICAN)
 ifdef PORT
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server $(PORT)
 else
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server
 endif
 
-devserver:
+devserver: $(PELICAN)
 ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
+	source venv/bin/activate && $(BASEDIR)/develop_server.sh restart $(PORT)
 else
-	$(BASEDIR)/develop_server.sh restart
+	source venv/bin/activate && $(BASEDIR)/develop_server.sh restart
 endif
 
 stopserver:
@@ -71,12 +71,6 @@ venv/bin/aws: venv/bin/pip
 	venv/bin/pip install awscli
 
 s3_upload: publish venv/bin/aws
-	aws s3 sync $(OUTPUTDIR)/ s3://$(shell python stack.py traditionalmead.uk) --delete --acl public-read
-
-node_modules/marx-css/css/marx.min.css:
-	npm install marx-css
-
-theme/static/css/marx.min.css: node_modules/marx-css/css/marx.min.css
-	mkdir -p theme/static/{css,images} && cp $< $@
+	aws s3 sync $(OUTPUTDIR)/ s3://$(shell python stack.py traditionalmead.uk eu-west-2) --delete --acl public-read
 
 .PHONY: html help clean regenerate serve devserver publish s3_upload github

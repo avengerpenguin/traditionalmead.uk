@@ -35,4 +35,19 @@ DEFAULT_PAGINATION = False
 THEME = './theme'
 INDEX_SAVE_AS = 'blog.html'
 
+PAGE_URL = '{slug}'
+PAGE_SAVE_AS = '{slug}/index.html'
+
+ARTICLE_URL = '{slug}'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+
+CATEGORY_URL = '{slug}'
+CATEGORY_SAVE_AS = '{slug}/index.html'
+
+MENUITEMS = (
+    ('Home', '/'),
+)
+
 DISPLAY_PAGES_ON_MENU=False
+
+PLUGINS = ['plugins.assets', 'plugins.sitemap', 'plugins.summary']
