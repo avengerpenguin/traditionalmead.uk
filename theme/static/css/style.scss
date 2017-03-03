@@ -1,0 +1,61 @@
+$backgroundColour: #F3EFCB;
+$textColour: #822a37;
+$linkColour: #2b5836;
+$linkHighlightColour: #b0394b;
+
+html, html:root, body {
+  font-family: 'Raleway', sans-serif;
+  //background-color: $backgroundColour;
+  color: $textColour;
+}
+
+body > header {
+  h1 {
+    font-family: 'Metamorphous', cursive;
+    text-shadow: 2px 2px 1px #DDAC58;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 16px;
+  }
+}
+
+nav#menu {
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 768px;
+    text-align:center;
+    li {
+      //  width:160px;
+      display:inline-block;
+      text-align:center;
+      padding: 1em;
+    }
+  }
+  border-bottom: 1px solid rgba(0,0,0,.12);
+}
+
+main {
+  img {
+    float: right;
+    max-width: 30%;
+  }
+}
+
+a {
+  color: $linkColour;
+  font-weight: bold;
+  &:hover {
+    color: $linkHighlightColour;
+  }
+}
+
+div.highlight pre {
+  background-color: $backgroundColour;
+  color: $linkColour;
+  font-family: 'Metamorphous', cursive;
+}
+
+ol#post-list {
+  list-style-type: none;
+}

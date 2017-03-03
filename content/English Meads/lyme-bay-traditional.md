@@ -1,0 +1,36 @@
+Title: Lyme Bay Traditional Mead
+Date: 2017-03-01
+status: published
+
+![](/images/lyme-bay-trad.jpg)
+
+Lyme Bay winery in Axminster produces a lot of traditional English drinks 
+including mead, fruit wines and liqueurs. Their traditional mead is perhaps 
+their flagship mead, which sells pretty well due to being stocked at English
+Heritage gifts shops up and down England.
+
+<!-- PELICAN_END_SUMMARY -->
+
+## Colour
+
+This is a relatively dark style, with usual notes of burnt caramel and a 
+reasonable body to balance out the honey sweetness. This is perhaps similar 
+in style to [Moniack Mead](/moniack-mead) and there's quite the debate as 
+to which comes first between the two!
+
+## Nose
+
+The first aroma is definitely a sweet one, perhaps more strongly so than the
+Moniack mead. There is also more of a fruity aroma whereas some similar 
+meads -- like the Moniack again -- might be a little more floral.
+
+## Taste
+
+The first taste is just on the dry side of sweet -- compared to some sweeter
+meads in the darker style. There are stronger burnt notes also on the 
+finish, which ultimately leads to a pleasing balance of toasty flavours and 
+sweetness.
+
+## Where to buy
+
+* [Amazon]()

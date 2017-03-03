@@ -65,12 +65,13 @@ venv/bin/pip:
 	venv/bin/pip install markdown boto3 troposphere
 
 $(PELICAN): venv/bin/pip
-	venv/bin/pip install pelican markdown webassets cssmin
+	venv/bin/pip install pelican markdown webassets cssmin typogrify
 
 venv/bin/aws: venv/bin/pip
 	venv/bin/pip install awscli
 
 s3_upload: publish venv/bin/aws
-	aws s3 sync $(OUTPUTDIR)/ s3://$(shell python stack.py traditionalmead.uk eu-west-2) --delete --acl public-read
+	exosphere update traditionalmead.uk
+	aws s3 sync $(OUTPUTDIR)/ s3://traditionalmead.uk --delete --acl public-read --region eu-west-2
 
 .PHONY: html help clean regenerate serve devserver publish s3_upload github

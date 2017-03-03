@@ -34,6 +34,7 @@ DEFAULT_PAGINATION = False
 
 THEME = './theme'
 INDEX_SAVE_AS = 'blog.html'
+SLUGIFY_SOURCE = 'basename'
 
 PAGE_URL = '{slug}'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -44,10 +45,37 @@ ARTICLE_SAVE_AS = '{slug}/index.html'
 CATEGORY_URL = '{slug}'
 CATEGORY_SAVE_AS = '{slug}/index.html'
 
+TAG_URL = '{slug}'
+TAG_SAVE_AS = '{slug}/index.html'
+
 MENUITEMS = (
     ('Home', '/'),
+    ('What is mead?', '/what-is-mead'),
 )
 
 DISPLAY_PAGES_ON_MENU=False
+DISPLAY_TAGS_ON_MENU=True
 
 PLUGINS = ['plugins.assets', 'plugins.sitemap', 'plugins.summary']
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'monthly',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}
+
+TYPOGRIFY = True
+
+STATIC_PATHS = ['images', 'extra/robots.txt', ]
+EXTRA_PATH_METADATA = {
+    'images': {'path': 'images'},
+    'extra/robots.txt': {'path': 'robots.txt'},
+}
