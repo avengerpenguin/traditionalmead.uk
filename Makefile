@@ -71,8 +71,11 @@ $(PELICAN): venv/bin/pip
 venv/bin/aws: venv/bin/pip
 	venv/bin/pip install awscli
 
-s3_upload: publish venv/bin/aws
-	exosphere update traditionalmead.uk
-	aws s3 sync $(OUTPUTDIR)/ s3://traditionalmead.uk --delete --acl public-read --region eu-west-2
+venv/bin/exosphere: venv/bin/pip
+	venv/bin/pip install exosphere
+
+s3_upload: publish venv/bin/aws venv/bin/exosphere
+	venv/bin/exosphere update traditionalmead.uk
+	venv/bin/aws s3 sync $(OUTPUTDIR)/ s3://traditionalmead.uk --delete --acl public-read --region eu-west-2
 
 .PHONY: html help clean regenerate serve devserver publish s3_upload github
