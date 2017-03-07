@@ -18,6 +18,7 @@ We have listings and reviews of all the best meads from across the UK:
 
 * [English Mead](/english-meads)
 * [Scottish Mead](/scottish-meads)
+* [Welsh Mead](/welsh-meads)
 
 ## Making Mead
 

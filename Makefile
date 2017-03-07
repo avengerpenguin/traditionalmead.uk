@@ -1,3 +1,4 @@
+SHELL=/bin/bash
 PY?=venv/bin/python
 PELICAN?=venv/bin/pelican
 PELICANOPTS=

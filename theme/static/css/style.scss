@@ -39,6 +39,7 @@ main {
   img {
     float: right;
     max-width: 30%;
+    margin-bottom: 1em;
   }
 }
 
@@ -57,5 +58,9 @@ div.highlight pre {
 }
 
 ol#post-list {
-  list-style-type: none;
+    list-style-type: none;
+    li {
+	clear: both;
+	margin-bottom: 1em;
+    }
 }
