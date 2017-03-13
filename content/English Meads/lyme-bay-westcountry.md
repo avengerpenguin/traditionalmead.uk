@@ -5,7 +5,8 @@ Status: published
 ![](/images/tournament.jpg)
 
 A mead from Lyme Bay that has recently won a Taste of the West gold
-award in 2016.
+award in 2016. The added spices strictly make this drink is a
+[metheglin](/types-of-mead) rather than a pure mead.
 
 <!-- PELICAN_END_SUMMARY -->
 

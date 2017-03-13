@@ -1,4 +1,4 @@
-Title: The London Honey Co. Long Mynd Heather Honey Mead
+Title: The London Honey Co.: Long Mynd Heather Honey Mead
 Date: 2017-03-05
 Status: published
 
