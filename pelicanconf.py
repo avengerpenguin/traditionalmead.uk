@@ -50,7 +50,7 @@ TAG_SAVE_AS = '{slug}/index.html'
 
 MENUITEMS = (
     ('Home', '/'),
-    ('What is mead?', '/what-is-mead'),
+    ('About mead', '/what-is-mead'),
 )
 
 DISPLAY_PAGES_ON_MENU=False

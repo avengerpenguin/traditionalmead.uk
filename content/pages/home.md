@@ -10,9 +10,11 @@ making mead at home.
 
 ## What is mead?
 
-See [What is mead?](/what-is-mead)
+* [What is mead?](/what-is-mead)
+* [History of mead in the UK](/history-of-mead)
+* [Types of varieties of mead](/types-of-mead)
 
-## Buying Mead
+## Mead reviews and how to buy
 
 We have listings and reviews of all the best meads from across the UK:
 
