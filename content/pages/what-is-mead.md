@@ -8,12 +8,12 @@ between 8% and 25% ABV.
 
 See also:
 
-* [History of mead in the UK](/history-of-mead)
-* [Types of varieties of mead](/types-of-mead)
-* [Making Mead](/making-mead)
-* [English Mead](/english-meads)
-* [Scottish Mead](/scottish-meads)
-* [Welsh Mead](/welsh-meads)
+* [History of mead in the UK](/history-of-mead/)
+* [Types or varieties of mead](/types-of-mead/)
+* [Making Mead](/making-mead/)
+* [English Meads](/english-meads/)
+* [Scottish Meads](/scottish-meads/)
+* [Welsh Meads](/welsh-meads/)
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -26,32 +26,32 @@ other countries such as the United States.
 
 ## History of mead in the UK
 
-See [History of mead in the UK](/history-of-mead)
+See [History of mead in the UK](/history-of-mead/)
 
 ## How mead is made
 
 Mead is made by mixing honey with water and then fermenting with yeast (with
 wine yeasts being popular among mead producers). See
-[Making Mead](/making-mead) for a more thorough step-by-step guide.
+[Making Mead](/making-mead/) for a more thorough step-by-step guide.
 
 ## Varieties
 
 Within the UK alone, meads can vary from a dark, caramel style to a lighter 
 style. There are also a lot of varieties with specific names.
 
-See [Types of varieties of mead](/types-of-mead) for a list.
+See [Types of varieties of mead](/types-of-mead/) for a list.
 
 # Mead in the UK
 
 We have listings and reviews of all the best meads from across the UK:
 
-* [English Mead](/english-meads)
-* [Scottish Mead](/scottish-meads)
-* [Welsh Mead](/welsh-meads)
+* [English Meads](/english-meads/)
+* [Scottish Meads](/scottish-meads/)
+* [Welsh Meads](/welsh-meads/)
 
 # Where can I buy mead in the UK?
 
-See the links about to various English, Scottish and Welsh meads as each
+See the links about to various English, Scottish and Welsh Meadss as each
 review links through to places where you can buy them. Following a link from
 a mead we have reviewed might lead you onto other meads we have not had the
 pleasure of tasting yet!

@@ -1,11 +1,7 @@
 {% extends "base.html" %}
 
 {% block title %}
-{% if category %}
-{{ category }} | {{ SITENAME }}
-{% else %}
 Home | {{ SITENAME }}
-{% endif %}
 {% endblock title %}
 
 {% block content %}
@@ -16,8 +12,8 @@ Home | {{ SITENAME }}
         <li><article class="hentry">
                 <header> <h2 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2> </header>
                 <div class="entry-content">
-                    {{ article.summary }}
-                    <p><a href="{{ SITEURL }}/{{ article.slug }}" rel="bookmark" title="Read {{ article.title|striptags }}">Read more</a></p>
+                    {{ article._summary }}
+                    <p><a href="{{ SITEURL }}/{{ article.slug }}/" rel="bookmark" title="Read {{ article.title|striptags }}">Read more</a></p>
                 </div>
         </article></li>
 {% endfor %}

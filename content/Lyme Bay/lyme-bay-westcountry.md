@@ -1,10 +1,12 @@
 Title: Lyme Bay Westcountry Mead
 Date: 2017-03-06
 Status: published
+Tags: English Meads, Metheglin (Spiced Mead)
 
 ![](/images/tournament.jpg)
 
-A mead from Lyme Bay that has recently won a Taste of the West gold
+A mead from [Lyme Bay Winery](/lyme-bay-winery/)
+that has recently won a Taste of the West gold
 award in 2016. The added spices strictly make this drink is a
 [metheglin](/types-of-mead) rather than a pure mead.
 

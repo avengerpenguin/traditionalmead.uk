@@ -32,31 +32,50 @@ DEFAULT_PAGINATION = False
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+DIRECT_TEMPLATES = ['index', 'categories']
+
 THEME = './theme'
 INDEX_SAVE_AS = 'blog.html'
 SLUGIFY_SOURCE = 'basename'
 
-PAGE_URL = '{slug}'
+PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
-ARTICLE_URL = '{slug}'
+ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 
-CATEGORY_URL = '{slug}'
+CATEGORY_URL = '{slug}/'
 CATEGORY_SAVE_AS = '{slug}/index.html'
 
-TAG_URL = '{slug}'
+TAG_URL = '{slug}/'
 TAG_SAVE_AS = '{slug}/index.html'
+
+CATEGORIES_SAVE_AS = 'producers/index.html'
+
+AUTHOR_SAVE_AS = False
 
 MENUITEMS = (
     ('Home', '/'),
-    ('About mead', '/what-is-mead'),
+    ('Mead Producers', '/producers/'),
+    ('What is mead?', '/what-is-mead/'),
+    ('Types of Mead', '/types-of-mead/'),
+    ('History of Mead', '/history-of-mead/'),
+    ('Making Mead', '/making-mead/'),
 )
 
 DISPLAY_PAGES_ON_MENU=False
-DISPLAY_TAGS_ON_MENU=True
+DISPLAY_TAGS_ON_MENU=False
+DISPLAY_CATEGORIES_ON_MENU=False
 
-PLUGINS = ['plugins.assets', 'plugins.sitemap', 'plugins.summary']
+PLUGINS = [
+    'plugins.assets',
+    'plugins.sitemap',
+    'plugins.summary',
+    'plugins.post_stats',
+    'plugins.category_meta',
+    'plugins.category_order',
+    'plugins.pelican-open_graph',
+]
 
 SITEMAP = {
     'format': 'xml',
@@ -79,3 +98,8 @@ EXTRA_PATH_METADATA = {
     'images': {'path': 'images'},
     'extra/robots.txt': {'path': 'robots.txt'},
 }
+
+SHOW_STATS = True
+
+CATEGORIES_ORDER_BY = 'size-rev'
+TAGS_ORDER_BY = 'size-rev'

@@ -1,10 +1,13 @@
 Title: Lyme Bay Traditional Mead
 Date: 2017-03-01
 status: published
+Tags: English Meads
+Rating: 5
 
 ![](/images/lyme-bay-trad.jpg)
 
-Lyme Bay winery in Axminster produces a lot of traditional English drinks 
+[Lyme Bay Winery](/lyme-bay-winery/)
+in Axminster produces a lot of traditional English drinks 
 including mead, fruit wines and liqueurs. Their traditional mead is perhaps 
 their flagship mead, which sells pretty well due to being stocked at English
 Heritage gifts shops up and down England.
@@ -34,3 +37,4 @@ sweetness.
 ## Where to buy
 
 * [Amazon](https://www.amazon.co.uk/Traditional-Mead-Lyme-Bay-Bottle-x/dp/B00EVVQ1WA/ref=as_li_ss_tl?ie=UTF8&qid=1488660032&sr=8-1&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=2234414851d25d018d31a27aa0e5eaf1)
+* [English Heritage](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=5926&p=http%3A%2F%2Fwww.english-heritageshop.org.uk%2Ffood-drink%2Fenglish-heritage-traditional-mead) (Branded as "English Heritage Traditional Mead")

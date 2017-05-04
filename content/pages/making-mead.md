@@ -1,4 +1,4 @@
-Title: Making your own mead at home
+Title: Making Mead
 Status: published
 
 ## Where to buy homebrew mead kits

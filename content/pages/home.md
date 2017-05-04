@@ -10,18 +10,25 @@ making mead at home.
 
 ## What is mead?
 
-* [What is mead?](/what-is-mead)
-* [History of mead in the UK](/history-of-mead)
-* [Types of varieties of mead](/types-of-mead)
+* [What is mead?](/what-is-mead/)
+* [History of mead in the UK](/history-of-mead/)
+* [Types of varieties of mead](/types-of-mead/)
 
 ## Mead reviews and how to buy
 
 We have listings and reviews of all the best meads from across the UK:
 
-* [English Mead](/english-meads)
-* [Scottish Mead](/scottish-meads)
-* [Welsh Mead](/welsh-meads)
+* [English Meads](/english-meads/)
+* [Scottish Meads](/scottish-meads/)
+* [Welsh Meads](/welsh-meads/)
+
+## Meads from elsewhere in Europe
+
+Some meads from our friends in Europe:
+
+* [Italian Mead](/italian-meads/)
 
 ## Making Mead
 
-* [Making your own Mead](/making-mead)
+* [Making your own Mead](/making-mead/)
+

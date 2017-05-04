@@ -4,6 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="p:domain_verify" content="6b313232357d407fb6d03f536de39eec"/>
+        <meta name="keywords" content="{% block keywords %}{% endblock keywords %}{% for tag, articles in tags %}{{ tag|striptags }}, {% endfor %}{% for category, articles in categories %}{{ category|striptags }}, {% endfor %}Mead UK, Traditional Mead, Honey wine, Honey mead, Honeymead, Metheglyn, Hydromel, Mjod, Mjød, Braggot, Cyser, Melomel, Metheglin, Pyment, Meadhing, Mjöd, Medovina, Melomels, Metheglins, Honeyed wine, Pitarrilla, Rhodomel"/>
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         {% block head %}
         {% if FEED_ALL_ATOM %}
@@ -36,18 +37,35 @@
     {% assets filters="scss,cssmin", output="css/style.min.css", "css/style.scss" %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
     {% endassets %}
+    {% if GOOGLE_ANALYTICS_ID %}
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ GOOGLE_ANALYTICS_ID }}', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    {% endif %}
+    <script
+            type="text/javascript"
+            async defer
+            src="//assets.pinterest.com/js/pinit.js"
+    ></script>
 </head>
 
 <body id="index" class="home">
   <header id="banner" class="body">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+                <p><a href="{{ SITEURL }}/">{{ SITENAME }}</a></p>
         </header><!-- /#banner -->
         <nav id="menu"><ul>
         {% for title, link in MENUITEMS %}
             <li><a href="{{ link }}">{{ title }}</a></li>
         {% endfor %}
         {% if DISPLAY_PAGES_ON_MENU %}
-          {% for p in PAGES %}
+          {% for p in pages %}
             <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
           {% endfor %}
         {% else %}
@@ -59,23 +77,49 @@
         {% endif %}
         </ul></nav><!-- /#menu -->
 	<main>
+        {% block content_title %}
+        {% endblock %}
         {% block content %}
           {% endblock %}
 	</main>
 
-  {% if GOOGLE_ANALYTICS_ID %}
-  <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  <aside>
+      <h2>Find a mead</h2>
+      <ul>
+          {% for tag, articles in tags %}
+          <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
+          {% endfor %}
+      </ul>
 
-      ga('create', '{{ GOOGLE_ANALYTICS_ID }}', 'auto');
-      ga('send', 'pageview');
 
+      <!-- START ADVERTISER: English Heritage - Shop from awin.com -->
+
+      <a style="display:block;margin-top:2em" href="https://www.awin1.com/cread.php?s=469951&v=5926&q=227249&r=333769">
+          <img src="https://www.awin1.com/cshow.php?s=469951&v=5926&q=227249&r=333769" border="0">
+      </a>
+
+      <!-- END ADVERTISER: English Heritage - Shop from awin.com -->
+
+      <!-- START ADVERTISER: DrinkSupermarket.com from awin.com -->
+
+      <a style="clear: both; margin-top: 2em;" href="https://www.awin1.com/cread.php?s=644907&v=3574&q=159630&r=333769">
+          <img src="https://www.awin1.com/cshow.php?s=644907&v=3574&q=159630&r=333769" border="0">
+      </a>
+
+      <!-- END ADVERTISER: DrinkSupermarket.com from awin.com -->
+  </aside>
+
+  <script type="text/javascript">
+      var vglnk = { key: '31dfa2893bb67da1780ae09c2394c2e9' };
+
+      (function(d, t) {
+          var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
+          s.src = '//cdn.viglink.com/api/vglnk.js';
+          var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+      }(document, 'script'));
   </script>
-  {% endif %}
   <script id="dsq-count-scr" src="//traditionalmead.disqus.com/count.js" async></script>
+  <script src="https://www.dwin2.com/pub.333769.min.js"></script>
 </body>
 </html>
 

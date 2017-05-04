@@ -1,4 +1,4 @@
-Title: Types or varieties of mead
+Title: Types of Mead
 Date: 2017-03-13
 Status: published
 
@@ -15,8 +15,8 @@ hops but these days that has generally become malted grain.
 * *Capsicumel:* Mead with chillies.
 
 * *Cyser:* Mead made with apples or apple juice, making a drink similar to 
-cider. Examples of this in the UK include [Long Mynd Heather Honey Mead](/long-mynd-heather-honey-mead)
-and [Mabinogion Mead Four Branches](/mabinogion-mead-four-branches).
+cider. Examples of this in the UK include [Long Mynd Heather Honey Mead](/long-mynd-heather-honey-mead/)
+and [Mabinogion Mead Four Branches](/mabinogion-mead-four-branches/).
 
 * *Great mead:* Mead aged for a long time.
 
@@ -28,7 +28,7 @@ and [Mabinogion Mead Four Branches](/mabinogion-mead-four-branches).
 * *Pyment*: A mead with grape added or a grape (white) wine that has had 
 honey added. This is the style used by Lindisfarne mead and a lot of pyments
 are actually sold as just meads without distinction. 
-[Long Mynd Heather Honey Mead](/long-mynd-heather-honey-mead) is arguably
+[Long Mynd Heather Honey Mead](/long-mynd-heather-honey-mead/) is arguably
 part pyment, part cyser.
 
 * *Rhodomel:* A mead made from honey, rose hips, rose petals or rose attar.
@@ -42,5 +42,5 @@ much more quickly and be closer to a cider or ale in strength and character.
 * *Show mead:* This is a term that as emerged for "plain" mead, i.e. simply 
 fermented honey and water with nothing else added. We have many following a
 classic mead style in the UK including
-[Lyme Bay Traditional mead](/lyme-bay-tradtional) and
-[Moniack mead](/moniack-mead).
+[Lyme Bay Traditional mead](/lyme-bay-traditional/) and
+[Moniack mead](/moniack-mead/).

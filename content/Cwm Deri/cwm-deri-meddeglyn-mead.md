@@ -1,6 +1,8 @@
 Title: Cwm Deri Meddeglyn Spiced Mead
 Date: 2017-03-04
 Status: published
+Tags: Welsh Meads
+Rating: 4
 
 ![](/images/cwm-deri.jpg)
 
@@ -9,7 +11,7 @@ Pembrokeshire, Wales.
 
 <!-- PELICAN_END_SUMMARY -->
 
-## Colour
+## Appearance
 
 This mead has an appealing pale yellow, but not too straw-like colour.
 
@@ -20,7 +22,7 @@ honey.
 
 ## Taste
 
-The initial taste is that of pure, liquid honey. THe medium body only
+The initial taste is that of pure, liquid honey. The medium body only
 adds to the sensation that you are drinking a liquid form of
 honey. There are subtle spice undertones that are hard to pinpoint and
 there is a slight dryness to the finish that adds some complexity.

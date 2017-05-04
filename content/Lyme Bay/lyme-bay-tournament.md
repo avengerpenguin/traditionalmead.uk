@@ -1,10 +1,12 @@
 Title: Lyme Bay Tournament Mead
 Date: 2017-03-06
 Status: published
+Tags: Metheglin (Spiced Mead), English Meads
 
 ![](/images/tournament.jpg)
 
-Another offering from Lyme Bay, this mead is another of the darker
+Another offering from [Lyme Bay Winery](/lyme-bay-winery/),
+this mead is another of the darker
 styles spiced with ginger. This leads to a warming, comforting mead
 drink for the colder months of the year. The ginger spices means this is a
 [metheglin](/types-of-mead) rather than a "normal" mead.
