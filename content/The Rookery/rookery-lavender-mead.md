@@ -1,9 +1,9 @@
 Title: The Rookery Lavender Mead
 Date: 2017-04-21
-Tags: Scottish Meads
+Tags: Scottish Meads, Metheglin (Spiced Mead), Craft Mead
 Status: published
 
-![](/images/rookery-lavender-mead.jpg)
+![Picture of Rookery Lavender Mead](/images/rookery-lavender-mead.jpg)
 
 The many flavours of so-called "Scottish craft mead" from
 [The Rookery](/the-rookery/) can be hard to find online. We managed to get hold
@@ -49,7 +49,7 @@ of the more floral fruit wines (such as elderflower). Definitely a unique
 experience overall.
 
 I can say for sure that such a strong taste masks well the supposed 17%
-alcohol strenght!
+alcohol strength!
 
 ## Where to Buy
 

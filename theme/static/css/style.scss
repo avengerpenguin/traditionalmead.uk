@@ -76,6 +76,8 @@ main {
     max-width: 768px;
     float: left;
     margin: 0 auto;
+  }
+  @media screen and (min-width: 1200px) {
     margin-left: 5em;
     margin-right: 5em;
   }
@@ -110,6 +112,11 @@ aside {
   clear: right;
   @media screen and (min-width: 1000px) {
     padding: 1em;
+    float: right;
+    max-width: 230px;
+  }
+  @media screen and (min-width: 1200px) {
+    max-width: 430px;
   }
   text-align: center;
   ul {

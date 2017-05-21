@@ -32,7 +32,10 @@
         <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
         {% endif %}
         {% endblock head %}
-    <link href="https://fonts.googleapis.com/css?family=Metamorphous|Raleway" rel="stylesheet">
+{% if article %}
+<link rel="canonical" href="{{ SITEURL }}/{{ article.url }}"/>
+{% endif%}
+<link href="https://fonts.googleapis.com/css?family=Metamorphous|Raleway" rel="stylesheet">
 	<link rel="stylesheet" href="/theme/css/marx.min.css">
     {% assets filters="scss,cssmin", output="css/style.min.css", "css/style.scss" %}
     <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
@@ -83,30 +86,26 @@
           {% endblock %}
 	</main>
 
+
   <aside>
+      <div>
+          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          <!-- Mead Main -->
+          <ins class="adsbygoogle"
+               style="display:block"
+               data-ad-client="ca-pub-7863038150136152"
+               data-ad-slot="7277566797"
+               data-ad-format="auto"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
+      </div>
       <h2>Find a mead</h2>
       <ul>
           {% for tag, articles in tags %}
           <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></li>
           {% endfor %}
       </ul>
-
-
-      <!-- START ADVERTISER: English Heritage - Shop from awin.com -->
-
-      <a style="display:block;margin-top:2em" href="https://www.awin1.com/cread.php?s=469951&v=5926&q=227249&r=333769">
-          <img src="https://www.awin1.com/cshow.php?s=469951&v=5926&q=227249&r=333769" border="0">
-      </a>
-
-      <!-- END ADVERTISER: English Heritage - Shop from awin.com -->
-
-      <!-- START ADVERTISER: DrinkSupermarket.com from awin.com -->
-
-      <a style="clear: both; margin-top: 2em;" href="https://www.awin1.com/cread.php?s=644907&v=3574&q=159630&r=333769">
-          <img src="https://www.awin1.com/cshow.php?s=644907&v=3574&q=159630&r=333769" border="0">
-      </a>
-
-      <!-- END ADVERTISER: DrinkSupermarket.com from awin.com -->
   </aside>
 
   <script type="text/javascript">

@@ -3,7 +3,7 @@ Date: 2017-03-06
 Status: published
 Tags: English Meads, Metheglin (Spiced Mead)
 
-![](/images/tournament.jpg)
+![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F2IYI6C&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
 
 A mead from [Lyme Bay Winery](/lyme-bay-winery/)
 that has recently won a Taste of the West gold
@@ -34,4 +34,4 @@ pairs wonderfully with Welsh cakes!
 
 ## Where to buy
 
-* [Amazon](https://www.amazon.co.uk/Westcountry-Mead-Lyme-Bay-Bottle/dp/B00F2IYI6C/ref=as_li_ss_tl?ie=UTF8&qid=1488668365&sr=8-1&keywords=lyme+bay+west+country&linkCode=ll1&tag=traditionalmead-21&linkId=4bfaddd5b77c29a382612e4a32f1bccf)
+* [Amazon UK](https://www.amazon.co.uk/Westcountry-Mead-Lyme-Bay-Bottle/dp/B00F2IYI6C/ref=as_li_ss_tl?ie=UTF8&qid=1488668365&sr=8-1&keywords=lyme+bay+west+country&linkCode=ll1&tag=traditionalmead-21&linkId=4bfaddd5b77c29a382612e4a32f1bccf)

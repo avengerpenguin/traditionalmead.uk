@@ -1,6 +1,6 @@
 Title: Afon Mêl Apricot Mead
 Date: 2017-04-24
-Tags: Welsh Meads
+Tags: Welsh Meads, Melomel (Fruit Flavoured Mead)
 Status: published
 
 ![](/images/afon-mel-apricot.jpg)

@@ -19,8 +19,8 @@ From their own website:
 
 A spiced mead is a good additional to any Christmas. It works well as both a
 post-dinner dessert wine or warmed to be drunk like a mulled wine as the nights
-get shorter. The comparison to [Lyme Bay's](/lyme-bay/) Christmas mead is hard
-to avoid.
+get shorter. The comparison to [Lyme Bay's](/lyme-bay-winery/)
+is hard to avoid.
 
 ## Appearance
 

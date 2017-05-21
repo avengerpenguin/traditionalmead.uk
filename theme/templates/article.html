@@ -45,7 +45,7 @@
       <p><emph>(See more from <a href="{{ SITEURL }}/{{article.category.url}}">{{article.category}}</a>)</emph></p>
 
     <p>Filed under:
-    <ul>{% for tag in article.tags %}<li><a href="{{ tag.url }}">{{ tag }}</a></li>{% endfor %}</ul>
+    <ul>{% for tag in article.tags %}<li><a href="/{{ tag.url }}">{{ tag }}</a></li>{% endfor %}</ul>
     </p>
   </header>
 

@@ -1,5 +1,5 @@
 Title: Moniack Mead
-Date: 2017-03-01
+Date: 2017-11-01
 status: published
 Tags: Scottish Meads, Pure Honey Mead
 Rating: 5
@@ -8,7 +8,8 @@ Rating: 5
 
 Moniack Mead is one of our absolute favourites. It’s an excellent example of
 the darker style with additional notes of caramel, maybe even slightly burnt.
-it's created by Highlands winery which is based in what used to be a sixteenth
+
+It's created by Highlands winery which is based in what used to be a sixteenth
 Century castle, Moniack Castle, in Invernessshire.
 
 <!-- PELICAN_END_SUMMARY -->
@@ -21,8 +22,7 @@ its history, but feel free to discuss this in the comments!
 I first encounted this mead at a "Highland Village" component of the Christmas
 markets in Edinburgh. The German side of the markets closed up by Christmas Day,
 but the Highland side stayed open right up until midnight on Hogmanay. It was
-served warmed and this is a mead that does well served warm in the Winter. It
-is a mead that I happily warm, mull or otherwise flavour in the Winte.
+served warmed and this is a drink that does well served warm in the Winter.
 
 ## Appearance
 
@@ -45,7 +45,7 @@ to a balanced, warming mead drink.
 Our personal favourite pairing for a robust, Scottish mead is of course as a
 dessert wine with cranachan at the end of a Burns Supper!
 
-## Where to buy
+## Where to buy Moniack mead
 
 * [Amazon](https://www.amazon.co.uk/MONIACK-Moniack-Mead/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1488403900&sr=1-1-fkmr0&keywords=mead+moniak&linkCode=ll1&tag=traditionalmead-21&linkId=88e0738143c9d0f8e60765e3d9a30120)
 * [Master of Malt](https://www.masterofmalt.com/mead/highland-wineries/moniack-mead/?srh=1)

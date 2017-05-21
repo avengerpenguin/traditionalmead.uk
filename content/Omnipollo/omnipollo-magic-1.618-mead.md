@@ -1,8 +1,22 @@
 Title: Omnipollo Magic 1.618 Mead
 Image: https://www.beerhawk.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/m/omnipollo_mead_7350064990452.jpg
 Status: published
-Tags: Swedish Meads
+Tags: Swedish Meads, Sparkling, 
+Date: 2017-05-05
 Rating: 4
+
+I was convinced to try this "1.618 Mead" (1.618 is the Golden Ratio) from
+Ominpollo on the basis it was akin to a "Champagne" of meads. I think it is a
+delightful drink as pre-dinner aperitif in place of Prosecco or Champagne.
+
+This is definitely an interesting, experimental drink for sure. Omnipollo are
+Swedish, so it might be tempting to mention their Viking heritage, but this
+drink is incredibly contemporary. It must be quite far removed from traditional
+Viking mead!
+
+<!-- PELICAN_END_SUMMARY -->
+
+
 
 ## Appearance
 
