@@ -4,6 +4,7 @@ Image: https://www.beerhawk.co.uk/media/catalog/product/cache/1/image/9df78eab33
 Status: published
 Tags: Swedish Meads
 Rating: 4
+Slug: omnipollo
 
 ## Appearance
 

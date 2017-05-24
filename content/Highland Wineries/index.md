@@ -2,6 +2,7 @@ Title: Highland Wineries
 Date: 2017-01-01
 Image: /images/moniack.jpg
 Status: published
+Slug: highland-wineries
 
 Highlands Winery are based in what used to be a 16th Century
 castle -- Moniack Castle -- in Invernessshire. Moniack castle was the
