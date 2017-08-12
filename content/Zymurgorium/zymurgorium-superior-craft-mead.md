@@ -3,13 +3,16 @@ Date: 2017-04-29
 Tags: English Meads, Pure Honey Mead
 
 
-In their words:
+The highlight for me with all [Zymugorium](/zymurgorium/) meads is the
+rather unique descriptions on the back of the bottles. The description for
+their pure honey "craft" mead is no different.
+
+In their own words:
 
     THE ORIGINAL GODFATHER OF ALL BREWS…
-    
+
     So we as humans have been living alongside alcoholic beverages for like forever, so imagine your great great great…(10,000 years)… great Grandad this is what he was sitting by the fire with talking about how long a day he had had wrestling mammoth with his pointy-stick! This Is the original Godfather that shook the world and it only took 10,000 years to perfect in our awesome meadery! If all things retro are cool then this is the bottom of the thermometer!
-    
-    
+
 ## Appearance
 
 Clearer than than most meads -- closer to an off-dry white wine in terms of

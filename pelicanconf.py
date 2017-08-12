@@ -75,6 +75,7 @@ PLUGINS = [
     'plugins.category_meta',
     'plugins.category_order',
     'plugins.pelican-open_graph',
+    'plugins.filetime_from_git',
 ]
 
 SITEMAP = {

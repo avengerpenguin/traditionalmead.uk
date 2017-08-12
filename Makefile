@@ -1,4 +1,4 @@
-SHELL=/bin/bash
+`SHELL=/bin/bash
 PY?=venv/bin/python
 PELICAN?=venv/bin/pelican
 PELICANOPTS=
@@ -66,7 +66,7 @@ venv/bin/pip:
 	venv/bin/pip install markdown boto3 troposphere
 
 $(PELICAN): venv/bin/pip
-	venv/bin/pip install pelican markdown webassets cssmin typogrify
+	venv/bin/pip install pelican markdown webassets cssmin typogrify gitpython
 
 venv/bin/aws: venv/bin/pip
 	venv/bin/pip install awscli

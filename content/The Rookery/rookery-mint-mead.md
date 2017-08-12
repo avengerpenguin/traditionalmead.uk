@@ -1,4 +1,4 @@
-Title: The Rookery Wild Cherry Mead
+Title: The Rookery Mint Cherry Mead
 Date: 2017-04-21
 Tags: Scottish Meads, Craft Mead
 
