@@ -7,12 +7,12 @@ Rating: 5
 ![Bottle of Moniack Mead](/images/moniack.jpg)
 
 Moniack Mead is one of our absolute favourites. It’s an excellent example of
-the darker style with additional notes of caramel, maybe even slightly burnt.
+the darker pure mead style with additional notes of caramel, maybe even slightly burnt.
+
+<!-- PELICAN_END_SUMMARY -->
 
 It's created by Highlands winery which is based in what used to be a sixteenth
 Century castle, Moniack Castle, in Invernessshire.
-
-<!-- PELICAN_END_SUMMARY -->
 
 Since the winery is now fully owned by [Lyme Bay Winery](/lyme-bay-winery/), it
 is tempting to mark this as an [English mead](/english-meads/) as well as a

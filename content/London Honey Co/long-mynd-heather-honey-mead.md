@@ -17,22 +17,25 @@ of mead, cider and wine.
 
 This drink is a pale golden colour with remarkable clarity. This is
 perhaps closer to a sweet, white wine like Gewürztraminer in
-appearance.
+appearance. This may be unsurprising given the use of apples and grapes in
+the recipe.
 
 ## Nose
 
 There is a fragrant -- arguably floral -- honey aroma with a sense of
-depth, perhaps due to the mix of fruits.
+depth. There are some fruit characteristics, but it is hard to pick out
+certain fruits in particular.
 
 ## Taste
 
 The taste is surprisingly dry given the flora and honey aromas. The
-grape juice is bringing with it the usual sourness and tannins you
-would get from a white wine grape such as Chenin Blanc.
+grape juice is bringing with it the usual sourness and acidity you
+would get from a white wine grape such as Sauvignon Blanc or Chenin Blanc.
 
 It is definitely a cyser or pyment rather than a mead. There are some
 honey undertones that add a notable amount of complexity to the
-overall drink, but the body is a little lacking.
+overall drink, but the body is a little lacking and the finish is somewhat
+short.
 
 ## Where to buy
 

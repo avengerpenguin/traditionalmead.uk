@@ -1,8 +1,7 @@
 Title: Pennard Organic Mead Liqueur
-Date: 2017-03-04
 Tags: English Meads, Liqueurs
 
-![]()
+![](http://avalonvineyard.co.uk/avalonasp/images/meadliqueur_sm.JPG)
 
 
 <!-- PELICAN_END_SUMMARY -->

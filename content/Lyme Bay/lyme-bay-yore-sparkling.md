@@ -1,7 +1,7 @@
 Title: Lyme Bay Yore Sparkling Mead
 Date: 2017-05-31
 Status: published
-Tags: English Meads
+Tags: English Meads, Sparkling
 
 ![Picture of Lyme Bay Yore Sparkling Mead](https://www.lymebaywinery.co.uk/media/catalog/product/cache/1/image/409x654/9df78eab33525d08d6e5fb8d27136e95/y/o/yore-sparkling-mead_1.jpg)
 

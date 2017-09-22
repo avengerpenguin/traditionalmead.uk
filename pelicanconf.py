@@ -52,7 +52,7 @@ TAG_SAVE_AS = '{slug}/index.html'
 
 CATEGORIES_SAVE_AS = 'producers/index.html'
 
-AUTHOR_SAVE_AS = False
+AUTHOR_SAVE_AS = ''
 
 MENUITEMS = (
     ('Home', '/'),
@@ -76,6 +76,7 @@ PLUGINS = [
     'plugins.category_order',
     'plugins.pelican-open_graph',
     'plugins.filetime_from_git',
+    'plugins.autopages',
 ]
 
 SITEMAP = {

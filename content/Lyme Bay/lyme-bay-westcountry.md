@@ -12,6 +12,10 @@ award in 2016. The added spices strictly make this drink is a
 
 <!-- PELICAN_END_SUMMARY -->
 
+This is one of three spiced offerings from Lyme Bay. See also their
+[Tournament mead](/lyme-bay-tournament/) spiced with ginger or their excellent
+[Christmas mead](/lyme-bay-christmas/).
+
 ## Colour
 
 A light orange-brown colour that appears like most of the darker meads
@@ -21,7 +25,7 @@ somewhat on the lighter side of that category.
 ## Nose
 
 The nose offers a warm, sweet bouquet. There is a subtle amount of
-spice in the aroma.
+spice in the aroma. There are notes of heather among the honey flavours.
 
 ## Taste
 

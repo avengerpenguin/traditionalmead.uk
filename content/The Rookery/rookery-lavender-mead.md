@@ -50,7 +50,3 @@ experience overall.
 
 I can say for sure that such a strong taste masks well the supposed 17%
 alcohol strength!
-
-## Where to Buy
-
-* [Valhalla's Goat](https://www.valhallasgoat.com/the-rookery-lavender-mead)

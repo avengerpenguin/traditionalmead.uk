@@ -1,7 +1,7 @@
 Title: Lindisfarne Spiced Mead
 Date: 2017-04-24
 Status: published
-Tags: English Meads, Pyment, Christmas Meads, Metheglin (Spiced Mead)
+Tags: English Meads, Pyment, Metheglin (Spiced Mead)
 
 ![](https://www.drinksupermarket.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/l/i/lindisfarne-spiced-mead-70cl_temp.jpg)
 

@@ -1,9 +1,27 @@
 Title: Making Mead
 Status: published
 
+This is a good starter guide to making a simple,
+[pure honey mead](/pure-honey-mead/) recipe at
+home.
+
+<!-- PELICAN_END_SUMMARY -->
+
+If you want some more interesting and complex recipes, we can recommend
+some of the following books:
+
+* [Make Mead Like a Viking: Traditional Techniques for Brewing Natural, Wild-Fermented, Honey-Based Wines and Beers](https://www.amazon.co.uk/Make-Mead-Like-Viking-Wild-Fermented/dp/1603585982/ref=as_li_ss_tl?ie=UTF8&qid=1505332714&sr=8-1&keywords=make+mead+like+a+viking&linkCode=ll1&tag=traditionalmead-21&linkId=32b862120d27a23319b0494c2e7a6842)
+* [The Complete Guide to Making Mead: The Ingredients, Equipment, Processes, and Recipes for Crafting Honey Wine](https://www.amazon.co.uk/Complete-Guide-Making-Mead-Ingredients/dp/0760345643/ref=as_li_ss_tl?ie=UTF8&qid=1505332762&sr=8-11&keywords=making+mead&linkCode=ll1&tag=traditionalmead-21&linkId=0210a4eccd8375bf3ba2ce1f2c658c82)
+* [Making Mead: A Complete Guide to the Making of Sweet and Dry Mead, Melomel, Metheglin, Hippocras, Pyment and Cyser](https://www.amazon.co.uk/Making-Mead-Complete-Metheglin-Hippocras/dp/0900841079/ref=as_li_ss_tl?ie=UTF8&qid=1505332762&sr=8-1&keywords=making+mead&linkCode=ll1&tag=traditionalmead-21&linkId=f7fbf92393f7a24040cf230003f37280)
+
+If you don't know where to start,
+[read about the different kinds of mead](/types-of-mead/)
+you can make.
+
 ## Where to buy homebrew mead kits
 
 * [Traditional Mead Honey Wine Making Kit](https://www.amazon.co.uk/Traditional-Making-Starter-Bottles-Homebrew/dp/B00QTE7R34/ref=as_li_ss_tl?ie=UTF8&qid=1488412516&sr=8-14&keywords=mead&linkCode=ll1&tag=traditionalmead-21&linkId=54f410a4c1734911f4b7ff28c81a2aa9)
+* [Starter Mead Making Kit](https://www.amazon.co.uk/Making-Starter-Homebrew-Demijohn-Ginger/dp/B00TVF2IB4/ref=as_li_ss_tl?ie=UTF8&qid=1505633037&sr=8-2&keywords=mead+kit&linkCode=ll1&tag=traditionalmead-21&linkId=5e1c5b871d0eff8b8f2dc52363949ba6)
 
 ## Ingredients
 

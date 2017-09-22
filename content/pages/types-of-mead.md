@@ -5,6 +5,8 @@ Status: published
 Within the UK alone, meads can vary from a dark, caramel style to a lighter 
 style. There are also a lot of varieties with specific names:
 
+<!-- PELICAN_END_SUMMARY -->
+
 * *Acerglyn:* Meads with maple syrup.
 
 * *Bochet:* Mead where the honey is caramelised or burnt first.

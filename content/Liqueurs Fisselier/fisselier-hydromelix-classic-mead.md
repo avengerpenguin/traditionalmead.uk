@@ -1,11 +1,11 @@
 Title: Hydromelix Classic Mead (Chouchen)
 Date: 2017-04-10
 Status: published
-Tags: Breton Meads, French Meads, Chouchen
+Tags: French Meads, Chouchen
 
 ![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017SLEWC0&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
 
-This mead (*hydromel* in French) is known in Brittany as a Chouchen*, which is
+This mead (*hydromel* in French) is known in Brittany as a Chouchen, which is
 a mead specific to the region, traditionally made with buckwheat honey for a
 stronger flavour.
 

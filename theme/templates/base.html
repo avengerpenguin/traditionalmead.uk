@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="p:domain_verify" content="6b313232357d407fb6d03f536de39eec"/>
-        <meta name="keywords" content="{% block keywords %}{% endblock keywords %}{% for tag, articles in tags %}{{ tag|striptags }}, {% endfor %}{% for category, articles in categories %}{{ category|striptags }}, {% endfor %}Mead UK, Traditional Mead, Honey wine, Honey mead, Honeymead, Metheglyn, Hydromel, Mjod, Mjød, Braggot, Cyser, Melomel, Metheglin, Pyment, Meadhing, Mjöd, Medovina, Melomels, Metheglins, Honeyed wine, Pitarrilla, Rhodomel"/>
+        <meta name="keywords" content="{% block keywords %}{% endblock keywords %}{% for tag, articles in tags %}{{ tag|striptags }}, {% endfor %}{% for category, articles in categories %}{{ category|striptags }}, {% endfor %}Mead UK, Traditional Mead, What is mead?, mead recipe uk, Honey wine, Honey mead, Metheglyn, Hydromel, Braggot, Cyser, Melomel, Metheglin, Pyment, Medovina, Honeyed wine"/>
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
         {% block head %}
         {% if FEED_ALL_ATOM %}
@@ -119,6 +119,63 @@
   </script>
   <script id="dsq-count-scr" src="//traditionalmead.disqus.com/count.js" async></script>
   <script src="https://www.dwin2.com/pub.333769.min.js"></script>
+
+<script type="text/javascript">
+  (function trackOutbounds() {
+  console.log('Starting');
+	
+	var hitCallbackHandler = function(url,win) {
+	    if (win) {
+		    window.open(url, win);
+	    } else {
+        	window.location.href = url;
+        }
+    };
+    
+    var addEvent = function(el, eventName, handler) {
+    
+		if (el.addEventListener) {
+			el.addEventListener(eventName, handler);
+			} else {
+			el.attachEvent('on' + eventName, function(){
+				handler.call(el);
+		    });
+		}
+	}
+	
+	if (document.getElementsByTagName) {
+		var el = document.getElementsByTagName('a');
+		var getDomain = document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0];
+
+		// Look thru each a element
+		for (var i=0; i < el.length;i++) {
+		
+			// Extract it's href attribute
+			var href = (typeof(el[i].getAttribute('href')) == 'string' ) ? el[i].getAttribute('href') : '';
+			
+			// Query the href for the top level domain (xxxxx.com)
+			var myDomain = href.match(getDomain);
+
+			// If link is outbound and is not to this domain	
+			if ((href.match(/^(https?:|\/\/)/i)  && !myDomain) || href.match(/^mailto\:/i)) {
+				  console.log('Good to go!');
+				// Add an event to click
+				addEvent(el[i],'click', function(e) {
+					var url = this.getAttribute('href'), win = (typeof(this.getAttribute('target')) == 'string') ? this.getAttribute('target') : '';
+							
+					// Log even to Analytics, once done, go to the link
+					ga('send', 'event', 'outbound', 'click', url,
+						{'hitCallback': hitCallbackHandler(url,win)},
+						{'nonInteraction': 1}
+					);
+					
+					e.preventDefault();
+				});
+			}
+		}
+	}
+})();
+</script>
 </body>
 </html>
 

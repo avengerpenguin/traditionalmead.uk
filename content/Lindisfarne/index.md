@@ -6,5 +6,4 @@ Slug: lindisfarne
 
 The history of mead on the island of Lindisfarne supposedly goes back to
 mediaeval monks (see [History of mead in the UK](/history-of-mead/)) who
-inhabited the island. The current offering has been made only since
-1962 however.
+inhabited the island.

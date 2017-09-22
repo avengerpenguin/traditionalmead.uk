@@ -23,7 +23,7 @@ with Indian food as well, but other fruits such as mango might be a stronger
 match (in place of mango lassi which is common in Indian restaurants in the UK).
 
 A mead flavoured with fruit is technically known as a
-[melomel](http://traditionalmead.uk/types-of-mead/).
+[melomel](/types-of-mead/).
 
 ## Appearance
 

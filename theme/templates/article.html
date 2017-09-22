@@ -12,7 +12,11 @@
   <meta name="description" content="{{article._summary|striptags|e}}" />
 
 {% for tag in article.ogtags %}
+    {% if tag[0] == 'og:description' %}
+    <meta property="og:description" content="{{article._summary|striptags|e}}" />
+    {% else %}
     <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+    {% endif %}
 {% endfor %}
 
 {% endblock %}

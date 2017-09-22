@@ -41,7 +41,3 @@ The initial taste hits with a robust taste from the honey that mellows
 out to a strong ginger spice on the finish. This gives a complexity
 where a strong body holds the spice as opposed to a weaker drink that
 would be overpowered by it.
-
-## Where to Buy
-
-* [Valhalla's Goat](https://www.valhallasgoat.com/the-rookery-ginger-mead-350ml)
