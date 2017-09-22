@@ -1,5 +1,5 @@
 Title: Pennard Organic Mead Liqueur
-Tags: English Meads, Liqueurs
+Tags: English Meads, Mead Liqueurs
 
 ![](http://avalonvineyard.co.uk/avalonasp/images/meadliqueur_sm.JPG)
 
