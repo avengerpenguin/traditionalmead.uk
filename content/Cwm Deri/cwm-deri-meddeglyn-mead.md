@@ -11,6 +11,10 @@ Pembrokeshire, Wales.
 
 <!-- PELICAN_END_SUMMARY -->
 
+As a spiced mead, this is technically a [metheglin](/metheglin-spiced-mead/)
+and the giveaway is in the name since "metheglin" is simply the English word
+for the Welsh "meddeglyn".
+
 ## Appearance
 
 This mead has an appealing pale yellow, but not too straw-like colour.
@@ -26,6 +30,11 @@ The initial taste is that of pure, liquid honey. The medium body only
 adds to the sensation that you are drinking a liquid form of
 honey. There are subtle spice undertones that are hard to pinpoint and
 there is a slight dryness to the finish that adds some complexity.
+
+## Food pairings
+
+The flavours in this metheglin immediately bring to mind the taste of Welsh
+cakes, so I would strongly suggest pairing these two together.
 
 ## Where to buy
 

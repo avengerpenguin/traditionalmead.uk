@@ -1,6 +1,6 @@
 Title: Friary Christmas Mead
 Date: 2017-08-15
-Tags: Metheglin, English Meads, Christmas Meads
+Tags: Metheglin (Spiced Mead), English Meads, Christmas Meads
 Status: published
 Rating: 4
 

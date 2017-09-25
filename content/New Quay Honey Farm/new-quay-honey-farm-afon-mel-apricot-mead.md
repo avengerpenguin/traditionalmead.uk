@@ -33,10 +33,8 @@ orange hues presumably taken from the apricot fruit itself.
 
 ## Nose
 
-There is a bold bouquet as with the pure mead. It is at this point that I
-notice no mention of the ABV strength on the bottle. I can only assume it's
-reasonably strong from the abundance of legs in the glass and the lack of my
-own after a few glasses.
+There is a bold bouquet as with the pure mead. The apricot flavours are
+pronounced.
 
 ## Taste
 

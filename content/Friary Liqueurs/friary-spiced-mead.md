@@ -1,6 +1,6 @@
 Title: Friary Spiced Mead
 Date: 2017-08-14
-Tags: Metheglin, English Meads
+Tags: Metheglin (Spiced Mead), English Meads
 Rating: 5
 Status: published
 
