@@ -1,7 +1,8 @@
-Title: Hydromelix Classic Mead (Chouchen)
+Title: Hydromelix Salted Caramel Mead (Chouchen)
 Date: 2017-04-10
-Status: draft
-Tags: French Meads, Chouchen
+Status: published
+Tags: Chouchen
+Rating: 4
 
 ![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017SLEWCA&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
 
@@ -12,7 +13,7 @@ caramel mead.
 <!-- PELICAN_END_SUMMARY -->
 
 This mead is another ["Chouchen"](/chouchen/) in the Hydromelix range
-from the [Breton](/breton-meads/)-based
+from the Brittany-based
 producer [Liqueurs Fisselier](/liqueurs-fisselier/).
 
 It is suggested to have these meads as an aperitif before dinner, but
@@ -22,7 +23,7 @@ be too intense as a pre-dinner drink.
 
 ## Appearance
 
-Unsurprisingly, this mead has taken the caramel colour form its
+Unsurprisingly, this mead has taken the caramel colour from its
 flavouring. It has a deep orange-brown translucency and a nice
 clarity.
 
@@ -41,6 +42,9 @@ but not overly so.
 The length of the flavour is surprising, however, with a the alcohol
 and a little bit of tartness coming in for the aftertaste. It is
 certainly more complex than you might expect.
+
+It is perhaps a little sickly sweet at room temperature, so do consider
+chilling as a dessert wine with rich desserts.
 
 ## Where to buy
 

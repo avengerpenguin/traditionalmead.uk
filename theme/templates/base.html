@@ -57,9 +57,46 @@
             async defer
             src="//assets.pinterest.com/js/pinit.js"
     ></script>
+    <!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1535749866493566');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1535749866493566&ev=PageView&noscript=1"
+/></noscript><!-- End Facebook Pixel Code -->
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="manifest" href="/icon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
 </head>
 
 <body id="index" class="home">
+
   <header id="banner" class="body">
                 <p><a href="{{ SITEURL }}/">{{ SITENAME }}</a></p>
         </header><!-- /#banner -->
@@ -122,8 +159,7 @@
 
 <script type="text/javascript">
   (function trackOutbounds() {
-  console.log('Starting');
-	
+
 	var hitCallbackHandler = function(url,win) {
 	    if (win) {
 		    window.open(url, win);
@@ -150,7 +186,7 @@
 		// Look thru each a element
 		for (var i=0; i < el.length;i++) {
 		
-			// Extract it's href attribute
+			// Extract its href attribute
 			var href = (typeof(el[i].getAttribute('href')) == 'string' ) ? el[i].getAttribute('href') : '';
 			
 			// Query the href for the top level domain (xxxxx.com)
@@ -158,7 +194,7 @@
 
 			// If link is outbound and is not to this domain	
 			if ((href.match(/^(https?:|\/\/)/i)  && !myDomain) || href.match(/^mailto\:/i)) {
-				  console.log('Good to go!');
+
 				// Add an event to click
 				addEvent(el[i],'click', function(e) {
 					var url = this.getAttribute('href'), win = (typeof(this.getAttribute('target')) == 'string') ? this.getAttribute('target') : '';
@@ -168,6 +204,11 @@
 						{'hitCallback': hitCallbackHandler(url,win)},
 						{'nonInteraction': 1}
 					);
+
+                      fbq('track', 'AddToCart', {
+                        content_ids: url,
+                      });
+
 					
 					e.preventDefault();
 				});

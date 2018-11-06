@@ -26,7 +26,7 @@ inhabited the island. The current offering has been made only since
 ## Appearance
 
 Very pale so much as to be off-clear. It reminds of white wines from cooler
-regions such as Piedmonte.
+regions such as Pinot Grigio.
 
 ## Nose
 
@@ -38,12 +38,13 @@ grassy --  aroma.
 
 The use of grapes gives a subtle acidity underneath a medium body of sweetness.
 This provides a dry-sweet balance not often achieved with pure honey meads.
-The dryness makes the drink more refreshing for drinking by itself (as opposed
-to as a dessert wine).
+The dryness and acidity makes the drink more refreshing for drinking by itself
+(as opposed to as a dessert wine as is the case for many pure honey meads).
 
 ## Where to buy
 
-* [Amazon](https://www.amazon.co.uk/Lindisfarne-Mead-Wine-70-cl-x/dp/B007K9EDFM/ref=as_li_ss_il?ie=UTF8&qid=1491769691&sr=8-1&keywords=lindisfarne+mead&linkCode=li3&tag=traditionalmead-21&linkId=3403dffe59153f8bffa245e9d1219cf4)
+* [Amazon UK](https://www.amazon.co.uk/Lindisfarne-Mead-Wine-70-cl-x/dp/B007K9EDFM/ref=as_li_ss_il?ie=UTF8&qid=1491769691&sr=8-1&keywords=lindisfarne+mead&linkCode=li3&tag=traditionalmead-21&linkId=3403dffe59153f8bffa245e9d1219cf4)
 * [All 3 Lindifarne miniatures in a gift set at Amazon](https://www.amazon.co.uk/Lindisfarne-Miniature-Mead-contains-bottles/dp/B01HOCTB1U/ref=as_li_ss_tl?ie=UTF8&qid=1493067774&sr=8-2&keywords=lindisfarne+mead&linkCode=ll1&tag=traditionalmead-21&linkId=f07bb0da9f026028c1e8ab5dada4d868)
 * [TheDrinkShop](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=61&p=https%3A%2F%2Fwww.thedrinkshop.com%2Fitem%2F9886%2Flindisfarne-mead)
 * [TheDrinkSupermarket](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=3574&p=https%3A%2F%2Fwww.drinksupermarket.com%2Flindisfarne-mead-70cl-14-5-abv)
+* [Master of Malt](https://www.masterofmalt.com/mead/lindisfarne/lindisfarne-mead/?srh=1)

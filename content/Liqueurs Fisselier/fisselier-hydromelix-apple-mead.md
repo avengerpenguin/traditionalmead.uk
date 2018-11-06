@@ -1,7 +1,7 @@
 Title: Hydromelix Apple Mead (Chouchen)
 Date: 2017-04-25
 Status: published
-Tags: French Meads, Chouchen, Melomel (Fruit Flavoured Mead)
+Tags: Chouchen, Melomel (Fruit Flavoured Mead)
 Rating: 5
 
 ![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017SLEWYS&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)

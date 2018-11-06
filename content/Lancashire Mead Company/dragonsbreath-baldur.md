@@ -1,6 +1,6 @@
 Title: Dragonsbreath: Baldur
 Date: 2017-04-24
-Tags: English Meads, Dry Meads, WIldflower Honey, Pure Honey Mead
+Tags: English Meads, Dry Meads, Pure Honey Mead
 Status: published
 Rating: 4
 

@@ -1,4 +1,4 @@
-title: Home
+title: Find, buy and make mead in the UK
 save_as: index.html
 url: 
 status: published
@@ -10,7 +10,11 @@ making mead at home.
 
 We have pain-stakingly drunk our way through every mead, pyment, cyser,
 melomel and metheglin we can find to
-buy in the UK (and beyond!). In fact, our work is still incomplete, so please do
+buy in the UK (and beyond!).
+
+<!-- PELICAN_END_SUMMARY -->
+
+In fact, our work is still incomplete, so please do
 comment with your own opinions even if we have yet to post our own
 tasting notes.
 
@@ -35,8 +39,6 @@ our listings and tasting notes by country:
 * [English Meads](/english-meads/)
 * [Scottish Meads](/scottish-meads/)
 * [Welsh Meads](/welsh-meads/)
-* [French Meads](/french-meads/)
-* [Italian Meads](/italian-meads/)
 
 ## Meaderies and mead producers
 

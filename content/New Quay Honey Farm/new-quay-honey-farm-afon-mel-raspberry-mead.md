@@ -42,6 +42,11 @@ comparisons to jam are not totally unwarranted as there is the
 expected blend of raspberry and sweetness. Some of the complexity
 might come from the honey base, which is certainly evident in the finish.
 
+## Mixing
+
+Given the jammy intensity of this mead, it dilutes nicely with an extra-dry
+prosecco for a chilled, refreshing summer drink.
+
 ## Where to Buy
 
 * [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=21)

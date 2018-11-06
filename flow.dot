@@ -1,0 +1,106 @@
+digraph g {
+
+    nodesep=2.0;
+
+    node [shape=square,width=5.0];
+    "Amazon UK";
+    "Master of Malt";
+    "English Heritage";
+
+	node[shape=circle,width=1.0];
+
+	"lyme-bay-winery" -> "lyme-bay-christmas";
+	"lyme-bay-winery" -> "lyme-bay-yore-sparkling";
+	"lyme-bay-winery" -> "lyme-bay-tournament";
+	"lyme-bay-winery" -> "lyme-bay-westcountry";
+	"lyme-bay-winery" -> "lyme-bay-traditional";
+	"lyme-bay-christmas" -> "Amazon UK";
+	"lyme-bay-christmas" -> "Master of Malt";
+	"lyme-bay-tournament" -> "Amazon UK";
+	"lyme-bay-traditional" -> "Amazon UK";
+	"lyme-bay-traditional" -> "English Heritage";
+	"moniack-mead" -> "Amazon UK";
+	"moniack-mead" -> "Master of Malt";
+	"lyme-bay-westcountry" -> "Amazon UK";
+
+	"friary-liqueurs" -> "friary-christmas-mead";
+	"friary-liqueurs" -> "friary-mead-liqueur";
+	"friary-liqueurs" -> "friary-spiced-mead";
+	"friary-liqueurs" -> "friary-traditional-mead";
+	"friary-christmas-mead" -> "www.themeadshop.com";
+	"friary-mead-liqueur" -> "www.friaryliqueurs.co.uk";
+	"friary-spiced-mead" -> "www.friaryliqueurs.co.uk";
+	"friary-traditional-mead" -> "www.friaryliqueurs.co.uk";
+
+	"lindisfarne-mead" -> "Amazon UK";
+	"lindisfarne-mead" -> "TheDrinkSupermarket";
+	"lindisfarne-mead" -> "TheDrinkShop";
+
+	"new-quay-honey-farm" -> "afon-mel-apricot-mead";
+	"new-quay-honey-farm" -> "afon-mel-honey-mead";
+	"new-quay-honey-farm" -> "afon-mel-blackberry-mead";
+	"new-quay-honey-farm" -> "afon-mel-raspberry-mead";
+	"afon-mel-apricot-mead" -> "www.thehoneyfarm.co.uk";
+	"afon-mel-honey-mead" -> "www.thehoneyfarm.co.uk";
+	"afon-mel-blackberry-mead" -> "www.thehoneyfarm.co.uk";
+	"afon-mel-raspberry-mead" -> "www.thehoneyfarm.co.uk";
+
+	"welsh-meads" -> "afon-mel-apricot-mead";
+	"welsh-meads" -> "afon-mel-honey-mead";
+	"welsh-meads" -> "afon-mel-blackberry-mead";
+	"welsh-meads" -> "afon-mel-raspberry-mead";
+	"welsh-meads" -> "cwm-deri-meddeglyn-mead";
+	"welsh-meads" -> "mabinogion-mead-four-branches";
+	"cwm-deri-meddeglyn-mead" -> "Amazon UK";
+	"mabinogion-mead-four-branches" -> "Master of Malt";
+
+	"melomel-fruit-flavoured-mead" -> "fisselier-hydromelix-apple-mead";
+	"melomel-fruit-flavoured-mead" -> "fisselier-hydromelix-strawberry-mead";
+	"melomel-fruit-flavoured-mead" -> "afon-mel-apricot-mead";
+	"melomel-fruit-flavoured-mead" -> "afon-mel-honey-mead";
+	"melomel-fruit-flavoured-mead" -> "afon-mel-blackberry-mead";
+	"melomel-fruit-flavoured-mead" -> "afon-mel-raspberry-mead";
+	"melomel-fruit-flavoured-mead" -> "omnipollo-magic-1618-mead";
+
+	"liqueurs-fisselier" -> "fisselier-hydromelix-apple-mead";
+	"liqueurs-fisselier" -> "fisselier-hydromelix-classic-mead";
+	"liqueurs-fisselier" -> "fisselier-hydromelix-strawberry-mead";
+	"fisselier-hydromelix-apple-mead" -> "Amazon UK";
+	"fisselier-hydromelix-strawberry-mead" -> "Amazon UK";
+	"fisselier-hydromelix-classic-mead" -> "Amazon UK";
+
+	"the-rookery" -> "www.rookery.scot";
+	"the-rookery" -> "www.gbbf.org.uk";
+	"the-rookery" -> "www.cambridgebeerfestival.com";
+	"the-rookery" -> "rookery-ginger-mead";
+	"the-rookery" -> "rookery-mead";
+	"the-rookery" -> "rookery-lavender-mead";
+	"avalon-vineyard" -> "www.pennardorganicwines.co.uk";
+	"avalon-vineyard" -> "pennard-mead-liqueur";
+	"avalon-vineyard" -> "pennard-pure-honey-mead";
+	"pennard-pure-honey-mead" -> "www.pennardorganicwines.co.uk";
+	"lindisfarne" -> "lindisfarne-mead";
+	"lindisfarne" -> "lindisfarne-spiced-mead";
+	"lindisfarne-spiced-mead" -> "Amazon UK";
+	"lindisfarne-spiced-mead" -> "TheDrinkSupermarket";
+
+	"the-lancashire-mead-company" -> "dragonsbreath-baldur";
+	"the-lancashire-mead-company" -> "hawksmead-sleipnir";
+	"dragonsbreath-baldur" -> "www.lancashiremeadcompany.co.uk";
+	"hawksmead-sleipnir" -> "www.lancashiremeadcompany.co.uk";
+
+	"azienda-agricola-giorgio-poeta" -> "im-idromiele";
+	"im-idromiele" -> "Amazon UK";
+	"italian-meads" -> "im-idromiele";
+
+	"cwm-deri" -> "cwm-deri-meddeglyn-mead";
+	"highland-wineries" -> "moniack-mead";
+	"mabinogion" -> "mabinogion-mead-four-branches";
+	"omnipollo" -> "omnipollo-magic-1618-mead";
+	"the-london-honey-co" -> "long-mynd-heather-honey-mead";
+	"long-mynd-heather-honey-mead" -> "Amazon UK";
+	"zymurgorium" -> "Master of Malt";
+	"zymurgorium" -> "zymurgorium-cyser-craft-cider";
+	"zymurgorium-cyser-craft-cider" -> "zymurgorium.com";
+	"making-mead" -> "Amazon UK";
+}

@@ -39,5 +39,8 @@ sweetness.
 
 ## Where to buy
 
-* [Amazon UK](https://www.amazon.co.uk/Traditional-Mead-Lyme-Bay-Bottle-x/dp/B00EVVQ1WA/ref=as_li_ss_tl?ie=UTF8&qid=1488660032&sr=8-1&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=2234414851d25d018d31a27aa0e5eaf1)
+* [6 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TRADITIONAL-MEAD-Case/dp/B076558RV7/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034785&sr=1-3&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=6aed096d7fe7ce592f3e087ee294a713)
+* [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TRADITIONAL-MEAD-Case/dp/B07655CQRZ/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034785&sr=1-8&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=9647b8ea6b85a72f53b01cb89a505938)
+* [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TRADITIONAL-MEAD-Case/dp/B07654Y8KC/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034785&sr=1-6&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=cae1f8eb85b7ea4bd45ecc013c0af0ad)
+* [Single bottle (Amazon UK)](https://www.amazon.co.uk/Traditional-Mead-Lyme-Bay-Bottle/dp/B00EVVQ1WA/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034785&sr=1-1&keywords=traditional+mead&linkCode=ll1&tag=traditionalmead-21&linkId=cc42d1fd157d4ab896075062bf67fa8f)
 * [English Heritage](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=5926&p=http%3A%2F%2Fwww.english-heritageshop.org.uk%2Ffood-drink%2Fenglish-heritage-traditional-mead) (Branded as "English Heritage Traditional Mead")

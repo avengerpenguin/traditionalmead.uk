@@ -30,4 +30,7 @@ is a dominating flavour.
 
 ## Where to buy
 
-* [Amazon](https://www.amazon.co.uk/Tournament-Mead-Lyme-Bay-Bottle/dp/B00F2JGLS4/ref=as_li_ss_tl?ie=UTF8&qid=1488665398&sr=8-1&keywords=lyme+bay+tournament&linkCode=ll1&tag=traditionalmead-21&linkId=293bf71ddbc5f81b839037be95c39b27)
+* [6 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZTJM42/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-2&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=8553446ccc8e45183bea5b11cebfa4d0)
+* [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZW1WTH/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-4&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=c90c4f179eb183b38556984a9d0d4625)
+* [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZWDY1M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-3&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=b0a0e5623a6a140108af859dd033bcbf)
+* [Single bottle (Amazon UK)](https://www.amazon.co.uk/Tournament-Mead-Lyme-Bay-Bottle/dp/B00F2JGLS4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-1&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=21477314c9e212066e788321300b37fa)

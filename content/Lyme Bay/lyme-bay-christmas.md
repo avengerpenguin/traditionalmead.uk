@@ -1,10 +1,10 @@
 Title: Lyme Bay Christmas Mead
-Date: 2017-08-13
+Date: 2017-12-11
 Tags: English Meads, Metheglin (Spiced Mead), Christmas Meads
 Rating: 5
 Status: published
 
-![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F2IYEX4&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
+![](/images/lyme-bay-christmas.jpg)
 
 This is an annual staple for us, with an order placed before every
 Christmas for the best part of a decade. [Lyme Bay's](/lyme-bay-winery/) Christmas mead is
@@ -12,7 +12,7 @@ arguably their star offering.
 
 <!-- PELICAN_END_SUMMARY -->
 
-This mead is technically a [metheglin](/metheglin/) with its rich
+This mead is technically a [metheglin](/metheglin-spiced-mead/) with its rich
 spice flavourings of cinnamon, cloves, nutmeg, cardamom, lemon and
 orange zest. These are all spices and flavourings associated with
 Christmas (and are common in mulled wines), so the result is indeed a
@@ -47,5 +47,9 @@ a light, (relatively) low alcohol style.
 
 ## Where to buy
 
-* [Amazon UK](https://www.amazon.co.uk/Christmas-Mead-Lyme-Bay-Bottle/dp/B00F2IYEX4/ref=as_li_ss_tl?ie=UTF8&qid=1502654839&sr=8-1&keywords=lyme+bay+christmas+mead&linkCode=ll1&tag=traditionalmead-21&linkId=b72fd0c6c62c9bfe6f1fcc819402ae51)
+* [6 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-CHRISTMAS-MEAD-Case/dp/B075ZRH1FR/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034183&sr=1-2&keywords=christmas+mead&linkCode=ll1&tag=traditionalmead-21&linkId=3b99343bd66ffc5ba9d3f0580d552327)
+* [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-CHRISTMAS-MEAD-Case/dp/B075ZS3NQM/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034183&sr=1-5&keywords=christmas+mead&linkCode=ll1&tag=traditionalmead-21&linkId=3499894ab5df70d4d4e8d50b5039e279)
+* [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-CHRISTMAS-MEAD-Case/dp/B075ZQXZ73/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034183&sr=1-4&keywords=christmas+mead&linkCode=ll1&tag=traditionalmead-21&linkId=92214b2d20764cf287c6e7bff7b81476)
+* [Single bottle (Amazon UK)](https://www.amazon.co.uk/Christmas-Mead-Lyme-Bay-Bottle/dp/B00F2IYEX4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034183&sr=1-1&keywords=christmas+mead&linkCode=ll1&tag=traditionalmead-21&linkId=74042291f9e9c13a121e791406faff1d)
 * [Master of Malt](https://www.masterofmalt.com/mead/lyme-bay-winery/christmas-mead-lyme-bay-winery-mead/?srh=1)
+* [English Heritage Shop](https://www.awin1.com/cread.php?awinmid=5926&awinaffid=333769&clickref=&p=https%3A%2F%2Fwww.english-heritageshop.org.uk%2Fgift-ideas%2Fchristmas-mead)

@@ -10,27 +10,29 @@ founded by Aaron Darke, who calls himself
 brewing a lot for people at university and that he forages for his ingredients
 himself.
 
+<!-- PELICAN_END_SUMMARY -->
+
 The meadery takes its name from _Zymurgy_ -- the branch of chemistry concerned
 with brewing and fermentation -- and _Emporium_.
 
 In addition to mead, they make a substantial number of other drinks:
 
-* [Zymurgorium Extra Io's Footsteps Sweet Violet Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-extra-ios-footsteps-sweet-violet-gin-quintessential-range-liqueur/)
+* [Zymurgorium Extra Io's Footsteps Sweet Violet Gin Liqueur](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-extra-ios-footsteps-sweet-violet-gin-quintessential-range-liqueur/)
 * [The Original Marmalade-of-Manchester Gin](https://www.masterofmalt.com/gin/the-zymurgorium/the-original-marmalade-of-manchester-gin/)
-* [Zymurgorium Quince & Jamaican Ginger Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-quince-and-jamaican-ginger-gin-liqueur-quintessential-range-liqueurs/)
+* [Zymurgorium Quince & Jamaican Ginger Gin Liqueur](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-quince-and-jamaican-ginger-gin-liqueur-quintessential-range-liqueurs/)
 * [The Original Manchester Gin](https://www.masterofmalt.com/gin/zymurgorium/the-original-manchester-gin/)
-* [Zymurgorium Strawberry & A Trio Of Mint Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-strawberry-and-a-trio-of-mint-gin-liqueur-quintessential-range/)
-* [Zymurgorium Extra Gooseberry Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-extra-gooseberry-gin-quintessential-range-liqueur/)
+* [Zymurgorium Strawberry & A Trio Of Mint Gin Liqueur](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-strawberry-and-a-trio-of-mint-gin-liqueur-quintessential-range/)
+* [Zymurgorium Extra Gooseberry Gin Liqueur](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-extra-gooseberry-gin-quintessential-range-liqueur/)
 * [The Original Manchester Absinthe](https://www.masterofmalt.com/absinthe/the-zymurgorium/the-original-manchester-absinthe/)
 * [Zymurgorium Pink Grapefruit Gin Liqueur](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-pink-grapefruit-gin/)
-* [Zymurgorium Extra Rhubarb & Cranberry Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-extra-rhubarb-and-cranberry-gin-quintessential-range-liqueur/)
+* [Zymurgorium Extra Rhubarb & Cranberry Gin Liqueur](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-extra-rhubarb-and-cranberry-gin-quintessential-range-liqueur/)
 * [The Original Manchester Vodka](https://www.masterofmalt.com/vodka/zymurgorium/the-original-manchester-vodka/)
 * [The Original Manchester Sloe Gin](https://www.masterofmalt.com/gin/zymurgorium/the-original-manchester-sloe-gin/)
 * [Zymurgorium Mandarin Dynasty Gin](https://www.masterofmalt.com/gin/the-zymurgorium/zymurgorium-mandarin-dynasty-gin-40-gin/)
 * [Zymurgorium Superior Sweet Mead](https://www.masterofmalt.com/mead/the-zymurgorium/zymurgorium-superior-sweet-mead/)
 * [Zymurgorium & Northern Monk Cahokia](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-and-northern-monk-cahokia-gin/)
-* [Zymurgorium Turkish Delight Gin Liqueur (Quintessential Range)](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-turkish-delight-gin-liqueur-quintessential-range-liqueur/)
-* [Zymurgorium Crème of Hebridean Raspberry (Cocktail Essential Range)](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-creme-of-hebridean-raspberry-liqueur/)
+* [Zymurgorium Turkish Delight Gin Liqueur](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-turkish-delight-gin-liqueur-quintessential-range-liqueur/)
+* [Zymurgorium Crème of Hebridean Raspberry](https://www.masterofmalt.com/liqueurs/zymurgorium/zymurgorium-creme-of-hebridean-raspberry-liqueur/)
 * [Zymurgorium Mandarin Dynasty Gin 42.5%](https://www.masterofmalt.com/gin/zymurgorium/zymurgorium-mandarin-dynasty-42-5-gin/)
 * [Zymurgorium & Northern Monk Infirmarian](https://www.masterofmalt.com/gin/the-zymurgorium/zymurgorium-and-northern-monk-infirmarian-gin/)
 

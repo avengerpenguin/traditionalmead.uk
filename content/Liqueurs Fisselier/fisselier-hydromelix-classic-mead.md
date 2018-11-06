@@ -1,7 +1,7 @@
 Title: Hydromelix Classic Mead (Chouchen)
 Date: 2017-04-10
 Status: published
-Tags: French Meads, Chouchen
+Tags: Chouchen
 
 ![](//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017SLEWC0&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
 

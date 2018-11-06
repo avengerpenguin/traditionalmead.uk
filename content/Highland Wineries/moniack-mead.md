@@ -45,7 +45,7 @@ to a balanced, warming mead drink.
 Our personal favourite pairing for a robust, Scottish mead is of course as a
 dessert wine with cranachan at the end of a Burns Supper!
 
-## Where to buy Moniack mead
+## Where to buy
 
-* [Amazon](https://www.amazon.co.uk/MONIACK-Moniack-Mead/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1488403900&sr=1-1-fkmr0&keywords=mead+moniak&linkCode=ll1&tag=traditionalmead-21&linkId=88e0738143c9d0f8e60765e3d9a30120)
+* [Amazon UK](https://www.amazon.co.uk/MONIACK-Moniack-Mead-750ml/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035679&sr=1-1&keywords=moniack&linkCode=ll1&tag=traditionalmead-21&linkId=aa127fbb7c626b27492faee3f2ec6a7d)
 * [Master of Malt](https://www.masterofmalt.com/mead/highland-wineries/moniack-mead/?srh=1)

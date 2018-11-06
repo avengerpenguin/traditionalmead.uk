@@ -8,7 +8,7 @@ Status: published
 
 This is a medium sweet [pure honey mead](/pure-honey-mead/) from
 Avalon Vineyard. It is the only mead they produce (if you don't count
-the [mead liqueur](/pennard-mead-liqueur/)). It is only 12% ABV and approved
+the mead liqueur. It is only 12% ABV and approved
 by the Soil Association for its adherence to organic standards.
 
 <!-- PELICAN_END_SUMMARY -->
