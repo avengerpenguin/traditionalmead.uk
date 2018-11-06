@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+/output
+*.pid
+*.iml
+/venv
