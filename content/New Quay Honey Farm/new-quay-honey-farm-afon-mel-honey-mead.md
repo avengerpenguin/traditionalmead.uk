@@ -5,7 +5,7 @@ Status: published
 
 ![](/images/afon-mel-honey.jpg)
 
-This is a so-called "Welsh honey mead" from the
+This is a "Welsh honey mead" from the
 [New Quay Honey Farm](/new-quay-honey-farm/). They produce a variety of
 flavours, but this appears to be their "pure" honey mead offering.
 
