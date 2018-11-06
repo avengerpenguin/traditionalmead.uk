@@ -6,7 +6,7 @@ Status: published
 
 ![Bottle of Friary Spiced Mead](https://cdn.shopify.com/s/files/1/0927/4856/products/Friary-Liqueurs-spiced-mead.jpg?v=1437756343)
 
-This is [metheglin (or spiced mead)](/metheglin-spiced-mead/) from
+This is a [metheglin (or spiced mead)](/metheglin-spiced-mead/) from
 Friary Liqueurs. There is no indication on the bottle as to which
 spices they are and their website just says "selected spices", so I
 guess the mystery is half the fun!
