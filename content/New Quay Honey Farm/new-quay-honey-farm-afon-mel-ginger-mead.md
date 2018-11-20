@@ -2,8 +2,9 @@ Title: Afon Mêl Ginger Mead
 Date: 2017-04-24
 Tags: Welsh Meads, Metheglin (Spiced Mead)
 Status: published
+Rating: 5
 
-![](/images/afon-mel-ginger.jpg)
+![](/images/afon-mel-ginger.png)
 
 A [metheglin (or spiced mead)](/metheglin-spiced-mead/)
 from [New Quay Honey Farm](/new-quay-honey-farm/) flavoured with ginger with

@@ -1,6 +1,7 @@
 Title: Afon Mêl Heather Mead
 Date: 2017-04-24
 Tags: Welsh Meads, Pure Honey Mead
+Rating: 5
 
 ![](/images/afon-mel-heather.jpg)
 
