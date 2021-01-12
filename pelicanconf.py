@@ -95,11 +95,12 @@ SITEMAP = {
 
 TYPOGRIFY = True
 
-STATIC_PATHS = ['images', 'extra/robots.txt', 'icon' ]
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/ads.txt', 'icon']
 EXTRA_PATH_METADATA = {
     'images': {'path': 'images'},
     'icon/favicon.ico': {'path': 'favicon.ico'},
     'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/ads.txt': {'path': 'ads.txt'},
 }
 
 SHOW_STATS = True
