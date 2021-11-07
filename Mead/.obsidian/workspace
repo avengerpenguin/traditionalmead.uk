@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/_home.md",
+            "file": "_categories/Pyment.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/_home.md",
+                "file": "_categories/Pyment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/_home.md",
+                "file": "_categories/Pyment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,11 +110,11 @@
   },
   "active": "390c6d10d67fc23a",
   "lastOpenFiles": [
+    "_categories/Pyment.md",
     "_pages/_home.md",
     "_categories/Treacle.md",
     "_categories/Welsh Meads.md",
     "_categories/Wildflower Honey.md",
-    "_categories/Pyment.md",
     "_categories/Sparkling.md",
     "_categories/Scottish Meads.md",
     "_categories/Pure Honey Mead.md",
