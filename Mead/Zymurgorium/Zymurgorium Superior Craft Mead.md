@@ -1,9 +1,7 @@
-Title: Zymurgorium Superior Craft Mead
-Date: 2017-04-29
-Tags: English Meads, Pure Honey Mead
+Tags: [[English Meads]], [[Pure Honey Mead]], [[Craft Mead]]
 
 
-The highlight for me with all [Zymugorium](/zymurgorium/) meads is the rather unique descriptions on the back of the bottles. The description for their pure honey "craft" mead is no different.
+The highlight for me with all [[Zymurgorium]] meads is the rather unique descriptions on the back of the bottles. The description for their pure honey "craft" mead is no different.
 
 In their own words:
 
@@ -13,7 +11,7 @@ In their own words:
 
 ## Appearance
 
-Clearer than than most meads -- closer to an off-dry white wine in terms of colour. The drink is sparkling, but the fizz is very subtle.
+Clearer than than most meads -- closer to an off-dry white wine in terms of colour. The drink is [[sparkling]], but the fizz is very subtle.
 
 ## Nose
 

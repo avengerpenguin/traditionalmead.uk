@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+            "file": "_categories/Mead Liqueurs.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+                "file": "_categories/Mead Liqueurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -96,14 +96,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+                "file": "_categories/Mead Liqueurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,15 +110,15 @@
   },
   "active": "390c6d10d67fc23a",
   "lastOpenFiles": [
-    "Zymurgorium/Zymurgorium Superior Craft Mead.md",
-    "_categories/Scottish Meads.md",
-    "_categories/Pure Honey Mead.md",
     "_categories/Mead Liqueurs.md",
-    "_categories/Capsicumel (Chilli Mead).md",
-    "New Quay Honey Farm/New Quay Honey Farm.md",
-    "_categories/Sparkling.md",
-    "_categories/Wildflower Honey.md",
-    "_categories/Welsh Meads.md",
-    "Zymurgorium/Zymurgorium Cyser Craft Cider.md"
+    "_categories/Italian Meads.md",
+    "_categories/English Meads.md",
+    "_categories/Dry Meads.md",
+    "Friary Liqueurs/Friary Traditional Mead.md",
+    "_categories/Craft Mead.md",
+    "_categories/Cyser.md",
+    "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+    "_categories/Christmas Meads.md",
+    "Lyme Bay/Lyme Bay Christmas Mead.md"
   ]
 }
