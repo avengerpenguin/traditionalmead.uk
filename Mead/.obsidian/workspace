@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_categories/Metheglin (Spiced Mead).md",
+            "file": "_categories/Treacle.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_categories/Metheglin (Spiced Mead).md",
+                "file": "_categories/Treacle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +96,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_categories/Metheglin (Spiced Mead).md",
+                "file": "_categories/Treacle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,15 +110,15 @@
   },
   "active": "390c6d10d67fc23a",
   "lastOpenFiles": [
+    "_categories/Treacle.md",
+    "_categories/Welsh Meads.md",
+    "_categories/Wildflower Honey.md",
+    "_categories/Pyment.md",
+    "_categories/Sparkling.md",
+    "_categories/Scottish Meads.md",
+    "_categories/Pure Honey Mead.md",
     "_categories/Metheglin (Spiced Mead).md",
     "_categories/Melomel (Fruit-flavoured Mead).md",
-    "_categories/Mead Liqueurs.md",
-    "_categories/Italian Meads.md",
-    "_categories/English Meads.md",
-    "_categories/Dry Meads.md",
-    "Friary Liqueurs/Friary Traditional Mead.md",
-    "_categories/Craft Mead.md",
-    "_categories/Cyser.md",
-    "Zymurgorium/Zymurgorium Superior Craft Mead.md"
+    "_categories/Mead Liqueurs.md"
   ]
 }
