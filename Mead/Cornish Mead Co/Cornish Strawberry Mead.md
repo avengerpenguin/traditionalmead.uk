@@ -1,10 +1,8 @@
-Tags: [[English Meads]], [[Pyment]], Melomel
+Tags: [[English Meads]], [[Pyment]], [[Melomel (Fruit-flavoured Mead)]]
 
 ![](https://www.cornishmead.co.uk/wp-content/uploads/2014/05/Strawberry-Cornish-Mead-Wine.png)
 
-A strawberry-flavoured [pyment](/pyment/)
-(does it count as a [melomel](/melomel/)?)
-from [Cornish Mead Co](/cornish-mead-co/).
+A strawberry-flavoured [[Pyment]] or [[Melomel (Fruit-flavoured Mead)]] from [[Cornish Mead Co]].
 
 This range of drinks is sold in 25cl and 75cl bottles, so we bought a few gift packs of the smaller ones to give each one a try! Their range of [[Pyment]]/melomel drinks seem to be all made from the same grape base.
 

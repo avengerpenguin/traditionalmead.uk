@@ -28,4 +28,4 @@ There is a definite apple and scrumpy-style cider taste, but it is mellowed and 
 
 ## Where to buy
 
-* [Zymurgorium Website](http://zymurgorium.com/product/cyser-cider-mead-uk-honey-cider/)
+Seems to be no longer available.

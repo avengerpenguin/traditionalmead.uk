@@ -5,11 +5,11 @@ Rating: 4
 
 "A creation of the gods!", say [[Zymurgorium]]. This brew certainly grabs the attention with promises of "White Creamy Mexican Honey, Cocoa-Nibs, Vanilla, Phoenix & El Dorado Hops And A Wee Pinch Of Deseeded Mild Ancho Chillies".
 
-Ah-Muzen-Cab or Ah Mucen Cab is apparently a Mayan god of bees and honey, so [[Zymurgorium]] were motivated to dedicate a craft mead based on flavours familiar to his worshippers.
+Ah-Muzen-Cab or Ah Mucen Cab is apparently a Mayan god of bees and honey, so [[Zymurgorium]] were motivated to dedicate a [[craft mead]] based on flavours familiar to his worshippers.
 
 The ingredient list boasts an impressive:
 
-* White Mexican honey & wildflower honey fermented.
+* White Mexican honey & [[wildflower honey]] fermented.
 * Hopped with Phoenix and El Dorado hops.
 * Also flavoured with cocoa nibs, vanilla and ancho chillies.
 
@@ -29,4 +29,4 @@ This is perhaps a medium sweet. The honey sweetness is still present, but not as
 
 ## Where to buy
 
-* [Zymurgorium Website](http://zymurgorium.com/product/ah-mucen-cab-mead-uk/)
+Seems to be no longer available.

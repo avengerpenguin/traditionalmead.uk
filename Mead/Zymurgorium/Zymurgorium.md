@@ -26,3 +26,9 @@ In addition to mead, they make a substantial number of other drinks:
 * [Zymurgorium & Northern Monk Infirmarian](https://www.masterofmalt.com/gin/the-zymurgorium/zymurgorium-and-northern-monk-infirmarian-gin/)
 
 So, Manchester’s "first and presently only craft distillery" is worth a try as the meads they produce are very interesting in character and they explore flavours you don't tend to find in other meads.
+
+Meads we have found:
+
+- [[Zymurgorium Superior Craft Mead]]
+- [[Zymurgorium Cyser Craft Cider]]
+- [[Ah Mucen Cab Chilli Craft Mead]]
