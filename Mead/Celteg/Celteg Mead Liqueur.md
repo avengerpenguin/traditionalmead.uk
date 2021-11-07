@@ -23,5 +23,5 @@ The taste is very similar to their [[Celteg Medieval Mead|Medieval Mead]] with t
 
 ## Where to buy
 
-* [Single Bottle (Amazon UK)](https://www.amazon.co.uk/Traditional-Mead-Liqueur-hand-Wales/dp/B07H4R3MK1/ref=as_li_ss_tl?ie=UTF8&qid=1545516972&sr=8-7&keywords=mead+liqueur&th=1&linkCode=ll1&tag=traditionalmead-21&linkId=b00f90e403a26e675c8923f8ae8f7034&language=en_GB)
-* [Christmas gift set with sparkling mead and Medieval mead (Amazon UK)](https://www.amazon.co.uk/Mead-Christmas-Gift-Set-Made/dp/B07H36J7V8/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1542751372&sr=1-1&keywords=Celteg&linkCode=ll1&tag=traditionalmead-21&linkId=73506c9d169ca147cdca4b3355d221a2&language=en_GB)
+* [50cl Single Bottle (Amazon UK)](https://amzn.to/3n0lBu9)
+* [25cl Single Bottle (Amazon UK)](https://amzn.to/3qeblQG)

@@ -7,11 +7,8 @@
         "id": "390c6d10d67fc23a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_categories/Pyment.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_categories/Pyment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,13 +92,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_categories/Pyment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -110,15 +106,15 @@
   },
   "active": "390c6d10d67fc23a",
   "lastOpenFiles": [
-    "_categories/Pyment.md",
+    "extra/CNAME.md",
+    "Celteg/Celteg Mead Liqueur.md",
+    "_pages/Types of Mead.md",
     "_pages/_home.md",
+    "_pages/Producers.md",
+    "_categories/Pyment.md",
     "_categories/Treacle.md",
     "_categories/Welsh Meads.md",
     "_categories/Wildflower Honey.md",
-    "_categories/Sparkling.md",
-    "_categories/Scottish Meads.md",
-    "_categories/Pure Honey Mead.md",
-    "_categories/Metheglin (Spiced Mead).md",
-    "_categories/Melomel (Fruit-flavoured Mead).md"
+    "_categories/Sparkling.md"
   ]
 }
