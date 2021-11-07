@@ -1,0 +1,4 @@
+.titlebar-text:before, .titlebar-text:after {
+    content: '🍯 ';
+}
+

@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "e69bb73be445dd22",
+    "type": "split",
+    "children": [
+      {
+        "id": "390c6d10d67fc23a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147ccf6bc03e1b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c49ff63c25d5e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8118062b89f8bf77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "027b57e97c661cc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "planb",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419
+  },
+  "right": {
+    "id": "0c3a965874f629d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f535611435ad7a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f8dc5ba0e31bab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d62bfa4843e672f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f58a0939990eadba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "390c6d10d67fc23a",
+  "lastOpenFiles": [
+    "Zymurgorium/Zymurgorium Superior Craft Mead.md",
+    "_categories/Scottish Meads.md",
+    "_categories/Pure Honey Mead.md",
+    "_categories/Mead Liqueurs.md",
+    "_categories/Capsicumel (Chilli Mead).md",
+    "New Quay Honey Farm/New Quay Honey Farm.md",
+    "_categories/Sparkling.md",
+    "_categories/Wildflower Honey.md",
+    "_categories/Welsh Meads.md",
+    "Zymurgorium/Zymurgorium Cyser Craft Cider.md"
+  ]
+}
