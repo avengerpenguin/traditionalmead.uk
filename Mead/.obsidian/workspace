@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
-            "mode": "source"
+            "file": "_pages/_home.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+                "file": "_pages/_home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+                "file": "_pages/_home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,6 +111,7 @@
   },
   "active": "390c6d10d67fc23a",
   "lastOpenFiles": [
+    "_pages/_home.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
     "Zymurgorium/Zymurgorium.md",
     "Zymurgorium/Ah Mucen Cab Chilli Craft Mead.md",
@@ -119,7 +120,6 @@
     "Celteg/Celteg Medieval Mead.md",
     "Cornish Mead Co/Heligan Blackberry Mead.md",
     "Cornish Mead Co/Cornish Mead Wine.md",
-    "Cornish Mead Co/Cornish Mead Liqueur.md",
-    "Cornish Mead Co/Cornish Mead Co.md"
+    "Cornish Mead Co/Cornish Mead Liqueur.md"
   ]
 }
