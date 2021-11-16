@@ -34,5 +34,5 @@ One thing we tried to mute the floral intensity is to mix this pink mead with an
 ## Where to buy
 
 * [Amazon UK](https://www.amazon.co.uk/Lindisfarne-Pink-Mead-70cl/dp/B077CP6LYH/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035781&sr=1-6&keywords=lindisfarne&linkCode=ll1&tag=traditionalmead-21&linkId=de0c368c860a7154f65624bc2392483c)
-* [Master of Malt](https://www.masterofmalt.com/mead/lindisfarne/lindisfarne-pink-mead/?srh=1)
+* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flindisfarne%2flindisfarne-pink-mead%2f%3fsrh%3d1)
 * [DrinkSupermarket](https://www.awin1.com/cread.php?awinmid=3574&awinaffid=333769&ued=https%3A%2F%2Fwww.drinksupermarket.com%2Flindisfarne-pink-mead-70cl)

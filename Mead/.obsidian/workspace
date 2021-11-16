@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Highland Wineries/Moniack Mead.md",
+            "file": "Chalice Orange Mead.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Highland Wineries/Moniack Mead.md",
+                "file": "Chalice Orange Mead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Highland Wineries/Moniack Mead.md",
+                "file": "Chalice Orange Mead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,15 +111,15 @@
   },
   "active": "35c3c31bda9b7f42",
   "lastOpenFiles": [
-    "Highland Wineries/Moniack Mead.md",
-    "Lyme Bay/Lyme Bay Traditional Mead.md",
-    "Lindisfarne/Lindisfarne 793 Mead.md",
-    "Lindisfarne/Lindisfarne Dark Mead.md",
-    "Lindisfarne/Lindisfarne.md",
-    "Lindisfarne Blod Mead.md",
-    "Harvest Gold Mead.md",
-    "Lindisfarne/Lindisfarne Spiced Mead.md",
-    "Lindisfarne/Lindisfarne Pink Mead.md",
-    "Lindisfarne/Lindisfarne Mead.md"
+    "Chalice Orange Mead.md",
+    "Chalice Mead.md",
+    "Chalice Elderflower Mead.md",
+    "Clalice Bluberry Mead.md",
+    "Chalice Sloe Berry Mead.md",
+    "Chalice Caramel Mead.md",
+    "Chalice Hawthorn Mead.md",
+    "Chalice Blackberry Mead.md",
+    "Chalice Rhubarb Mead.md",
+    "Chalice Traditional Mead.md"
   ]
 }

@@ -25,4 +25,4 @@ pronounced nor specific. The finish is sweet, perhaps sweeter than the original 
 ## Where to buy
 
 * [Amazon UK](https://www.amazon.co.uk/Lindisfarne-Dark-Mead-70cl/dp/B01NH2U9O0/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035781&sr=1-3&keywords=lindisfarne&linkCode=ll1&tag=traditionalmead-21&linkId=482a17cf1891cb6a945783b339147958)
-* [Master of Malt](https://www.masterofmalt.com/mead/lindisfarne/lindisfarne-dark-mead/)
+* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flindisfarne%2flindisfarne-dark-mead%2f%3fsrh%3d1)
