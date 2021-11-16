@@ -30,4 +30,4 @@ Our personal favourite pairing for a robust, Scottish mead is of course as a des
 ## Where to buy
 
 * [Amazon UK](https://www.amazon.co.uk/MONIACK-Moniack-Mead-750ml/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035679&sr=1-1&keywords=moniack&linkCode=ll1&tag=traditionalmead-21&linkId=aa127fbb7c626b27492faee3f2ec6a7d)
-* [Master of Malt](https://www.masterofmalt.com/mead/highland-wineries/moniack-mead/?srh=1)
+* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2fhighland-wineries%2fmoniack-mead%2f%3fsrh%3d1)

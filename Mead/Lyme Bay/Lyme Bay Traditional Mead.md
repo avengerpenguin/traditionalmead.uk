@@ -37,4 +37,6 @@ sweetness.
 ## Where to buy
 
 * [Single bottle (Amazon UK)](https://amzn.to/2ZXUI0E)
+* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flyme-bay-winery%2ftraditional-mead-lyme-bay-winery-mead%2f%3fsrh%3d1)
 * [English Heritage](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=5926&p=http%3A%2F%2Fwww.english-heritageshop.org.uk%2Ffood-drink%2Fenglish-heritage-traditional-mead) (Branded as "English Heritage Traditional Mead")
+
