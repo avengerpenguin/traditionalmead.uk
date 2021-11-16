@@ -1,6 +1,8 @@
 Mead producers we have tried so far:
 
 - [[Liqueurs Fisselier]]
+- [[Chalice Mead]]
+- [[Wye Valley Meadery]]
 - [[Lyme Bay Winery]]
 - [[Cornish Mead Co]]
 - [[New Quay Honey Farm]]
