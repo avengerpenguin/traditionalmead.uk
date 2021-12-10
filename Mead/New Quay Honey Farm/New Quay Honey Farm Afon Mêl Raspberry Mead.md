@@ -2,7 +2,7 @@ Title: Afon Mêl Raspberry Mead
 Tags: [[Welsh Meads]], [[Melomel (Fruit-flavoured Mead)]]
 Rating: 5
 
-![Picture of Afon Mêl Raspberry Mead](http://www.thehoneyfarm.co.uk/cms/catalog/21_0.jpg)
+![Picture of Afon Mêl Raspberry Mead](https://www.thehoneyfarm.co.uk/cms/catalog/21_0.jpg)
 
 This is the raspberry offering from the [[New Quay Honey Farm]]. This makes it a [[Melomel (Fruit-flavoured Mead)|melomel]] rather than a pure honey mead.
 

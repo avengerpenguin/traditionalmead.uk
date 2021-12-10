@@ -1,7 +1,7 @@
 Tags: [[English Meads]], [[Capsicumel (Chilli Mead)]], [[Craft Mead]], [[Metheglin (Spiced Mead)]]
 Rating: 4
 
-![](http://zymurgorium.com/wp-content/uploads/2015/02/Ah-mucen-cab-cut-out-min.png)
+![](https://zymurgorium.com/wp-content/uploads/2015/02/Ah-mucen-cab-cut-out-min.png)
 
 "A creation of the gods!", say [[Zymurgorium]]. This brew certainly grabs the attention with promises of "White Creamy Mexican Honey, Cocoa-Nibs, Vanilla, Phoenix & El Dorado Hops And A Wee Pinch Of Deseeded Mild Ancho Chillies".
 

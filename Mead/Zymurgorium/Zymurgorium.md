@@ -1,4 +1,4 @@
-![](http://zymurgorium.com/wp-content/uploads/2014/10/invert-logo-with-white-zymurgorium-min-300x189.png)
+![](https://zymurgorium.com/wp-content/uploads/2014/10/invert-logo-with-white-zymurgorium-min-300x189.png)
 
 Zymurgorium is a meadery, gin distilery based in Greater Manchester. It was founded by Aaron Darke, who calls himself "Zymurgorium Proprietor and Big Cheese". He claims to have got the idea after
 brewing a lot for people at university and that he forages for his ingredients himself.

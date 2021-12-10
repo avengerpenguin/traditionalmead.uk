@@ -2,7 +2,7 @@ Title: Afon Mêl Blackberry Mead
 Tags: [[Welsh Meads]], [[Melomel (Fruit-flavoured Mead)]]
 Rating: 5
 
-![Picture of Afon Mêl Blackberry Mead](http://www.thehoneyfarm.co.uk/cms/catalog/21_0.jpg)
+![Picture of Afon Mêl Blackberry Mead](https://www.thehoneyfarm.co.uk/cms/catalog/21_0.jpg)
 
 Another [melomel](/melomel-fruit-flavoured-mead/)
 from [New Quay Honey Farm](/new-quay-honey-farm/) and this time with

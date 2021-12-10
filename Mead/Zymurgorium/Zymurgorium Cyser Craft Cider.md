@@ -2,7 +2,7 @@ Title: Zymurgorium Cyser Craft Cider (Honey Cider)
 Tags: [[English Meads]], [[Cyser]], [[Craft Mead]]
 Rating: 3
 
-![](http://zymurgorium.com/wp-content/uploads/2016/02/Picture8-min.png)
+![](https://zymurgorium.com/wp-content/uploads/2016/02/Picture8-min.png)
 
 I was greeted with a virtual geyser of fizz on opening this one. Whether warm or chilled, this is a lively [[Cyser]] (honey cider or mead with apples). This comes from the Manchester-based [[Zymurgorium]] "craft" meadery, distillery, brewery and cidery.
 

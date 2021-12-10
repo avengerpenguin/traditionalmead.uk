@@ -1,7 +1,7 @@
 Title: Pennard Organic Mead Liqueur
 Tags: [[English Meads]], [[Mead Liqueurs]]
 
-![](http://avalonvineyard.co.uk/avalonasp/images/meadliqueur_sm.JPG)
+![](https://avalonvineyard.co.uk/avalonasp/images/meadliqueur_sm.JPG)
 
 A [[Mead Liqueurs|mead liqueur]] from [[Avalon Vineyard]].
 

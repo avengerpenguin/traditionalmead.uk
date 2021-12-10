@@ -2,7 +2,7 @@ Title: Pennard Organic Pure Honey Mead
 Tags: [[English Meads]], [[Pure Honey Mead]]
 Rating: 3
 
-![](http://avalonvineyard.co.uk/avalonasp/images/mead_sm.jpg)
+![](https://avalonvineyard.co.uk/avalonasp/images/mead_sm.jpg)
 
 This is a medium-sweet [[Pure Honey Mead]] from
 [[Avalon Vineyard]]. It is the only mead they produce (if you don't count the mead liqueur. It is only 12% ABV and approved by the Soil Association for its adherence to organic standards.
