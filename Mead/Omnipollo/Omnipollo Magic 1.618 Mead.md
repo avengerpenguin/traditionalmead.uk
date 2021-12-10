@@ -1,7 +1,7 @@
 Tags: [[Sparkling]],  [[Melomel (Fruit-flavoured Mead)]]
 Rating: 4
 
-1[](https://www.beerhawk.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/m/omnipollo_mead_7350064990452.jpg)
+![](https://www.beerhawk.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/m/omnipollo_mead_7350064990452.jpg)
 
 I was convinced to try this "1.618 Mead" (1.618 is the Golden Ratio) from Ominpollo on the basis it was akin to a "Champagne" of meads. I think it is a delightful drink as pre-dinner aperitif in place of Prosecco or Champagne.
 

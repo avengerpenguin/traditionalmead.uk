@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+            "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+                "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+                "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,6 +112,7 @@
   },
   "active": "35c3c31bda9b7f42",
   "lastOpenFiles": [
+    "Omnipollo/Omnipollo Magic 1.618 Mead.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
     "Avalon Vineyard/Pennard Mead Liqueur.md",
     "Zymurgorium/Zymurgorium.md",
@@ -120,7 +121,6 @@
     "New Quay Honey Farm/New Quay Honey Farm Afon Mêl Ginger Mead.md",
     "New Quay Honey Farm/New Quay Honey Farm Afon Mêl Blackberry Mead.md",
     "Lindisfarne/Lindisfarne Mead.md",
-    "Avalon Vineyard/Avalon Vineyard.md",
-    "Zymurgorium/Ah Mucen Cab Chilli Craft Mead.md"
+    "Avalon Vineyard/Avalon Vineyard.md"
   ]
 }
