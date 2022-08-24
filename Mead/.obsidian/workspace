@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "35c3c31bda9b7f42",
+        "id": "266e6753e419a9e2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnipollo/Omnipollo Magic 1.618 Mead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +104,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "35c3c31bda9b7f42",
+  "active": "266e6753e419a9e2",
   "lastOpenFiles": [
     "Omnipollo/Omnipollo Magic 1.618 Mead.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
