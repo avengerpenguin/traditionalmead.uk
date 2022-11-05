@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "e69bb73be445dd22",
+    "type": "split",
+    "children": [
+      {
+        "id": "263dcbabab51b16c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "266e6753e419a9e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d946afb425eea3b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147ccf6bc03e1b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c49ff63c25d5e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8118062b89f8bf77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "027b57e97c661cc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "http://",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419
+  },
+  "right": {
+    "id": "0c3a965874f629d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f535611435ad7a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94f8dc5ba0e31bab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5d62bfa4843e672f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f58a0939990eadba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d946afb425eea3b7",
+  "lastOpenFiles": [
+    "Omnipollo/Omnipollo Magic 1.618 Mead.md",
+    "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
+    "Avalon Vineyard/Pennard Mead Liqueur.md",
+    "Zymurgorium/Zymurgorium.md",
+    "Avalon Vineyard/Pennard Pure Honey Mead.md",
+    "New Quay Honey Farm/New Quay Honey Farm Afon Mêl Raspberry Mead.md",
+    "New Quay Honey Farm/New Quay Honey Farm Afon Mêl Ginger Mead.md",
+    "New Quay Honey Farm/New Quay Honey Farm Afon Mêl Blackberry Mead.md",
+    "Lindisfarne/Lindisfarne Mead.md",
+    "Avalon Vineyard/Avalon Vineyard.md"
+  ]
+}

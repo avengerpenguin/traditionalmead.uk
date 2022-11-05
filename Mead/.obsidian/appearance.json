@@ -4,5 +4,6 @@
   "cssTheme": "Wasp",
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "accentColor": ""
 }
