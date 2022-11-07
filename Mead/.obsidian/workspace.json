@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "d946afb425eea3b7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +112,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d946afb425eea3b7",
+  "active": "266e6753e419a9e2",
   "lastOpenFiles": [
     "Omnipollo/Omnipollo Magic 1.618 Mead.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
