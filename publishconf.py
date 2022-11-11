@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://traditionalmead.uk'
+SITEURL = 'https://traditionalmead.uk'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -23,9 +23,6 @@ DELETE_OUTPUT_DIRECTORY = True
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
-DEFAULT_METADATA = {
-    'status': 'draft',
-}
 
 #GOOGLE_ANALYTICS_ID = 'UA-80839950-4'
 DISQUS_SITE = 'traditionalmead'

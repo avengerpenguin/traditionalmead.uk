@@ -76,7 +76,7 @@ from voltaire.pelican import *
 
 SITENAME = u'Traditional Mead UK'
 AUTHOR = u'Ross Fenning'
-STATIC_PATHS += ['extra/robots.txt', 'extra/ads.txt', 'icon', 'images', "extra/CNAME"]
+STATIC_PATHS += ['icon', 'images']
 FILENAME_METADATA = '(?P<title>.*)'
 
 
@@ -90,11 +90,10 @@ TEMPLATE_PAGES = {
     'search.html': 'search/index.html',
 }
 
-# EXTRA_PATH_METADATA = {
-#     'icon/favicon.ico': {'path': 'favicon.ico'},
-#     'extra/robots.txt': {'path': 'robots.txt'},
-#     'extra/ads.txt': {'path': 'ads.txt'},
-# }
+STATIC_PATHS += ['extra/images', 'extra/icons', 'extra/ads.txt']
+EXTRA_PATH_METADATA = {
+    'extra/ads.txt': {'path': 'ads.txt'},
+}
 #
 # EXTRA_PATH_METADATA = {
 #     "extra/CNAME": {"path": "CNAME"},
