@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "263dcbabab51b16c",
+        "id": "509c12e4dbd5c7ea",
         "type": "tabs",
         "children": [
           {
-            "id": "266e6753e419a9e2",
+            "id": "7265e743749811ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -112,7 +112,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "266e6753e419a9e2",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7265e743749811ce",
   "lastOpenFiles": [
     "Omnipollo/Omnipollo Magic 1.618 Mead.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
