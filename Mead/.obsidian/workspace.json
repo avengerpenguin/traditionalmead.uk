@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "fb5c28f175495b8f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,6 +62,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "dd16fe15196894cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -121,7 +140,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7265e743749811ce",
+  "active": "fb5c28f175495b8f",
   "lastOpenFiles": [
     "Omnipollo/Omnipollo Magic 1.618 Mead.md",
     "Zymurgorium/Zymurgorium Cyser Craft Cider.md",
