@@ -74,6 +74,7 @@ We reserve the right to update or modify this Privacy Policy from time to time. 
 
 9. Contact Us
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the processing of your personal information, please contact us at [Contact Email Address].
+If you have any questions, concerns, or requests regarding this Privacy Policy or the processing of your personal information, please contact us at privacy@functionalprogramming.co.uk.
 
-Last Updated: [Date]
+Last Updated: 2023-06-13
+
