@@ -16,16 +16,6 @@
             }
           },
           {
-            "id": "fb5c28f175495b8f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
             "id": "234b9a10273d3e2d",
             "type": "leaf",
             "state": {
@@ -38,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
