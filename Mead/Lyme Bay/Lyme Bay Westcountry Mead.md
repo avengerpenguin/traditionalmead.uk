@@ -14,7 +14,7 @@ This is one of three spiced offerings from Lyme Bay. See also their
 ## Colour
 
 A light orange-brown colour that appears like most of the darker meads
-such as [Lyme Bay's traditional mead](/lyme-bay-traditional), but
+such as [Lyme Bay's traditional mead](/lyme-bay-traditional-mead/), but
 somewhat on the lighter side of that category.
 
 ## Nose
@@ -27,7 +27,7 @@ spice in the aroma. There are notes of heather among the honey flavours.
 There is a definite spice on the initial taste that is drawn out to
 the finish. The main body of the taste brings in small amounts of the
 sweet, caramel flavour typical of
-[Lyme Bay's traditional mead](/lyme-bay-traditional). Overall the
+[Lyme Bay's traditional mead](/lyme-bay-traditional-mead/). Overall the
 balance between sweetness and spice is well constructed, complex and
 pairs wonderfully with Welsh cakes!
 

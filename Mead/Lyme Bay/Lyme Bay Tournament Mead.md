@@ -21,7 +21,7 @@ start just before the ginger kicks in.
 
 ## Taste
 
-The taste is not far off the [traditional mead](/lyme-bay-traditional)
+The taste is not far off the [traditional mead](/lyme-bay-traditional-mead/)
 in terms of body and sweetness, but the ginger quickly takes over and
 is a dominating flavour.
 
