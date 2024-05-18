@@ -22,4 +22,4 @@ The first sip is immediately a mix of medium sweet honey with a tartness coming 
 
 ## Where to buy
 
-* [Cornish Mead Co](https://www.cornishmead.co.uk/product/heligan-blackberry-mead/)
+- [Cornish Mead Co](https://www.cornishmead.co.uk/product/heligan-blackberry-mead/)

@@ -9,9 +9,9 @@ Ah-Muzen-Cab or Ah Mucen Cab is apparently a Mayan god of bees and honey, so [[Z
 
 The ingredient list boasts an impressive:
 
-* White Mexican honey & [[wildflower honey]] fermented.
-* Hopped with Phoenix and El Dorado hops.
-* Also flavoured with cocoa nibs, vanilla and ancho chillies.
+- White Mexican honey & [[wildflower honey]] fermented.
+- Hopped with Phoenix and El Dorado hops.
+- Also flavoured with cocoa nibs, vanilla and ancho chillies.
 
 ## Appearance
 

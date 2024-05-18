@@ -36,6 +36,6 @@ a light, (relatively) low alcohol style.
 
 ## Where to buy
 
-* [Single bottle (Amazon UK)](https://amzn.to/3oaooAb)
-* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flyme-bay-winery%2fchristmas-mead-lyme-bay-winery-mead%2f%3fsrh%3d1)
-* [Branded for English Heritage](https://www.awin1.com/cread.php?awinmid=5926&awinaffid=333769&ued=https%3A%2F%2Fwww.english-heritageshop.org.uk%2Fchristmas-mead-75cl)
+- [Single bottle (Amazon UK)](https://amzn.to/3oaooAb)
+- [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flyme-bay-winery%2fchristmas-mead-lyme-bay-winery-mead%2f%3fsrh%3d1)
+- [Branded for English Heritage](https://www.awin1.com/cread.php?awinmid=5926&awinaffid=333769&ued=https%3A%2F%2Fwww.english-heritageshop.org.uk%2Fchristmas-mead-75cl)

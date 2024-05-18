@@ -23,5 +23,5 @@ The taste is very similar to their [[Celteg Medieval Mead|Medieval Mead]] with t
 
 ## Where to buy
 
-* [50cl Single Bottle (Amazon UK)](https://amzn.to/3n0lBu9)
-* [25cl Single Bottle (Amazon UK)](https://amzn.to/3qeblQG)
+- [50cl Single Bottle (Amazon UK)](https://amzn.to/3n0lBu9)
+- [25cl Single Bottle (Amazon UK)](https://amzn.to/3qeblQG)

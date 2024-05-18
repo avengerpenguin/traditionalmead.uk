@@ -35,4 +35,4 @@ the bolder fruit flavours.
 
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=21)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=21)

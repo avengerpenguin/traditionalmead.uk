@@ -4,7 +4,7 @@ In a traditional mead recipe, it is common to ferment until fermentation stops n
 
 The prolific Scottish producer, [[The Rookery]], makes mead under the "craft mead" label as well, but their offerings are higher than wine strength even. In this case, it appears they are referring to the small-batch, hand-made approach to their mead production.
 
-These "craft" meads represent a very modern revival of mead. While there is  also a rise in producers making traditional meads, melomels and metheglins, the craft producers are bringing some unusual twists and eccentric creativity in some cases.
+These "craft" meads represent a very modern revival of mead. While there is also a rise in producers making traditional meads, melomels and metheglins, the craft producers are bringing some unusual twists and eccentric creativity in some cases.
 
 We only have to look at anything made by [[Zymurgorium]] to see the embodiment of the craft movement out of Greater Manchester in the form of mead, gins and liqueurs. Their meads -- as it the case with [[Gosnells]] -- are all made to beer strength and sold in 300ml
 bottles. In fact, in many cases their labels would blend in with a fridge full of craft beers.

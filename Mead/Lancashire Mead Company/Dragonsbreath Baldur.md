@@ -15,7 +15,6 @@ A dry mead is an interesting experience as the dryness is arguably bringing out 
 This mead appears to be pure honey with nothing else added, which is quite simple for a meadery that has a wide range of interesting ingredients (orange, tea, molasses, [[Treacle]] -- see others by
 [[The Lancashire Mead Company]].
 
-
 ## Appearance
 
 The colour is a deep honey colour -- somewhere between yellow and orange. A lot of meads come out much lighter than this. A medium-dark appearance hints at a deeper flavour, perhaps.
@@ -27,4 +26,3 @@ The aroma is remarkably floral, with slight medicinal qualities on first opening
 ## Taste
 
 The taste is definitely dry as promised by the label. There is a medium body of wildflower flavour on the initial sip and it leads into a very long, dry finish that lingers for some time.
-

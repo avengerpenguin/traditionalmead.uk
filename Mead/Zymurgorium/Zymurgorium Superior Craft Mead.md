@@ -1,6 +1,5 @@
 Tags: [[English Meads]], [[Pure Honey Mead]], [[Craft Mead]]
 
-
 The highlight for me with all [[Zymurgorium]] meads is the rather unique descriptions on the back of the bottles. The description for their pure honey "craft" mead is no different.
 
 In their own words:

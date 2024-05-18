@@ -1,6 +1,6 @@
 title: Find, buy and make mead in the UK
 save_as: index.html
-url: 
+url:
 status: published
 
 ![Glass of mead](/images/glass-small.jpg)
@@ -18,18 +18,17 @@ Mead is an ancient, alcoholic drink dating back as far as 7000 BCE in China. It 
 If you are yet to try mead (you're missing out!), you might want to
 read up some of our introductory pages on the drink:
 
-* [[What Is Mead?]]
-* [[History of Mead]]
-* [[Types of Mead]]
+- [[What Is Mead?]]
+- [[History of Mead]]
+- [[Types of Mead]]
 
 ## Mead reviews and how to buy
 
 You can view all our [[Producers]] or browse our listings and tasting notes by country:
 
-* [[English Meads]]
-* [[Scottish Meads]]
-* [[Welsh Meads]]
-
+- [[English Meads]]
+- [[Scottish Meads]]
+- [[Welsh Meads]]
 
 ## Making Mead
 

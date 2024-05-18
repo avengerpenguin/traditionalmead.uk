@@ -31,4 +31,4 @@ tempting to try pairing these more luxurious meads with cheeses.
 
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)

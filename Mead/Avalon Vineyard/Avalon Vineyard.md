@@ -7,4 +7,3 @@ They follow "organic principles" in everything they make, whether it is cider, f
 Their farm shop is open to visitors where you can have free tastes of their products or even get guided tours. Everything they sell is also available for sale on [their website](http://www.pennardorganicwines.co.uk/shop.asp).
 
 In terms of mead, they appear to have just two products: an organic [[Pure Honey Mead]] and an organic mead liqueur. With all the apples and other fruits, I can't help wonder if they are missing out not experimenting with cysers, [[Melomel (Fruit-flavoured Mead)|melomels]] and [[Pyment|pyments]].
-

@@ -42,4 +42,4 @@ chilling as a dessert wine with rich desserts.
 
 ## Where to buy
 
-* [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Caramel-50-cl-x/dp/B017SLEWCA/ref=as_li_ss_tl?srs=8853452031&ie=UTF8&qid=1502561963&sr=8-50&linkCode=ll1&tag=traditionalmead-21&linkId=a79dac02eb4493a546e1d67a41a8e0af)
+- [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Caramel-50-cl-x/dp/B017SLEWCA/ref=as_li_ss_tl?srs=8853452031&ie=UTF8&qid=1502561963&sr=8-50&linkCode=ll1&tag=traditionalmead-21&linkId=a79dac02eb4493a546e1d67a41a8e0af)

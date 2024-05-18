@@ -40,4 +40,4 @@ Given the jammy intensity of this mead, it dilutes nicely with an extra-dry pros
 
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=21)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=21)

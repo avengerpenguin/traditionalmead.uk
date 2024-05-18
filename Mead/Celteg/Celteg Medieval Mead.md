@@ -23,4 +23,4 @@ The initial taste is a very soft, sweet taste which gives way to a more substant
 
 ## Where to buy
 
-* [Single Bottle (Amazon UK)](https://amzn.to/3BUMzrc)
+- [Single Bottle (Amazon UK)](https://amzn.to/3BUMzrc)

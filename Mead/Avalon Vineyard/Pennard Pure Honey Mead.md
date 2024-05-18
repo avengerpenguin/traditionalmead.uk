@@ -24,4 +24,4 @@ The body feels like thin, which makes it quaffable if medium-sweet is your thing
 
 ## Where to buy
 
-* [Pennard Organic Wines](http://www.pennardorganicwines.co.uk/avalondetail.asp?ProductID=8)
+- [Pennard Organic Wines](http://www.pennardorganicwines.co.uk/avalondetail.asp?ProductID=8)

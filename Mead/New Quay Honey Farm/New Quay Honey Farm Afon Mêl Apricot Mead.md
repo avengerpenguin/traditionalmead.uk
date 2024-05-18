@@ -3,7 +3,6 @@ Tags: Welsh Meads, Melomel (Fruit Flavoured Mead)
 
 ![](/images/afon-mel-apricot.jpg)
 
-
 The [New Quay Honey Farm](/new-quay-honey-farm/) is quite prolific in
 producing multiple flavours of their "Welsh honey mead" on top of
 their ["pure" honey mead](/new-quay-honey-farm-afon-mel-honey-mead/).
@@ -43,4 +42,4 @@ anything.
 
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)

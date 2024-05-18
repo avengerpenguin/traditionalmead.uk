@@ -33,7 +33,7 @@ suggesting it is a white wine base with honey added.
 
 They advertise the wine as "tantalisingly smooth" and it is
 indeed smooth and drinkable as a drink on its own, but does
-not stand out as remarkable in its flavour compared to 
+not stand out as remarkable in its flavour compared to
 more complex meads and pyments.
 
 ## Mead Cocktails
@@ -46,4 +46,4 @@ served with blood orange, gin and
 
 ## Where to buy
 
-* [Cornish Mead Co](https://www.cornishmead.co.uk/product/mead-wine/)
+- [Cornish Mead Co](https://www.cornishmead.co.uk/product/mead-wine/)
