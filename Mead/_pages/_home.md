@@ -1,6 +1,6 @@
 title: Find, buy and make mead in the UK
 save_as: index.html
-url: 
+url:
 status: published
 
 ![Glass of mead](/images/glass-small.jpg)

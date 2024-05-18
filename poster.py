@@ -2,20 +2,18 @@
 import asyncio
 import os
 import random
-import time
-import clize
-from lxml import etree
-import requests
-from bs4 import BeautifulSoup
-from urllib import parse as urlparse
-from functools import partial
 from collections import namedtuple
+from functools import partial
+from urllib import parse as urlparse
+
 import aiohttp
-import urllib.parse
+import clize
+from bs4 import BeautifulSoup
+from lxml import etree
 from yarl import URL
 
 
-class AsyncHttpApi(object):
+class AsyncHttpApi:
     def __init__(self, aiohttp_session, base_url):
         self.http = aiohttp_session
         self.base_url = base_url
@@ -24,19 +22,19 @@ class AsyncHttpApi(object):
         if len(args) == 0:
             return self
         else:
-            new_url = self.base_url + '/' + '/'.join(args)
+            new_url = self.base_url + "/" + "/".join(args)
             return self.__class__(self.http, new_url)
 
     def __getattr__(self, key):
-        if key in ['put', 'get', 'post', 'delete']:
+        if key in ["put", "get", "post", "delete"]:
             requests_verb = getattr(self.http, key)
             return partial(requests_verb, self.base_url)
         else:
-            new_url = self.base_url + '/'  + key
+            new_url = self.base_url + "/" + key
             return self.__class__(self.http, new_url)
 
 
-Article = namedtuple('Article', ['title', 'url', 'image', 'description'])
+Article = namedtuple("Article", ["title", "url", "image", "description"])
 
 
 async def articles_from_urls(urls):
@@ -45,31 +43,36 @@ async def articles_from_urls(urls):
 
         for future in futures:
             async with future as response:
-                soup = BeautifulSoup(await response.text(), 'lxml')
+                soup = BeautifulSoup(await response.text(), "lxml")
 
                 metadata = {}
-                for meta_tag in soup.find_all('meta'):
-                    if 'property' in meta_tag.attrs and 'og:' in meta_tag['property']:
-                        metadata[meta_tag['property'].split(':')[1]] = meta_tag['content']
+                for meta_tag in soup.find_all("meta"):
+                    if "property" in meta_tag.attrs and "og:" in meta_tag["property"]:
+                        metadata[meta_tag["property"].split(":")[1]] = meta_tag[
+                            "content"
+                        ]
 
-                if metadata.get('type') == 'article':
-                    first_img_tag = soup.find('div', class_='entry-content').find('img')
+                if metadata.get("type") == "article":
+                    first_img_tag = soup.find("div", class_="entry-content").find("img")
                     if first_img_tag:
-                        metadata['image'] = urlparse.urljoin(
-                            'http://traditionalmead.uk/', first_img_tag['src'])
+                        metadata["image"] = urlparse.urljoin(
+                            "http://traditionalmead.uk/", first_img_tag["src"]
+                        )
 
-                    article = Article(title=metadata['title'],
-                                      url=response.url,
-                                      image=metadata.get('image', None),
-                                      description=metadata['description'])
+                    article = Article(
+                        title=metadata["title"],
+                        url=response.url,
+                        image=metadata.get("image", None),
+                        description=metadata["description"],
+                    )
                     yield article
 
 
 async def get_all_articles(website_url):
-    sitemap = etree.parse(str(URL(website_url).with_path('/sitemap.xml')))
+    sitemap = etree.parse(str(URL(website_url).with_path("/sitemap.xml")))
     ns = sitemap.getroot().nsmap[None]
 
-    urls = sitemap.xpath('/s:urlset/s:url/s:loc/text()', namespaces={'s': ns})
+    urls = sitemap.xpath("/s:urlset/s:url/s:loc/text()", namespaces={"s": ns})
 
     articles = set()
     async for article in articles_from_urls(urls):
@@ -77,11 +80,17 @@ async def get_all_articles(website_url):
     return articles
 
 
-async def get_buffer_articles(website_url, profile_ids, status='sent'):
+async def get_buffer_articles(website_url, profile_ids, status="sent"):
     async with aiohttp.ClientSession() as session:
-        buffer = AsyncHttpApi(session, 'https://api.bufferapp.com/1')
-        futures = [buffer.profiles(profile_id).updates(status + '.json').get(params={'access_token': os.getenv('BUFFER_ACCESS_TOKEN'), 'count': 100})
-                   for profile_id in profile_ids]
+        buffer = AsyncHttpApi(session, "https://api.bufferapp.com/1")
+        futures = [
+            buffer.profiles(profile_id)
+            .updates(status + ".json")
+            .get(
+                params={"access_token": os.getenv("BUFFER_ACCESS_TOKEN"), "count": 100}
+            )
+            for profile_id in profile_ids
+        ]
 
         articles = set()
 
@@ -89,12 +98,17 @@ async def get_buffer_articles(website_url, profile_ids, status='sent'):
             async with future as response:
                 response_json = await response.json()
                 links = []
-                for update in response_json['updates']:
+                for update in response_json["updates"]:
                     try:
-                        link = update['media']['link']
+                        link = update["media"]["link"]
                         async with session.get(link) as response:
-                            if response.url.host + response.url.path == 'www.facebook.com/flx/warn/':
-                                link = str(URL(response.url.query['u']).with_query(None))
+                            if (
+                                response.url.host + response.url.path
+                                == "www.facebook.com/flx/warn/"
+                            ):
+                                link = str(
+                                    URL(response.url.query["u"]).with_query(None)
+                                )
                             else:
                                 link = str(response.url.with_query(None))
                         if link.startswith(website_url):
@@ -109,27 +123,27 @@ async def get_buffer_articles(website_url, profile_ids, status='sent'):
 
 async def queue(articles_to_post, profile_ids):
     async with aiohttp.ClientSession() as session:
-        buffer = AsyncHttpApi(session, 'https://api.bufferapp.com/1')
+        buffer = AsyncHttpApi(session, "https://api.bufferapp.com/1")
         futures = []
         for article_to_post in articles_to_post:
 
             if len(article_to_post.description) > 140:
-                article_text = article_to_post.description[:139] + '…'
+                article_text = article_to_post.description[:139] + "…"
             else:
                 article_text = article_to_post.description
 
-            data=[
-                ('access_token', os.getenv('BUFFER_ACCESS_TOKEN')),
-                ('shorten', 'true'),
-                ('text', article_text),
-                ('media[link]', article_to_post.url),
-                ('media[title]', article_to_post.title),
-                ('media[picture]', article_to_post.image),
-                ('media[description]', article_to_post.description)
+            data = [
+                ("access_token", os.getenv("BUFFER_ACCESS_TOKEN")),
+                ("shorten", "true"),
+                ("text", article_text),
+                ("media[link]", article_to_post.url),
+                ("media[title]", article_to_post.title),
+                ("media[picture]", article_to_post.image),
+                ("media[description]", article_to_post.description),
             ]
             for profile_id in profile_ids:
-                data.append(('profile_ids[]', profile_id))
-                futures.append(buffer.updates('create.json').post(data=data))
+                data.append(("profile_ids[]", profile_id))
+                futures.append(buffer.updates("create.json").post(data=data))
 
         for future in futures:
             async with future as response:
@@ -137,7 +151,11 @@ async def queue(articles_to_post, profile_ids):
 
         futures = []
         for profile_id in profile_ids:
-            futures.append(buffer.profiles(profile_id).updates('shuffle.json').post(data={'access_token': os.getenv('BUFFER_ACCESS_TOKEN')}))
+            futures.append(
+                buffer.profiles(profile_id)
+                .updates("shuffle.json")
+                .post(data={"access_token": os.getenv("BUFFER_ACCESS_TOKEN")})
+            )
 
         for future in futures:
             async with future as response:
@@ -146,8 +164,10 @@ async def queue(articles_to_post, profile_ids):
 
 async def fillup(website_url, profile_ids):
     all_articles = await get_all_articles(website_url)
-    articles_posted = await get_buffer_articles(website_url, profile_ids, status='sent')
-    articles_queued = await get_buffer_articles(website_url, profile_ids, status='pending')
+    articles_posted = await get_buffer_articles(website_url, profile_ids, status="sent")
+    articles_queued = await get_buffer_articles(
+        website_url, profile_ids, status="pending"
+    )
 
     unposted_articles = all_articles - articles_posted - articles_queued
     to_post = max(10 - len(articles_queued), 0)
@@ -166,10 +186,10 @@ async def fillup(website_url, profile_ids):
 def main(website_url, profile_ids):
     loop = asyncio.get_event_loop()
     try:
-        loop.run_until_complete(fillup(website_url, profile_ids.split(',')))
+        loop.run_until_complete(fillup(website_url, profile_ids.split(",")))
     finally:
         loop.close()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     clize.run(main)
