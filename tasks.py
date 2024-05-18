@@ -1,3 +1,3 @@
 import voltaire
 
-namespace = voltaire.site(domain='traditionalmead.uk')
+namespace = voltaire.site(domain="traditionalmead.uk")

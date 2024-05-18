@@ -27,4 +27,3 @@ The aroma is remarkably floral, with slight medicinal qualities on first opening
 ## Taste
 
 The taste is definitely dry as promised by the label. There is a medium body of wildflower flavour on the initial sip and it leads into a very long, dry finish that lingers for some time.
-

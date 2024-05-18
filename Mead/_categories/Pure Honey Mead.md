@@ -9,4 +9,3 @@ The word "mead" isn't protected to mean only honey-fermented in the UK however. 
 - [[Dragonsbreath Baldur]]
 - [[Moniack Mead]]
 - [[New Quay Honey Farm Afon Mêl Honey Mead|Afon Mêl Honey Mead]]
-
