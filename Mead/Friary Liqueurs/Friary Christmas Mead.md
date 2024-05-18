@@ -35,4 +35,4 @@ desserts.
 
 ## Where to buy Friary Christmas Mead
 
-* [The Mead Shop](https://www.themeadshop.com/christmas-mead-500ml)
+- [The Mead Shop](https://www.themeadshop.com/christmas-mead-500ml)

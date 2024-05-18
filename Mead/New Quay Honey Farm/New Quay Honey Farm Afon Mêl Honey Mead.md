@@ -28,4 +28,4 @@ The initial taste brings a duality of sweetness and acidity. There are notes of 
 
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=7)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=7)

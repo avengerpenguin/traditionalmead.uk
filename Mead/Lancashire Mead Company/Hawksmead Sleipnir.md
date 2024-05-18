@@ -31,4 +31,4 @@ Clearly, treacle toffee is a perfect flavour if you are looking to hide the alco
 
 ## Where to buy
 
-* [Lancashire Mead Company](https://www.lancashiremeadcompany.co.uk/hawksmead-meads/sleipnir-treacle-mead/)
+- [Lancashire Mead Company](https://www.lancashiremeadcompany.co.uk/hawksmead-meads/sleipnir-treacle-mead/)

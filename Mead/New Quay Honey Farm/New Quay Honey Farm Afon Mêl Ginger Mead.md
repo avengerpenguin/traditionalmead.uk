@@ -28,7 +28,6 @@ As with the nose, a sweet and round flavour hits you first with the ginger tingl
 
 This mead could pair well with a curry or other spicy main dish. A bold choice might be to try pairing with salmon or other seafoods.
 
-
 ## Where to Buy
 
-* [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)
+- [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=22)

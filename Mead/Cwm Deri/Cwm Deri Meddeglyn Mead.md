@@ -28,4 +28,4 @@ The flavours in this metheglin immediately bring to mind the taste of Welsh cake
 
 ## Where to buy
 
-* [Amazon](https://www.amazon.co.uk/Cwm-Deri-Meddeglyn-Mead-Pack/dp/B0154XBTFW/ref=as_li_ss_tl?ie=UTF8&qid=1488662421&sr=8-1&keywords=mead+welsh&linkCode=ll1&tag=traditionalmead-21&linkId=9d6a41cdebb9d2a5f2224c23c0cb823f)
+- [Amazon](https://www.amazon.co.uk/Cwm-Deri-Meddeglyn-Mead-Pack/dp/B0154XBTFW/ref=as_li_ss_tl?ie=UTF8&qid=1488662421&sr=8-1&keywords=mead+welsh&linkCode=ll1&tag=traditionalmead-21&linkId=9d6a41cdebb9d2a5f2224c23c0cb823f)

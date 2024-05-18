@@ -9,7 +9,7 @@ This range of drinks is sold in 25cl and 75cl bottles, so we bought a few gift p
 
 ## Appearance
 
-The colour is a medium red that might even be a little on the tawny side. This makes its appearance pass for a medium-bodied red wine. This might be the due the grapes more than the cherry flavouring. 
+The colour is a medium red that might even be a little on the tawny side. This makes its appearance pass for a medium-bodied red wine. This might be the due the grapes more than the cherry flavouring.
 
 ## Nose
 
@@ -24,8 +24,8 @@ As with the aroma, a more muted, semi-dry hits you on the first sip and the swee
 The Cornish Mead Co's own website suggests a cocktail called
 [Cornish Breakfast](https://www.cornishmead.co.uk/cocktails/cornish-breakfast/ made up of their cherry mead, vodka and orange liqueur.
 
-I expect that will blend well like a variant of a [Cosmopolitan](https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)) but perhaps that little bit sweeter and with cherry notes instead of cranberry.
+I expect that will blend well like a variant of a [Cosmopolitan](<https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)>) but perhaps that little bit sweeter and with cherry notes instead of cranberry.
 
 ## Where to buy
 
-* [Cornish Mead Co](https://www.cornishmead.co.uk/product/cherry-mead/)
+- [Cornish Mead Co](https://www.cornishmead.co.uk/product/cherry-mead/)

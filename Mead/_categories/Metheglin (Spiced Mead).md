@@ -1,6 +1,6 @@
 Metheglin is a variant of mead made traditionally with herbs and spices adding for additional flavours. This is distinct from a mead actually made spicy using chillies, which would be a capsicumel.
 
-Metheglin has its origins in folk medicines. The Welsh for mead is _medd_ and _meddyglyn_ came from a combination of _meddyg (healing/medicine) and _llyn_ (liquor). This gives rise to the English word Metheglin today.
+Metheglin has its origins in folk medicines. The Welsh for mead is _medd_ and _meddyglyn_ came from a combination of _meddyg (healing/medicine) and \_llyn_ (liquor). This gives rise to the English word Metheglin today.
 
 Today, it is far more common to find metheglins brewed with sweet spices rather than herbs as the combination of honey and spice produced a very warming drink. Many spiced meads or metheglins are incredibly popular around Winter and Christmas time served heated as an alternative to mulled wine. We can highly recommend it if you haven't tried it!
 

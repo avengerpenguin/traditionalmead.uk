@@ -12,7 +12,7 @@ This drink has a deep, opaque ruby colour.
 
 ## Nose
 
-The nose is subtle compared to some melomels. There are clear strawberry notes, but embedded in a more general fruit body from the grape. 
+The nose is subtle compared to some melomels. There are clear strawberry notes, but embedded in a more general fruit body from the grape.
 
 ## Taste
 
@@ -24,4 +24,4 @@ The grape fruit comes first in a semi-dry initial taste and the finish draws out
 
 ## Where to buy
 
-* [Cornish Mead Co](https://www.cornishmead.co.uk/product/strawberry-mead/)
+- [Cornish Mead Co](https://www.cornishmead.co.uk/product/strawberry-mead/)

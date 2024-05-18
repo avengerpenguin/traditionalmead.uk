@@ -11,10 +11,8 @@ impressively on the glass, which isn't surprising with its 17% ABV strength.
 
 ## Nose
 
-
 ## Taste
-
 
 ## Where to buy
 
-* [Lancashire Mead Company](https://www.lancashiremeadcompany.co.uk/dragonsbreath-mead/aegir-mead/)
+- [Lancashire Mead Company](https://www.lancashiremeadcompany.co.uk/dragonsbreath-mead/aegir-mead/)

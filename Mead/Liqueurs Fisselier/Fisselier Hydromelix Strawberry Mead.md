@@ -25,4 +25,4 @@ The bright colour of this drink would have you judge it as a sickly sweet "alcop
 
 ## Where to buy
 
-* [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Strawberry-Mead-50/dp/B017SLEWLQ/ref=as_li_ss_tl?srs=8853452031&ie=UTF8&qid=1493155358&sr=8-1&keywords=mead&linkCode=ll1&tag=traditionalmead-21&linkId=0173dea5184496c14d7c80011303433d)
+- [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Strawberry-Mead-50/dp/B017SLEWLQ/ref=as_li_ss_tl?srs=8853452031&ie=UTF8&qid=1493155358&sr=8-1&keywords=mead&linkCode=ll1&tag=traditionalmead-21&linkId=0173dea5184496c14d7c80011303433d)

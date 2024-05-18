@@ -11,6 +11,6 @@ The meads below are any produced that are labelled explicitly as a
 
 Christmas meads found so far:
 
--  [[Lyme Bay Christmas Mead]]
--  [[Fisselier Hydromelix Christmas Mead]]
--  [[Friary Christmas Mead]]
+- [[Lyme Bay Christmas Mead]]
+- [[Fisselier Hydromelix Christmas Mead]]
+- [[Friary Christmas Mead]]

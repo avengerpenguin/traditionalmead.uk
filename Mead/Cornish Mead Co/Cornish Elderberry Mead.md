@@ -27,4 +27,4 @@ cocktail called [Kernow Carnival](https://www.cornishmead.co.uk/cocktails/kernow
 
 ## Where to buy
 
-* [Cornish Mead Co](https://www.cornishmead.co.uk/product/elderberry-mead/)
+- [Cornish Mead Co](https://www.cornishmead.co.uk/product/elderberry-mead/)

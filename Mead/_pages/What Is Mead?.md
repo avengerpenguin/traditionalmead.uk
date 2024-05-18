@@ -2,8 +2,8 @@ Title: What is mead?
 Date: 2017-03-01
 status: published
 
-Mead is an ancient, alcoholic drink dating back as far as 7000 BCE in China. 
-It is made by fermenting honey to produce a wine-strength drink typically 
+Mead is an ancient, alcoholic drink dating back as far as 7000 BCE in China.
+It is made by fermenting honey to produce a wine-strength drink typically
 between 8% and 25% ABV.
 
 <!-- PELICAN_END_SUMMARY -->
@@ -15,17 +15,17 @@ There are many [types or variants of mead](/types-of-mead/) including
 
 See also:
 
-* [UK History](/history-of-mead/)
-* [Making Mead](/making-mead/)
-* [English Meads](/english-meads/)
-* [Scottish Meads](/scottish-meads/)
-* [Welsh Meads](/welsh-meads/)
+- [UK History](/history-of-mead/)
+- [Making Mead](/making-mead/)
+- [English Meads](/english-meads/)
+- [Scottish Meads](/scottish-meads/)
+- [Welsh Meads](/welsh-meads/)
 
-It can be quite sweet since not all the sugar in the honey is fermented 
+It can be quite sweet since not all the sugar in the honey is fermented
 usually, but the tastes can range from dry to sweet depending on the variety.
 Many are fermented with fruits and spices for additional flavours.
 
-The last decade or so has seen a resurgence in popularity in the UK as well as 
+The last decade or so has seen a resurgence in popularity in the UK as well as
 other countries such as the United States.
 
 ## History
@@ -40,7 +40,7 @@ wine yeasts being popular among producers). See
 
 ## Varieties
 
-Within the UK alone, meads can vary from a dark, caramel style to a lighter 
+Within the UK alone, meads can vary from a dark, caramel style to a lighter
 style. There are also a lot of varieties with specific names.
 
 See [different types and varieties](/types-of-mead/) for a list.
@@ -49,9 +49,9 @@ See [different types and varieties](/types-of-mead/) for a list.
 
 We have listings and reviews of all the best from across the UK:
 
-* [English Meads](/english-meads/)
-* [Scottish Meads](/scottish-meads/)
-* [Welsh Meads](/welsh-meads/)
+- [English Meads](/english-meads/)
+- [Scottish Meads](/scottish-meads/)
+- [Welsh Meads](/welsh-meads/)
 
 # Where can I buy in the UK?
 

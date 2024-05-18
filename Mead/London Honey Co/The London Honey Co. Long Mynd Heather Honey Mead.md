@@ -31,4 +31,4 @@ short.
 
 ## Where to buy
 
-* [Master of Malt](https://www.masterofmalt.com/mead/the-london-honey-co/the-london-honey-co-long-mynd-heather-honey-mead/)
+- [Master of Malt](https://www.masterofmalt.com/mead/the-london-honey-co/the-london-honey-co-long-mynd-heather-honey-mead/)

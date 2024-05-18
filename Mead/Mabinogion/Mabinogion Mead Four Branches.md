@@ -14,8 +14,8 @@ The aroma isn't strong but what aroma there is reminds more of a cider with perh
 
 ## Taste
 
-The taste is low on body and with a very dry finish. It is very much the  taste of a dry scrumpy cider with only subtle overtones left from the honey. It is perhaps something interesting to try if you are a fan of dry cider.
+The taste is low on body and with a very dry finish. It is very much the taste of a dry scrumpy cider with only subtle overtones left from the honey. It is perhaps something interesting to try if you are a fan of dry cider.
 
 ## Where to buy
 
-* [Master of Malt](https://www.masterofmalt.com/mead/mabinogion-mead/mabinogion-mead-four-branches/)
+- [Master of Malt](https://www.masterofmalt.com/mead/mabinogion-mead/mabinogion-mead-four-branches/)

@@ -3,11 +3,11 @@ Tags: [[Chouchen]]
 
 ![](https://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017SLEWC0&Format=_SL250_&ID=AsinImage&MarketPlace=GB&ServiceVersion=20070822&WS=1&tag=traditionalmead-21)
 
-This mead (*hydromel* in French) is known in Brittany as a [[Chouchen]], which is a mead specific to the region, traditionally made with buckwheat honey for a stronger flavour.
+This mead (_hydromel_ in French) is known in Brittany as a [[Chouchen]], which is a mead specific to the region, traditionally made with buckwheat honey for a stronger flavour.
 
 Produced by [[Liqueurs Fisselier]], this is the "classic" pure honey where their other offerings normally have a fruit flavouring.
 
-The bottle says to drink it chilled, but I read that after pouring a glass so  I have tasted it both at room temperature and chilled. It is apparently drunk as an apéritif (French for *apéritif*).
+The bottle says to drink it chilled, but I read that after pouring a glass so I have tasted it both at room temperature and chilled. It is apparently drunk as an apéritif (French for _apéritif_).
 
 ## Appearance
 
@@ -25,4 +25,4 @@ The additional flavours are similar to the deep sweetness of apple juice, which 
 
 ## Where to buy
 
-* [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Classic-Mead-50/dp/B017SLEWC0/ref=as_li_ss_il?ie=UTF8&qid=1491859160&sr=8-5&keywords=hydromelix&linkCode=li3&tag=traditionalmead-21&linkId=e3bad97fd9bf6dab0e7ff6d01443c252)
+- [Amazon UK](https://www.amazon.co.uk/Fisselier-Hydromelix-Classic-Mead-50/dp/B017SLEWC0/ref=as_li_ss_il?ie=UTF8&qid=1491859160&sr=8-5&keywords=hydromelix&linkCode=li3&tag=traditionalmead-21&linkId=e3bad97fd9bf6dab0e7ff6d01443c252)

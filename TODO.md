@@ -1,3 +1,3 @@
 # TODO
 
-* Create validation plugin: word count, tags, readability?
+- Create validation plugin: word count, tags, readability?
