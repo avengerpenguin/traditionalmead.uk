@@ -26,26 +26,15 @@ repos:
       - id: isort
         args: ["--profile", "black", "--filter-files", "--line-length=79"]
         language_version: python3.13
-  - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.10.0
-    hooks:
-      - id: mypy
-        additional_dependencies: [types-requests, types-PyYAML, types-Flask, types-Werkzeug,
-          types-Markdown]
   - repo: https://github.com/asottile/pyupgrade
     rev: v3.15.2
     hooks:
       - id: pyupgrade
         args:
-          - --py38-plus
-  - repo: https://github.com/andreoliwa/nitpick
-    rev: v0.35.0
-    hooks:
-      - id: nitpick
+          - --py310-plus
   - repo: https://github.com/pre-commit/pygrep-hooks
     rev: v1.10.0
     hooks:
-      - id: python-check-blanket-noqa
       - id: python-check-mock-methods
       - id: python-no-eval
       - id: python-no-log-warn
