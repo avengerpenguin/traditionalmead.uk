@@ -5,7 +5,7 @@ charset-normalizer==3.4.6
 cssmin==0.2.0
 doctrine==0.6.0
 docutils==0.20.1
-feedgenerator==2.1.0
+feedgenerator==2.2.1
 ghp-import==2.1.0
 idna==3.4
 invoke==2.2.1
