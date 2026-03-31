@@ -22,7 +22,7 @@ olfactorily cliché given the mead's Italian origin, but there is a genuine nose
 ## Taste
 
 An initial onset of muted sweetness accompanied with peaches and pineapple, leading away to a dryness that lingers -- perhaps even a tartness and texture akin to an under-sweetened lemon curd.
- 
+
 The producer's website claims the French oak barrels lend notes of
 sandalwood, black pepper and ripe peach (il sandalo, il pepe nero e la pesca matura).
 

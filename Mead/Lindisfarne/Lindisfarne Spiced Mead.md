@@ -8,7 +8,7 @@ This is apparently the first new mead for half a century as traditionally they p
 
 From their own website:
 
-    Proudly announcing our brand new Lindisfarne Spiced Mead!  Our first new mead in nearly half a century, it blends carefully chosen spices with our already famous mead to produce a delicious seasonal taste.  
+    Proudly announcing our brand new Lindisfarne Spiced Mead!  Our first new mead in nearly half a century, it blends carefully chosen spices with our already famous mead to produce a delicious seasonal taste.
 
 A spiced mead is a good additional to any Christmas. It works well as both a post-dinner dessert wine or warmed to be drunk like a mulled wine as the nights get shorter. The comparison to [[Lyme Bay Christmas Mead]] mead is hard to avoid.
 

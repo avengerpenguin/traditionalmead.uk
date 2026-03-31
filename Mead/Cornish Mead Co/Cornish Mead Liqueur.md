@@ -19,7 +19,7 @@ The arome is still very subtle and it is difficult to discern much other than sl
 
 There is more of a body than with the mead wine, for sure. The strength and body emphasises some of the flavours of the honey and the taste is overall medium-sweet.
 
-It drinks pretty smoothly consider its alcoholic strenght and is even more quaffable chilled or over ice. The alcohol doesn't burn much in the mouth, so this may be one of those drinks where the alcohol is dangerously hidden and a whole bottle can disappear before you know it. 
+It drinks pretty smoothly consider its alcoholic strenght and is even more quaffable chilled or over ice. The alcohol doesn't burn much in the mouth, so this may be one of those drinks where the alcohol is dangerously hidden and a whole bottle can disappear before you know it.
 
 ## Mead Cocktails
 

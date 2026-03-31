@@ -27,8 +27,8 @@ you can make.
 
 ## Preparation
 
-Fully sterlise any equipment as the fermentation process is favourable to 
-growth of bacteria and other microorganisms too. Many of the kits listed 
+Fully sterlise any equipment as the fermentation process is favourable to
+growth of bacteria and other microorganisms too. Many of the kits listed
 above come with a sterilising solution or powder.
 
 ## Make up "must" mixture for your mead
@@ -46,87 +46,87 @@ first, so check the label for any instructions.
 
 Place in a fermantation bucket or any other large, sterilised container. You
  want to ensure the following:
- 
- * The container should not beoverly full -- leave room for a lively 
+
+ * The container should not beoverly full -- leave room for a lively
  fermentation!
  * You need to stop air getting in, while still allowing carbon dioxide to
-   escape. Many of the kits listed above come with a proper airlock, but a 
-   you can get away with poking holes in a balloon and 
-   stretching over the top of the container (secure with tape or an elastic 
+   escape. Many of the kits listed above come with a proper airlock, but a
+   you can get away with poking holes in a balloon and
+   stretching over the top of the container (secure with tape or an elastic
    band).
- * Leave the mead fermenting in a location that keeps it at the right 
- temperature. Check the label for your yeast to see if any particular 
+ * Leave the mead fermenting in a location that keeps it at the right
+ temperature. Check the label for your yeast to see if any particular
  temperature is recommended.
 
 
 ## Check the gravity
 
-*Specific gravity* (SG) is the density of your must at any time. You can get 
-the *original gravity* (OG) by measuring with a hydrometer. Pure water has an 
-SG of exactly 1, so your mixture is going to be something like 1.100 (each 
+*Specific gravity* (SG) is the density of your must at any time. You can get
+the *original gravity* (OG) by measuring with a hydrometer. Pure water has an
+SG of exactly 1, so your mixture is going to be something like 1.100 (each
 1lb of honey seems to add 0.035 of gravity).
 
-SG is expected to go down (attentuate) during the fermentation process as 
+SG is expected to go down (attentuate) during the fermentation process as
 the yeast converts the sugars into alcohol.
 
 You can predict what the *final gravity* (FG) will be by predicting how much
-sugar your yeast will convert into alcohol. First we can use a simple 
+sugar your yeast will convert into alcohol. First we can use a simple
 formula that estimates the ABV of your fermented drink:
 
     (OG - FG) x 131 = ABV
-    
-That is, if your original gravity is 1.100 and then you measure the final 
-gravity after fermentation stops to get 1.005, then you can plug OG and FG 
+
+That is, if your original gravity is 1.100 and then you measure the final
+gravity after fermentation stops to get 1.005, then you can plug OG and FG
 into the formula above to get:
 
     (1.100 - 1.005) x 131 = (0.095) x 131 = 12.4%
-    
-Your yeast should have a known alcohol tolerance. For example, Lalvin 
-EC-1118 is a popular Champagne yeast that is good for making a strong mead 
+
+Your yeast should have a known alcohol tolerance. For example, Lalvin
+EC-1118 is a popular Champagne yeast that is good for making a strong mead
 and its rated tolerance is 18%.
 
 If we use that tolerance as an estimate for what our final ABV will be, we
 can use the formula above in reverse:
 
-    OG - (ABV / 131) = FG 
+    OG - (ABV / 131) = FG
 
 And then plug in 18% as our estimated final ABV along with an example original
-gravity of 1.150 (this example is higher as more honey is needed for such a 
+gravity of 1.150 (this example is higher as more honey is needed for such a
 strong mead):
 
-    FG = 1.150 - (18 / 131) = 1.150 - 0.138 = 1.012 
+    FG = 1.150 - (18 / 131) = 1.150 - 0.138 = 1.012
 
 Note that if the original gravity had been 0.100 as per our first example, the
-formula would suggest a FG below 1, which is impossible! In that case, it's 
-telling us that the yeast would ferment all the sugar out of the must and 
+formula would suggest a FG below 1, which is impossible! In that case, it's
+telling us that the yeast would ferment all the sugar out of the must and
 the final mead will be quite dry.
 
-If you want to retain some sweetness to your final mead, choose an ABV for 
-the formula 1% or so above what the yeast can manage. So we might make a 
-must with an original gravity that would create an ABV of 19% or 20% for a 
+If you want to retain some sweetness to your final mead, choose an ABV for
+the formula 1% or so above what the yeast can manage. So we might make a
+must with an original gravity that would create an ABV of 19% or 20% for a
 yeast with a tolerance of 18%. This ensures that fermentation stops *before*
 all the sugar turns into alcohol.
 
 ## Aerate for the first sugar break
 
-Once we know the estimated, final gravity (FG), we can get the attenuation 
+Once we know the estimated, final gravity (FG), we can get the attenuation
 from the simple different of OG and FG, e.g.
- 
+
     Attenuation = OG - FG = 1.100 - 1.005 = 0.095
-    
+
 If we divide that number into thirds (e.g. 0.032), then our first sugar break
 is at:
 
     1.100 - 0.032 = 1.068
-    
+
 In our example here, the yeast needs aerating (i.e. allow oxygen in) while the
 specific gravity is between 1.100 and 1.068. Ensure that you aerate daily for
 that first third of gravity attenuation, maybe more than once a day if you can.
 
 ## Wait
 
-You will need to ferment for probably at leaast 8 weeks. You can bottle 
-after that time if you wish, but there's a few more nuanced things to look 
+You will need to ferment for probably at leaast 8 weeks. You can bottle
+after that time if you wish, but there's a few more nuanced things to look
 out for if you want to be more precise.
 
 A simple sign that fermentation has stopped is when the bubbling has stopped.
@@ -136,7 +136,7 @@ to go.
 Another sign is that there is no change in your specific gravity for several
 days.
 
- 
+
 Image titled Make Mead Step 66
 
 There are a few different ways to know when the mead is done fermenting:[2]
@@ -159,15 +159,15 @@ If you're using an airlock, wait until 3 weeks after it stops bubbling.
 
 ## Age your mead
 
-Transfer your fermented must to a large container such as a demijohn to 
+Transfer your fermented must to a large container such as a demijohn to
 store for aging. Make sure there is no space for air if possible. We want to
 minimise the amount of mead touching the air.
 
-The longer you spend aging the mead, the better. You will probably want to 
-leave this for a good 6 to 8 months, but some advice on other sites 
+The longer you spend aging the mead, the better. You will probably want to
+leave this for a good 6 to 8 months, but some advice on other sites
 advocates bottling after 2-3 months!
 
 ## Bottle it!
 
-Transfer the mead into bottles, seal, and store in a cool dark place. Open 
+Transfer the mead into bottles, seal, and store in a cool dark place. Open
 and enjoy when you feel the need for mead.

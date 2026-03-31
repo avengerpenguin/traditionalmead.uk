@@ -9,7 +9,7 @@ This range of drinks is sold in 25cl and 75cl bottles, so we bought a few gift p
 
 ## Appearance
 
-The colour is a medium red that might even be a little on the tawny side. This makes its appearance pass for a medium-bodied red wine. This might be the due the grapes more than the cherry flavouring. 
+The colour is a medium red that might even be a little on the tawny side. This makes its appearance pass for a medium-bodied red wine. This might be the due the grapes more than the cherry flavouring.
 
 ## Nose
 

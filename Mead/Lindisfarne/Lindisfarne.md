@@ -10,4 +10,3 @@ Their products:
 - [[Lindisfarne Spiced Mead]]
 - [[Lindisfarne 793 Mead]]
 - [[Lindisfarne Blod Mead]]
-

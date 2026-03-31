@@ -3,4 +3,3 @@ A caramel-flavoured offering from [[Chalice Mead]]. Not tried it yet, but see al
 ## Where to buy
 
 - [Amazon UK](https://amzn.to/3ckPWNQ)
-

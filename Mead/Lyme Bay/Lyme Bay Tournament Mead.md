@@ -32,4 +32,3 @@ is a dominating flavour.
 * [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZWDY1M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-3&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=b0a0e5623a6a140108af859dd033bcbf)
 * [Single bottle (Amazon UK)](https://www.amazon.co.uk/Tournament-Mead-Lyme-Bay-Bottle/dp/B00F2JGLS4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-1&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=21477314c9e212066e788321300b37fa)
 * [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flyme-bay-winery%2ftournament-mead-lyme-bay-winery-mead%2f%3fsrh%3d1)
-

@@ -73,11 +73,10 @@
 
 from voltaire.pelican import *
 
-
-SITENAME = u'Traditional Mead UK'
-AUTHOR = u'Ross Fenning'
-STATIC_PATHS += ['icon', 'images']
-FILENAME_METADATA = '(?P<title>.*)'
+SITENAME = "Traditional Mead UK"
+AUTHOR = "Ross Fenning"
+STATIC_PATHS += ["icon", "images"]
+FILENAME_METADATA = "(?P<title>.*)"
 
 
 PATH = "Mead"
@@ -85,14 +84,14 @@ PAGE_PATHS = ["."]
 ARTICLE_PATHS = []
 
 
-PLUGINS += ['voltaire.search']
+PLUGINS += ["voltaire.search"]
 TEMPLATE_PAGES = {
-    'search.html': 'search/index.html',
+    "search.html": "search/index.html",
 }
 
-STATIC_PATHS += ['extra/images', 'extra/icons', 'extra/ads.txt']
+STATIC_PATHS += ["extra/images", "extra/icons", "extra/ads.txt"]
 EXTRA_PATH_METADATA = {
-    'extra/ads.txt': {'path': 'ads.txt'},
+    "extra/ads.txt": {"path": "ads.txt"},
 }
 #
 # EXTRA_PATH_METADATA = {
@@ -113,12 +112,12 @@ EXTRA_PATH_METADATA = {
 # ]
 
 MENUITEMS_START = (
-    ('Home', '/'),
-    ('Mead Producers', '/producers/'),
-    ('What is mead?', '/what-is-mead/'),
-    ('Types of Mead', '/types-of-mead/'),
-    ('History of Mead', '/history-of-mead/'),
-    ('Making Mead', '/making-mead/'),
-    ('Search', '/search/'),
+    ("Home", "/"),
+    ("Mead Producers", "/producers/"),
+    ("What is mead?", "/what-is-mead/"),
+    ("Types of Mead", "/types-of-mead/"),
+    ("History of Mead", "/history-of-mead/"),
+    ("Making Mead", "/making-mead/"),
+    ("Search", "/search/"),
 )
-#THEME = './theme'
+# THEME = './theme'

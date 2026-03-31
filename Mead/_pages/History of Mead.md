@@ -5,7 +5,7 @@ Status: published
 Around 550 CE, the early Brythonic (Welsh) poet Taliesin wrote a poem about
 mead called *Kanu y med* or "Song of Mead" (translated into English):
 
-    WILL adore the Ruler, chief of every place, 
+    WILL adore the Ruler, chief of every place,
     Him, that supports the heaven: Lord of everything.
     Him, that made the water for every one good,
     Him, that made every gift, and prospers it.
@@ -41,14 +41,14 @@ Another, mediæval Welsh poem, Y Gododdin, contains the stanza:
 This poem tells how the ruler of the Gododdin, Mynyddog Mwynfawr, gathered
 warriors from several Brythonic kingdoms and for a year's
 feasting and drinking mead in his halls at Din Eidyn (now Edinburgh today)
-shortly before attacking Catraeth (believed to be Catterick, North Yorkshire 
+shortly before attacking Catraeth (believed to be Catterick, North Yorkshire
 today).
 
 There are also mentions of mead in Beowulf where Danish warriors drank mead and
 Mead featured as a heroic drink in both German and Celtic poetry.
 
-Tax and regulation drove commercial mead out of popularity with beer and 
-wine being the predominant alcoholic drinks for some time. Many monasteries 
+Tax and regulation drove commercial mead out of popularity with beer and
+wine being the predominant alcoholic drinks for some time. Many monasteries
 continued the tradition, however, since some areas of Britain are unsuitable
-for grapes. Perhaps the most well-known of such monasteries is Lindisfarne, 
+for grapes. Perhaps the most well-known of such monasteries is Lindisfarne,
 after which Lindisfarne mead is still named today.

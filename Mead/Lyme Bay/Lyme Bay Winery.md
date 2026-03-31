@@ -2,7 +2,7 @@
 
 Country wines, cider, mead and fruit liqueurs made on a working winery.
 
-Their products: 
+Their products:
 
 - [[Lyme Bay Christmas Mead]]
 - [[Lyme Bay Garden Mead]]
@@ -11,4 +11,3 @@ Their products:
 - [[Lyme Bay Westcountry Mead]]
 - [[Lyme Bay Rhubarb Mead]]
 - [[Lyme Bay Yore Sparkling Mead]]
-
