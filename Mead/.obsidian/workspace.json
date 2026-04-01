@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "http://",
+                "query": "affiliatefuture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +153,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bd55e1a2630c97af",
+  "active": "027b57e97c661cc2",
   "lastOpenFiles": [
     "Chalice Elderflower Mead.md",
     "Privacy Policy.md",
