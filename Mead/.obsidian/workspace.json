@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Jack Ratt Sparkling Mead"
             }
+          },
+          {
+            "id": "447900debdcc186e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jack Ratt Sparkling Mead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jack Ratt Sparkling Mead"
+              "title": "Outgoing links"
             }
           }
         ],
@@ -153,7 +165,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "027b57e97c661cc2",
+  "active": "447900debdcc186e",
   "lastOpenFiles": [
     "Chalice Elderflower Mead.md",
     "Privacy Policy.md",
