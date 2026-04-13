@@ -24,7 +24,7 @@ pyScss @ git+https://github.com/Kronuz/pyScss.git@73559d047706ccd4593cf6aa092de7
 python-dateutil==2.9.0.post0
 pytz==2026.1.post1
 requests==2.33.1
-rich==14.3.3
+rich==15.0.0
 sh==2.2.2
 six==1.17.0
 smartypants==2.0.2
