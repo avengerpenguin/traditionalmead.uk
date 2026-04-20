@@ -18,7 +18,7 @@ mdurl==0.1.2
 pelican==4.11.0.post0
 pelican-sitemap==1.2.2
 pelican-webassets==2.1.0
-plantuml-markdown==3.11.1
+plantuml-markdown==3.11.2
 Pygments==2.20.0
 pyScss @ git+https://github.com/Kronuz/pyScss.git@73559d047706ccd4593cf6aa092de71f35164723
 python-dateutil==2.9.0.post0
