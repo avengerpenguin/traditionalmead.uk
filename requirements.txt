@@ -22,7 +22,7 @@ plantuml-markdown==3.11.2
 Pygments==2.20.0
 pyScss @ git+https://github.com/Kronuz/pyScss.git@73559d047706ccd4593cf6aa092de71f35164723
 python-dateutil==2.9.0.post0
-pytz==2026.1.post1
+pytz==2026.2
 requests==2.33.1
 rich==15.0.0
 sh==2.2.2
