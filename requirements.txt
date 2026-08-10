@@ -29,7 +29,7 @@ sh==2.4.0
 six==1.17.0
 smartypants==2.0.2
 soupsieve==2.9.2
-tornado==6.5.7
+tornado==6.5.8
 typogrify==2.1.0
 Unidecode==1.4.0
 urllib3==2.7.0
