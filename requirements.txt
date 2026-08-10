@@ -28,7 +28,7 @@ rich==15.0.0
 sh==2.4.0
 six==1.17.0
 smartypants==2.0.2
-soupsieve==2.9.1
+soupsieve==2.9.2
 tornado==6.5.7
 typogrify==2.1.0
 Unidecode==1.4.0
