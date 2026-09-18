@@ -32,6 +32,6 @@ soupsieve==2.9.2
 tornado==6.5.9
 typogrify==2.1.0
 Unidecode==1.4.0
-urllib3==2.7.0
+urllib3==2.8.0
 voltaire==0.17.5
 webassets==3.0.0
