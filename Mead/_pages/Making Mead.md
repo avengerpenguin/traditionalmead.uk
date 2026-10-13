@@ -1,173 +1,166 @@
-Title: Making Mead
+Title: How to Make Mead: A Beginner’s 4.5-Litre Recipe
+Slug: making-mead
+Summary: Learn how to make traditional mead at home with a safe, beginner-friendly 4.5-litre UK recipe, including equipment, fermentation, hydrometer readings and bottling.
+Date: 2026-10-11
 Status: published
 
-This is a good starter guide to making a simple, [[Pure Honey Mead]] recipe at home.
+Making mead is straightforward: honey, water and yeast become honey wine through fermentation. The part that rewards care is not the ingredient list, but **clean equipment, healthy yeast and patience**.
 
-If you want some more interesting and complex recipes, we can recommend some of the following books:
+This guide gives you a dependable first recipe for about **4.5 litres (one UK gallon) of still, dry traditional mead**. It also explains how to tell when fermentation has actually finished. Do not rely on an airlock going quiet: only stable hydrometer readings can confirm that.
 
-* [Make Mead Like a Viking: Traditional Techniques for Brewing Natural, Wild-Fermented, Honey-Based Wines and Beers](https://www.amazon.co.uk/Make-Mead-Like-Viking-Wild-Fermented/dp/1603585982/ref=as_li_ss_tl?ie=UTF8&qid=1505332714&sr=8-1&keywords=make+mead+like+a+viking&linkCode=ll1&tag=traditionalmead-21&linkId=32b862120d27a23319b0494c2e7a6842)
-* [The Complete Guide to Making Mead: The Ingredients, Equipment, Processes, and Recipes for Crafting Honey Wine](https://www.amazon.co.uk/Complete-Guide-Making-Mead-Ingredients/dp/0760345643/ref=as_li_ss_tl?ie=UTF8&qid=1505332762&sr=8-11&keywords=making+mead&linkCode=ll1&tag=traditionalmead-21&linkId=0210a4eccd8375bf3ba2ce1f2c658c82)
-* [Making Mead: A Complete Guide to the Making of Sweet and Dry Mead, Melomel, Metheglin, Hippocras, Pyment and Cyser](https://www.amazon.co.uk/Making-Mead-Complete-Metheglin-Hippocras/dp/0900841079/ref=as_li_ss_tl?ie=UTF8&qid=1505332762&sr=8-1&keywords=making+mead&linkCode=ll1&tag=traditionalmead-21&linkId=f7fbf92393f7a24040cf230003f37280)
+> **Safety first:** ferment in a food-safe vessel fitted with a proper airlock. Never seal an actively fermenting drink in ordinary bottles. For a first batch, make still mead rather than attempting bottle carbonation.
 
-If you don't know where to start,
-[read about the different kinds of mead](/types-of-mead/)
-you can make.
+## Traditional mead recipe at a glance
 
-## Where to buy homebrew mead kits
+| Item | Amount |
+|---|---:|
+| Honey | 1.5 kg |
+| Water | Enough to make 4.5 litres |
+| Wine or mead yeast | Use the packet’s dose for 4.5 litres |
+| Yeast nutrient suitable for mead or wine | Use the maker’s batch-size directions |
 
-* [Traditional Mead Honey Wine Making Kit](https://www.amazon.co.uk/Traditional-Making-Starter-Bottles-Homebrew/dp/B00QTE7R34/ref=as_li_ss_tl?ie=UTF8&qid=1488412516&sr=8-14&keywords=mead&linkCode=ll1&tag=traditionalmead-21&linkId=54f410a4c1734911f4b7ff28c81a2aa9)
-* [Starter Mead Making Kit](https://www.amazon.co.uk/Making-Starter-Homebrew-Demijohn-Ginger/dp/B00TVF2IB4/ref=as_li_ss_tl?ie=UTF8&qid=1505633037&sr=8-2&keywords=mead+kit&linkCode=ll1&tag=traditionalmead-21&linkId=5e1c5b871d0eff8b8f2dc52363949ba6)
+This quantity of honey commonly produces a wine-strength mead, but the exact alcohol level depends on your honey, final volume, yeast and finishing gravity. Measure rather than assume.
 
-## Ingredients
+Choose a wine or mead yeast whose published temperature range suits the room where you will ferment. A neutral white-wine yeast is a practical beginner choice. Do not choose a yeast solely because it has the highest alcohol tolerance.
 
-* Honey (1.4kg or 3lb) -- Use real, natural honey for the best results.
-* Distilled water (1 gallon or 3.8l)
-* Yeast
-* Any other flavourings such as fruit or spices
+## Equipment
 
-## Preparation
+You will need:
 
-Fully sterlise any equipment as the fermentation process is favourable to
-growth of bacteria and other microorganisms too. Many of the kits listed
-above come with a sterilising solution or powder.
+- a food-safe fermenting bucket or wide-neck fermenter of at least 5–6 litres;
+- a lid, bung and proper fermentation airlock;
+- no-rinse brewing sanitiser;
+- a long spoon;
+- accurate kitchen scales and a measuring jug;
+- a hydrometer and trial jar;
+- a sanitised sample thief, turkey baster or similar tool;
+- siphon tubing, ideally with a racking cane and sediment trap;
+- a second sanitised vessel for racking or bottling;
+- still-wine bottles and suitable closures.
 
-## Make up "must" mixture for your mead
+A second 5-litre demijohn is useful for clearing and ageing, but you can keep the first batch simple. See the [mead-making equipment guide](/mead-making-equipment/) for what is essential, what is optional and how starter kits compare.
 
-First you need to liquify your honey (preferably using a warm water bath) and
-then mix it with the distilled water. There is no need to heat or boil this
-mixture. You now have what is known as "must" (the same term used in wine
-making). At this point you can optionally mix in fruits or spices to add some
-unique flavour to your mead.
+## Method
 
-Now you can add the yeast to your must. Some yeasts require some rehydration
-first, so check the label for any instructions.
+### 1. Clean, then sanitise
 
-## Store and ferment your mead
+Cleaning removes visible dirt; sanitising reduces the microorganisms that could spoil the mead. They are separate jobs.
 
-Place in a fermantation bucket or any other large, sterilised container. You
- want to ensure the following:
+Clean the fermenter and every tool that will touch the must (the unfermented honey and water mixture). Apply a brewing sanitiser at the concentration and contact time printed on its label. Do not use equipment with scratches, residue or odours you cannot remove.
 
- * The container should not beoverly full -- leave room for a lively
- fermentation!
- * You need to stop air getting in, while still allowing carbon dioxide to
-   escape. Many of the kits listed above come with a proper airlock, but a
-   you can get away with poking holes in a balloon and
-   stretching over the top of the container (secure with tape or an elastic
-   band).
- * Leave the mead fermenting in a location that keeps it at the right
- temperature. Check the label for your yeast to see if any particular
- temperature is recommended.
+### 2. Mix the must
 
+Stand the closed honey containers in warm water if the honey is too thick to pour. Avoid boiling the honey: excessive heat can drive off delicate aromas.
 
-## Check the gravity
+Add the honey to your sanitised fermenter, then add some room-temperature water. Stir until the honey is fully dissolved. Top up to **4.5 litres**, leaving enough headspace for foam during the most active stage.
 
-*Specific gravity* (SG) is the density of your must at any time. You can get
-the *original gravity* (OG) by measuring with a hydrometer. Pure water has an
-SG of exactly 1, so your mixture is going to be something like 1.100 (each
-1lb of honey seems to add 0.035 of gravity).
+Tap water that tastes pleasant is often usable, but heavily chlorinated water can cause off-flavours. If in doubt, use still bottled spring water.
 
-SG is expected to go down (attentuate) during the fermentation process as
-the yeast converts the sugars into alcohol.
+### 3. Take the original gravity
 
-You can predict what the *final gravity* (FG) will be by predicting how much
-sugar your yeast will convert into alcohol. First we can use a simple
-formula that estimates the ABV of your fermented drink:
+Fill a sanitised trial jar with a sample and float the hydrometer without letting it touch the sides. Spin it gently to dislodge bubbles, then read at the liquid’s surface according to the instrument’s instructions. Record this as the **original gravity (OG)**, along with the sample temperature.
 
-    (OG - FG) x 131 = ABV
+Do not return a used sample to the fermenter; taste it or discard it. The [hydrometer guide](/mead-hydrometer-guide/) explains calibration, temperature correction and alcohol estimates.
 
-That is, if your original gravity is 1.100 and then you measure the final
-gravity after fermentation stops to get 1.005, then you can plug OG and FG
-into the formula above to get:
+### 4. Add yeast and nutrient
 
-    (1.100 - 1.005) x 131 = (0.095) x 131 = 12.4%
+Honey supplies fermentable sugar but relatively little of the nitrogen and micronutrients yeast need. A suitable yeast nutrient helps reduce sluggish fermentation and avoidable stress aromas.
 
-Your yeast should have a known alcohol tolerance. For example, Lalvin
-EC-1118 is a popular Champagne yeast that is good for making a strong mead
-and its rated tolerance is 18%.
+Prepare and pitch the yeast exactly as its manufacturer directs. Add nutrient according to the nutrient maker’s directions for a 4.5-litre mead or wine batch. Nutrient products are not interchangeable, so a universal teaspoon measure would be misleading.
 
-If we use that tolerance as an estimate for what our final ABV will be, we
-can use the formula above in reverse:
+Many mead makers divide, or **stagger**, the recommended nutrient dose over the early active phase rather than adding all of it at once. If your product provides a mead schedule, follow it. Keep the total within the maker’s recommended amount and do not improvise late additions after fermentation has mostly finished.
 
-    OG - (ABV / 131) = FG
+Before fermentation becomes active, stir or shake the covered must thoroughly to introduce oxygen. Once active fermentation is established, avoid splashing and unnecessary exposure to air.
 
-And then plug in 18% as our estimated final ABV along with an example original
-gravity of 1.150 (this example is higher as more honey is needed for such a
-strong mead):
+### 5. Ferment at a steady temperature
 
-    FG = 1.150 - (18 / 131) = 1.150 - 0.138 = 1.012
+Fit the sanitised airlock and keep the fermenter out of direct sunlight, within the yeast maker’s stated temperature range. A stable temperature is usually better than one that swings between hot and cold.
 
-Note that if the original gravity had been 0.100 as per our first example, the
-formula would suggest a FG below 1, which is impossible! In that case, it's
-telling us that the yeast would ferment all the sugar out of the must and
-the final mead will be quite dry.
+Bubbling may begin within a day or two, but the airlock is a vent, not a fermentation meter. A leaky lid may never bubble; a temperature or pressure change can make a finished batch bubble again.
 
-If you want to retain some sweetness to your final mead, choose an ABV for
-the formula 1% or so above what the yeast can manage. So we might make a
-must with an original gravity that would create an ABV of 19% or 20% for a
-yeast with a tolerance of 18%. This ensures that fermentation stops *before*
-all the sugar turns into alcohol.
+Do not set a bottling date from the calendar. Primary fermentation may take weeks, and clearing and maturation usually take longer.
 
-## Aerate for the first sugar break
+### 6. Check progress with the hydrometer
 
-Once we know the estimated, final gravity (FG), we can get the attenuation
-from the simple different of OG and FG, e.g.
+When visible activity has subsided, take a clean hydrometer reading and record it. Repeat at least several days later—**a week apart is a cautious beginner interval**.
 
-    Attenuation = OG - FG = 1.100 - 1.005 = 0.095
+Fermentation can be treated as finished only when:
 
-If we divide that number into thirds (e.g. 0.032), then our first sugar break
-is at:
+- the gravity is unchanged across repeated readings;
+- the mead is at a plausible finishing gravity for that yeast and recipe;
+- there are no signs of renewed fermentation or spoilage.
 
-    1.100 - 0.032 = 1.068
+A dry mead can finish below 1.000 because alcohol is less dense than water. That is normal. A higher reading is not automatically unsafe, but it may mean residual sugar or an incomplete fermentation and needs careful assessment.
 
-In our example here, the yeast needs aerating (i.e. allow oxygen in) while the
-specific gravity is between 1.100 and 1.068. Ensure that you aerate daily for
-that first third of gravity attenuation, maybe more than once a day if you can.
+If gravity is still falling, wait. If it appears stuck unusually high, use the [fermentation troubleshooting guide](/mead-fermentation-troubleshooting/) rather than adding more yeast or bottling immediately.
 
-## Wait
+### 7. Rack and allow the mead to clear
 
-You will need to ferment for probably at leaast 8 weeks. You can bottle
-after that time if you wish, but there's a few more nuanced things to look
-out for if you want to be more precise.
+Once gravity is stable, siphon the mead away from the sediment into a sanitised vessel. Keep the outlet below the liquid surface and avoid splashing. Minimise empty headspace during longer storage.
 
-A simple sign that fermentation has stopped is when the bubbling has stopped.
-If you are using an air lock and see no bubble for 3 weeks, then you're good
-to go.
+Racking is optional if you plan to bottle promptly and the mead is already clear, but time off the heaviest sediment can make packaging easier. Cloudiness by itself is not usually dangerous; it often settles with patience.
 
-Another sign is that there is no change in your specific gravity for several
-days.
+Taste the sample. Young mead can seem sharp, hot or disjointed and may improve markedly over the next few months.
 
+### 8. Bottle only when stable
 
-Image titled Make Mead Step 66
+For this beginner recipe, package the mead **still**:
 
-There are a few different ways to know when the mead is done fermenting:[2]
+1. Confirm unchanged gravity again before bottling.
+2. Sanitise bottles, closures, siphon and bottling equipment.
+3. Siphon without disturbing sediment or splashing.
+4. Fill to an appropriate level and close with closures intended for those bottles.
+5. Label the batch and bottling date, then store it somewhere cool and dark.
 
-The most accurate way to know is to measure the specific gravity with a
-hydrometer when you first mix it, then measure it every two weeks. The chosen
-yeast has a published ABV tolerance, and the hydrometer reading can be used to
-determine what the final gravity of the mead should be. When the mead reaches
-this gravity, wait a minimum of 4-6 months before bottling to ensure all CO2
-that was in suspension in the mead has degassed. If the mead has not properly
-degassed and too much CO2 for the rating of the type of bottle the mead is
-bottled in is transferred, there is a risk of bottle explosion with temperature
-swings.
+Do **not** add priming sugar or extra honey at bottling. Carbonating mead safely requires pressure-rated bottles, precise calculations and a confirmed finished fermentation.
 
-Wait at least 8 weeks. The amount of time it takes for the mead to ferment will
-depend on a variety of factors, but 8 weeks should be enough time for most
-scenarios.
+If you want sweeter mead, the safest beginner option is to sweeten each glass when serving. Proper backsweetening normally requires a completely finished mead plus measured stabilisation with potassium metabisulphite and potassium sorbate according to product directions. Filtration or pasteurisation are specialist alternatives. Simply pushing yeast beyond its advertised alcohol tolerance is unpredictable and not a sound sweetness-control method.
 
-If you're using an airlock, wait until 3 weeks after it stops bubbling.
+## How long before it is ready?
 
-## Age your mead
+You may be able to bottle after several weeks, but clarity and flavour—not a fixed deadline—should guide you. Many traditional meads benefit from **two to six months** of maturation, and some improve for longer.
 
-Transfer your fermented must to a large container such as a demijohn to
-store for aging. Make sure there is no space for air if possible. We want to
-minimise the amount of mead touching the air.
+Try a small bottle periodically and keep notes. Honey character, fermentation temperature, yeast choice and residual sweetness all affect how quickly a batch comes together.
 
-The longer you spend aging the mead, the better. You will probably want to
-leave this for a good 6 to 8 months, but some advice on other sites
-advocates bottling after 2-3 months!
+## Common questions
 
-## Bottle it!
+### Can I make mead with bread yeast?
 
-Transfer the mead into bottles, seal, and store in a cool dark place. Open
-and enjoy when you feel the need for mead.
+It can ferment honey, but a packaged wine or mead yeast gives you clearer information about temperature, alcohol tolerance and expected behaviour. That makes it a better first choice.
+
+### Do I need to boil the honey?
+
+No. Modern cleaning, sanitising and yeast management make prolonged boiling unnecessary for this recipe, and high heat can diminish honey aroma.
+
+### Has fermentation finished when the airlock stops?
+
+No. Airlock activity can stop because of a poor seal, temperature change or slow fermentation. Use stable hydrometer readings taken several days apart.
+
+### Can I bottle cloudy mead?
+
+Clear mead is easier to bottle without sediment, but clarity does not prove fermentation is complete. Conversely, a brilliantly clear mead could still contain fermentable sugar. Confirm stability with a hydrometer.
+
+### What alcohol percentage is my mead?
+
+A common estimate is:
+
+**ABV ≈ (OG − FG) × 131.25**
+
+For example, an OG of 1.100 and FG of 1.000 gives an estimate of about 13.1% ABV. It is an estimate, not a laboratory measurement.
+
+## Next steps
+
+- [Choose the right mead-making equipment](/mead-making-equipment/)
+- [Learn to use a hydrometer](/mead-hydrometer-guide/)
+- [Diagnose a slow or stuck fermentation](/mead-fermentation-troubleshooting/)
+- [Explore different types of mead](/types-of-mead/)
+- Prefer tasting to brewing? See [where to buy mead in the UK](/buy-mead-uk/)
+
+## Sources and further reading
+
+- [BJCP: The Mead Making Process](https://www.bjcp.org/exam-certification/mead-judge-program/studying-for-the-mead-exams/mead-exam-study-guide/9-the-mead-making-process/)
+- [BJCP Mead Exam Study Guide: ingredients, process and finishing](https://www.bjcp.org/education-training/exam-preparation/mead-part-2-mead-exam-study-guide/)
+- [American Homebrewers Association: how to take an accurate hydrometer reading](https://www.homebrewersassociation.org/how-to-brew/how-to-take-an-accurate-hydrometer-reading/)
+- [Lallemand: Lalvin EC-1118 technical information](https://www.lallemandbrewing.com/en/global/products/lalvin-ec-1118/)
+
+*Reviewed 11 October 2026. Always follow the current instructions supplied with your yeast, nutrient, sanitiser and stabilising products.*
