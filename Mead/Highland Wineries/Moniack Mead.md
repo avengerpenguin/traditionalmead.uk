@@ -1,33 +1,37 @@
+Title: Moniack Mead Review: Tasting Notes & Where to Buy
+Summary: Moniack Mead review with tasting notes, 14.6% ABV, serving and food-pairing ideas, plus current UK buying options.
 Tags: [[Scottish Meads]], [[Pure Honey Mead]]
 Rating: 5
 
 ![Bottle of Moniack Mead](/images/moniack.jpg)
 
-Moniack Mead is one of our absolute favourites. It’s an excellent example of the darker pure mead style with additional notes of caramel, maybe even slightly burnt.
+Moniack Mead is one of our favourite traditional-style meads. It is a dark, warming honey wine with prominent caramel and fermented-honey flavours, balanced by light floral notes and a drier edge than its colour might suggest.
 
-It's created by Highlands winery which is based in what used to be a sixteenth Century castle, Moniack Castle, in Invernessshire.
+Originally produced at Moniack Castle in the Scottish Highlands, it is now part of [[Lyme Bay Winery]]'s range. We continue to classify it as a [[Scottish Meads|Scottish mead]] because of its origin and identity, even though Lyme Bay Winery is based in Devon.
 
-Since the winery is now fully owned by [[Lyme Bay Winery]], it is tempting to mark this as an [[English Meads|English mead]] as well as a [[Scottish Meads|Scottish mead]]. We've kept it as just Scottish for now given its history, but feel free to discuss this in the comments!
-
-I first encounted this mead at a "Highland Village" component of the Christmas markets in Edinburgh. The German side of the markets closed up by Christmas Day, but the Highland side stayed open right up until midnight on Hogmanay. It was served warmed and this is a drink that does well served warm in the Winter.
+**Our verdict:** choose Moniack if you want a full-bodied, caramel-led mead rather than a light or delicately floral example. At 14.6% ABV, it is best treated like a dessert wine and served in a small glass. We have also enjoyed it gently warmed at Edinburgh's Christmas market, which suits its rich flavour particularly well in winter.
 
 ## Appearance
 
-The colour is a deep burnt orange colour hinting at caramel in the taste. There are strong legs on the glass from the relatively strong 14.6% ABV. Despite the robust colour, there is a pleasant translucency as the light shines through.
+Moniack has a deep burnt-orange colour that hints at the caramel flavours to come. There are strong legs on the glass from its 14.6% ABV, but it remains pleasantly translucent when held to the light.
 
 ## Nose
 
-The nose is slightly floral with a robust body of caramel aroma. a powerful nose is something that may be lacking in a number of the lighter mead styles.
+The aroma is lightly floral with a robust core of caramel and fermented honey. It has a more powerful nose than many lighter mead styles.
 
 ## Taste
 
-It is positively sweet on the palate, however the caramel body carries it well to a balanced, warming mead drink.
+The palate is smooth and warming, with honey and caramel at the centre. It tastes sweet, but a slight dryness and gentle floral character keep it from becoming cloying. The finish is lingering and rich.
 
 ## Food pairing
 
-Our personal favourite pairing for a robust, Scottish mead is of course as a dessert wine with cranachan at the end of a Burns Supper!
+Serve Moniack with mature cheese, rich casseroles or a not-too-sweet dessert. Our favourite pairing is cranachan at the end of a Burns Supper.
 
-## Where to buy
+## Where to buy Moniack Mead
 
-* [Amazon UK](https://www.amazon.co.uk/MONIACK-Moniack-Mead-750ml/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035679&sr=1-1&keywords=moniack&linkCode=ll1&tag=traditionalmead-21&linkId=aa127fbb7c626b27492faee3f2ec6a7d)
-* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2fhighland-wineries%2fmoniack-mead%2f%3fsrh%3d1)
+*Availability checked: October 2026.*
+
+- [Buy Moniack Mead direct from Lyme Bay Winery](https://lymebaywinery.co.uk/product/moniack-mead)
+- [Check Moniack Mead availability on Amazon UK](https://www.amazon.co.uk/MONIACK-Moniack-Mead-750ml/dp/B0082C2E84/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513035679&sr=1-1&keywords=moniack&linkCode=ll1&tag=traditionalmead-21&linkId=aa127fbb7c626b27492faee3f2ec6a7d)
+
+Prices and stock can change, so compare the delivered price before ordering.

@@ -1,79 +1,92 @@
-This Privacy Policy ("Policy") describes how Traditional Mead UK ("we," "us," or "our") collects, uses, and discloses personal information when you visit and use our website https://traditionalmead.uk/ ("Website"). This Policy is in compliance with the General Data Protection Regulation (GDPR) and applies to all visitors and users of our Website.
+Title: Privacy Policy
+Slug: privacy-policy
+Status: published
 
-1. Data Collection and Usage
+This Privacy Policy explains how Traditional Mead UK ("we", "us" or "our") handles personal information when you visit [traditionalmead.uk](https://traditionalmead.uk/) (the "Website").
 
-1.1 Personal Information: We may collect and process the following personal information about you:
+## 1. Information we may collect
 
-- Information you provide voluntarily: When you interact with our Website, you may voluntarily provide us with certain personal information, such as your name, email address, or any other information you choose to provide through contact forms or newsletter subscriptions.
+### Information you provide
 
-- Automatically collected information: We may automatically collect certain information about your visit to our Website, such as your IP address, browser type, referring website, pages viewed, and the date and time of your visit. This information helps us to improve our Website and provide a better user experience.
+If you contact us or use an interactive feature, we may receive information you choose to provide, such as your name, email address and message.
 
+### Information collected automatically
 
-1.2 Cookies and Similar Technologies: Our Website uses cookies and similar technologies to enhance your browsing experience. These technologies may collect and store information about your preferences and usage patterns. You have the option to disable cookies through your browser settings, but please note that this may affect the functionality of our Website.
+Our hosting, security, analytics and advertising services may receive technical and usage information such as your IP address, browser and device type, referring page, pages viewed, approximate location, and the date and time of your visit.
 
-1.3 Google AdSense: We have implemented Google AdSense on our Website to display advertisements. As a third-party advertising partner, Google may collect and use certain information about your visits to our Website and other websites to provide personalized ads based on your interests. Google's use of the collected data is subject to its own Privacy Policy. To understand how Google uses your data, please review Google's Privacy Policy.
+## 2. Cookies and similar technologies
 
-2. Legal Basis for Processing
+The Website and third-party services used by it may use cookies, pixels, local storage or similar technologies. These can be used to operate the Website, measure usage, prevent fraud, remember preferences, show or measure advertising, and attribute purchases made after following an affiliate link.
 
-We process your personal information based on the following legal grounds:
+You can control or delete cookies through your browser settings. Blocking some cookies may affect how the Website or third-party services work.
 
-- Performance of a contract: If you have provided your personal information to us for the purpose of fulfilling a contract or service, we will process your information based on the performance of that contract or service.
+## 3. Analytics and advertising
 
-- Legitimate interests: We may process your personal information for our legitimate business interests, such as improving our services, ensuring the security of our Website, and understanding user preferences and behaviour to enhance user experience.
+We may use Google Analytics to understand how visitors use the Website. Google may process technical and usage data under its own privacy terms.
 
-- Consent: We will seek your consent for the collection and processing of your personal information in cases where consent is required under applicable laws. You have the right to withdraw your consent at any time.
+We may also use Google AdSense to display and measure advertisements. Google and its partners may use cookies or similar technologies to provide, personalise and measure advertising, subject to applicable consent requirements and Google's own privacy terms.
 
+For more information about how Google uses information from sites that use its services, see [Google's privacy and terms information](https://policies.google.com/technologies/partner-sites).
 
-3. Data Sharing and Disclosure
+## 4. Affiliate links
 
-We may share your personal information with third parties in the following circumstances:
+Some links to retailers are affiliate links. If you follow one and make a qualifying purchase, we may receive a commission at no additional cost to you. Affiliate links may include referral parameters, and the retailer or affiliate network may use cookies or similar technologies to record the referral and attribute a purchase.
 
-- Service providers: We may engage third-party service providers who process personal information on our behalf, such as hosting providers, analytics providers, or email delivery services. These service providers are authorised to process your personal information only as necessary to provide the requested services to us.
+Affiliate partners and networks used by the Website may include Amazon Associates, Awin and Adtraction. Those organisations process information under their own privacy policies and determine the duration and operation of their tracking technologies.
 
-- Legal obligations: We may disclose your personal information if required to do so by law or if we believe that such disclosure is necessary to comply with a legal obligation, protect our rights, or prevent fraud or illegal activities.
+See our [Affiliate Disclosure](/affiliate-disclosure/) for a plain-language explanation of these relationships and the required Amazon Associates statement.
 
-- Business transfers: In the event of a merger, acquisition, or sale of all or a portion of our assets, your personal information may be transferred as part of the transaction. We will notify you via email or a prominent notice on our Website of any change in ownership or the uses of your personal information.
+## 5. Why we process information
 
+Depending on the circumstances, we may process personal information:
 
-4. Data Security
+- with your consent, where consent is required;
+- for our legitimate interests in operating, securing, measuring and improving the Website, provided those interests are not overridden by your rights;
+- to take steps at your request or perform a contract; or
+- to comply with a legal obligation.
 
-We implement appropriate technical and organisational measures to protect your personal information against unauthorised access, alteration, disclosure, or destruction. However, please note that no method of transmission over the internet or method of electronic storage is 100% secure. We cannot guarantee the absolute security of your personal information.
+You may withdraw consent at any time where processing relies on consent. This will not affect processing that occurred before withdrawal.
 
-5. Data Retention
+## 6. Sharing information
 
-We retain your personal information only for as long as necessary to fulfil the purposes for which it was collected, unless a longer retention period is required or permitted by law. When determining the appropriate retention period, we consider the nature and sensitivity of the information, the potential risk of harm from unauthorised use or disclosure, and applicable legal requirements.
+We may share information with service providers that help us host, secure, analyse, advertise or operate the Website, and with retailers or affiliate networks when you interact with their links or services. We may also disclose information where required by law, to protect legal rights, or as part of a business transfer.
 
-6. Your Rights
+Third-party websites are governed by their own privacy policies. Following an external link takes you to a service we do not control.
 
-Under the GDPR, you have the following rights regarding your personal information:
+## 7. International transfers
 
-- Right to access: You have the right to request access to the personal information we hold about you and receive a copy of that information.
+Some service providers may process information outside the United Kingdom. Where required, appropriate safeguards should be used for international transfers, such as an adequacy regulation or approved contractual protections.
 
-- Right to rectification: You have the right to request the correction of any inaccurate or incomplete personal information we hold about you.
+## 8. Data retention and security
 
-- Right to erasure: You have the right to request the deletion of your personal information under certain circumstances, such as when it is no longer necessary for the purposes for which it was collected.
+We keep personal information only for as long as reasonably necessary for the purposes described above, including legal, accounting, security and dispute-resolution requirements. Third-party providers apply their own retention periods.
 
-- Right to restrict processing: You have the right to request the restriction of the processing of your personal information under certain circumstances, such as when you contest the accuracy of the information.
+We use reasonable technical and organisational measures to protect information, but no internet transmission or storage system can be guaranteed completely secure.
 
-- Right to data portability: You have the right to receive your personal information in a structured, commonly used, and machine-readable format and have the right to transmit that information to another controller.
+## 9. Your data protection rights
 
-- Right to object: You have the right to object to the processing of your personal information under certain circumstances, such as when the processing is based on legitimate interests.
+Depending on the law that applies, you may have rights to:
 
-- Right to withdraw consent: If we rely on your consent to process your personal information, you have the right to withdraw your consent at any time.
+- access personal information held about you;
+- correct inaccurate or incomplete information;
+- request deletion or restriction of processing;
+- object to processing based on legitimate interests or to direct marketing;
+- receive certain information in a portable format;
+- withdraw consent; and
+- complain to a data protection authority, including the UK Information Commissioner's Office.
 
+These rights may be subject to legal conditions or exceptions. To make a request, contact us using the address below.
 
-To exercise any of these rights, please contact us using the contact information provided at the end of this Privacy Policy.
+## 10. Children's privacy
 
-7. Children's Privacy
+The Website concerns alcoholic drinks and is not directed at children. We do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact us.
 
-Our Website is not directed to individuals under the age of 18, and we do not knowingly collect personal information from children. If you believe that we may have collected personal information from a child under the age of 18, please contact us, and we will take appropriate measures to investigate and address the issue.
+## 11. Changes to this policy
 
-8. Changes to this Policy
+We may update this Privacy Policy. Material changes will be posted on this page with a revised date.
 
-We reserve the right to update or modify this Privacy Policy from time to time. Any changes we make to this Policy will be posted on this page with a revised "Last Updated" date. We encourage you to review this Policy periodically to stay informed about how we collect, use, and protect your personal information.
+## 12. Contact
 
-9. Contact Us
+For questions or requests about this Privacy Policy, email privacy@functionalprogramming.co.uk.
 
-If you have any questions, concerns, or requests regarding this Privacy Policy or the processing of your personal information, please contact us at privacy@functionalprogramming.co.uk.
-
-Last Updated: 2023-06-13
+Last updated: 13 October 2026

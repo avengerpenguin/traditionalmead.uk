@@ -45,6 +45,5 @@ The dryness and acidity makes the drink more refreshing for drinking by itself
 
 * [Amazon UK](https://www.amazon.co.uk/Lindisfarne-Mead-Wine-70-cl-x/dp/B007K9EDFM/ref=as_li_ss_il?ie=UTF8&qid=1491769691&sr=8-1&keywords=lindisfarne+mead&linkCode=li3&tag=traditionalmead-21&linkId=3403dffe59153f8bffa245e9d1219cf4)
 * [All 3 Lindifarne miniatures in a gift set at Amazon](https://www.amazon.co.uk/Lindisfarne-Miniature-Mead-contains-bottles/dp/B01HOCTB1U/ref=as_li_ss_tl?ie=UTF8&qid=1493067774&sr=8-2&keywords=lindisfarne+mead&linkCode=ll1&tag=traditionalmead-21&linkId=f07bb0da9f026028c1e8ab5dada4d868)
-* [TheDrinkShop](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=61&p=https%3A%2F%2Fwww.thedrinkshop.com%2Fitem%2F9886%2Flindisfarne-mead)
 * [DrinkSupermarket](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=3574&p=https%3A%2F%2Fwww.drinksupermarket.com%2Flindisfarne-mead-70cl-14-5-abv)
-* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flindisfarne%2flindisfarne-mead%2f%3fsrh%3d1)
+<!-- Closed TheDrinkShop and obsolete Master of Malt affiliate links removed. -->
