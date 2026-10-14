@@ -1,41 +1,39 @@
+Title: Lyme Bay Traditional Mead Review & Where to Buy
+Summary: Lyme Bay Traditional Mead review with tasting notes, 11% ABV, food pairings and current UK buying options for this sweet English honey wine.
 Tags: English Meads
 Rating: 5
 
-![](/images/lyme-bay-trad.jpg)
+![Bottle of Lyme Bay Traditional Mead](/images/lyme-bay-trad.jpg)
 
-[Lyme Bay Winery](/lyme-bay-winery/)
-in Axminster produces a lot of traditional English drinks
-including mead, fruit wines and liqueurs. Their traditional mead is perhaps
-their flagship mead, which sells pretty well due to being stocked at English
-Heritage gifts shops up and down England.
+[[Lyme Bay Winery]] in Devon produces mead alongside English wine, fruit wine and liqueurs. Its Traditional Mead is a sweet, full-flavoured honey wine and a good introduction to the richer style of English mead.
+
+**Our verdict:** this is an approachable choice for someone who expects mead to taste distinctly of honey. It offers plenty of sweetness and body, but toasted and lightly burnt-caramel notes stop the finish from feeling one-dimensional. The current bottling is 11% ABV and comes in a 75cl bottle.
 
 <!-- PELICAN_END_SUMMARY -->
 
-Lyme Bay Winery's traditional mead was awarded a one star "Great Taste"
-gold award in 2013 and it is certainly well-deserved.
+Lyme Bay Traditional Mead received a one-star Great Taste award in 2013.
 
 ## Colour
 
-This is a relatively dark style, with usual notes of burnt caramel and a
-reasonable body to balance out the honey sweetness. This is perhaps similar
-in style to [Moniack Mead](/moniack-mead) and there's quite the debate as
-to which comes first between the two!
+This is a relatively dark golden mead. Its colour and body suggest honeycomb and caramel before the first sip. It is similar in broad style to [[Moniack Mead]], although Lyme Bay Traditional Mead is fruitier and lower in alcohol.
 
 ## Nose
 
-The first aroma is definitely a sweet one, perhaps more strongly so than the
-Moniack mead. There is also more of a fruity aroma whereas some similar
-meads -- like the Moniack again -- might be a little more floral.
+The aroma is immediately sweet, with rich honey and a slightly fruity character. Compared with Moniack Mead, it is less floral and more obviously honey-led.
 
 ## Taste
 
-The first taste is just on the dry side of sweet -- compared to some sweeter
-meads in the darker style. There are stronger burnt notes also on the
-finish, which ultimately leads to a pleasing balance of toasty flavours and
-sweetness.
+Rich honey is the main flavour, followed by honeycomb and toasted caramel. The finish has a slightly burnt edge that balances the sweetness and adds depth.
 
-## Where to buy
+## How to serve it
 
-* [Single bottle (Amazon UK)](https://amzn.to/2ZXUI0E)
-* [Master of Malt](https://scripts.affiliatefuture.com/AFClick.asp?affiliateID=345342&merchantID=7042&programmeID=25000&mediaID=0&tracking=&afsource=60&url=https%3a%2f%2fwww.masterofmalt.com%2fmead%2flyme-bay-winery%2ftraditional-mead-lyme-bay-winery-mead%2f%3fsrh%3d1)
-* [English Heritage](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=5926&p=http%3A%2F%2Fwww.english-heritageshop.org.uk%2Ffood-drink%2Fenglish-heritage-traditional-mead) (Branded as "English Heritage Traditional Mead")
+Serve lightly chilled or at cool room temperature in a small wine glass. It pairs well with strong cheese, full-flavoured casseroles and simple desserts that are not sweeter than the mead itself.
+
+## Where to buy Lyme Bay Traditional Mead
+
+*Availability checked: October 2026.*
+
+- [Buy Traditional Mead direct from Lyme Bay Winery](https://lymebaywinery.co.uk/product/traditional-mead)
+- [Check Lyme Bay Traditional Mead availability on Amazon UK](https://amzn.to/2ZXUI0E)
+
+The winery also sells a smaller 375ml bottle, which may suit first-time buyers. Prices and stock can change, so compare bottle sizes and delivery charges before ordering.

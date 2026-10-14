@@ -1,36 +1,50 @@
-title: Find, buy and make mead in the UK
-save_as: index.html
-url:
-status: published
+Title: Find, Buy and Make Mead in the UK
+Summary: Independent UK mead guides, bottle reviews, producer information and a safe beginner’s recipe for making traditional mead at home.
+Save_as: index.html
+URL:
+Status: published
 
-![Glass of mead](/images/glass-small.jpg)
+![A glass of mead](/images/glass-small.jpg)
 
-Traditional Mead UK is your first stop for buying mead, trying mead or [[Making Mead]] at home.
+Traditional Mead UK is an independent guide to finding, buying and making mead. Explore British producers and styles, read bottle reviews, or follow a safer modern method for your first home-fermented batch.
 
-We have pain-stakingly drunk our way through every mead, [[Pyment]], [[Cyser]], melomel and metheglin we can find to buy in the UK (and beyond!).
+## New to mead?
 
-In fact, our work is still incomplete, so please do comment with your own opinions even if we have yet to post our own tasting notes.
+Mead is an alcoholic drink made by fermenting honey with water. It can be still or sparkling, dry or sweet, and flavoured with fruit, herbs or spices.
 
-## What is mead?
+Start with:
 
-Mead is an ancient, alcoholic drink dating back as far as 7000 BCE in China. It is made by fermenting honey to produce a wine-strength drink typically between 8% and 25% ABV.
+- [What is mead?](/what-is-mead/)
+- [The history of mead](/history-of-mead/)
+- [Types of mead](/types-of-mead/)
+- [Where to buy mead in the UK](/buy-mead-uk/)
 
-If you are yet to try mead (you're missing out!), you might want to
-read up some of our introductory pages on the drink:
+## Buy mead in the UK
 
-* [[What Is Mead?]]
-* [[History of Mead]]
-* [[Types of Mead]]
+Our [UK mead buying guide](/buy-mead-uk/) explains traditional, fruit, spiced and sparkling styles and links to producer shops whose status was checked in 2026. Product stock and prices change, so individual reviews distinguish dated availability from permanent recommendations.
 
-## Mead reviews and how to buy
+Browse by region:
 
-You can view all our [[Producers]] or browse our listings and tasting notes by country:
+- [English meads](/english-meads/)
+- [Scottish meads](/scottish-meads/)
+- [Welsh meads](/welsh-meads/)
 
-* [[English Meads]]
-* [[Scottish Meads]]
-* [[Welsh Meads]]
+You can also browse [mead producers](/producers/) and our bottle reviews. Older pages remain useful as an archive, but a historical listing is not proof that a product is still sold.
 
+## Make mead at home
 
-## Making Mead
+Begin with our metric-first [4.5-litre traditional mead recipe](/making-mead/). It covers sanitising, yeast nutrition, gravity readings and safe still-mead bottling.
 
-See our quick starter guide on [[Making Mead]]
+Then use the supporting guides:
+
+- [Mead-making equipment](/mead-making-equipment/)
+- [How to use a hydrometer for mead](/mead-hydrometer-guide/)
+- [Mead fermentation troubleshooting](/mead-fermentation-troubleshooting/)
+
+Home fermentation rewards patience. Do not judge completion by airlock bubbles or a calendar alone; confirm stable gravity before bottling.
+
+## Seasonal mead
+
+Looking for a festive bottle? The [Christmas mead guide](/christmas-meads/) separates currently verified products from older or uncertain listings and includes warming, serving and food-pairing advice.
+
+Some links on this site are affiliate links and are clearly disclosed. Read the [Affiliate Disclosure](/affiliate-disclosure/) for details.

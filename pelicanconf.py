@@ -118,6 +118,9 @@ MENUITEMS_START = (
     ("Types of Mead", "/types-of-mead/"),
     ("History of Mead", "/history-of-mead/"),
     ("Making Mead", "/making-mead/"),
+    ("Affiliate disclosure", "/affiliate-disclosure/"),
     ("Search", "/search/"),
 )
+# Keep template customisations in the repository rather than editing the installed theme.
+THEME_TEMPLATES_OVERRIDES = ["theme-overrides/templates"]
 # THEME = './theme'
