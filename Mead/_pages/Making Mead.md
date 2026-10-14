@@ -38,7 +38,11 @@ You will need:
 - a second sanitised vessel for racking or bottling;
 - still-wine bottles and suitable closures.
 
-A second 5-litre demijohn is useful for clearing and ageing, but you can keep the first batch simple. See the [mead-making equipment guide](/mead-making-equipment/) for what is essential, what is optional and how starter kits compare.
+A second 5-litre demijohn is useful for clearing and ageing, but you can keep the first batch simple. See [[Mead Making Equipment|the mead-making equipment guide]] for what is essential, what is optional and how starter kits compare.
+
+If you are starting from nothing, a starter kit is the quickest way to avoid missing small but important parts such as an airlock, siphon or sanitiser. Two current Amazon UK options to compare are the [Deluxe 1-gallon mead making kit](https://www.amazon.co.uk/Deluxe-Mead-Making-Kit-Compatibility/dp/B0FYSY1C7H?tag=traditionalmead-21) and the [Almost Off Grid 4.5L traditional mead starter kit](https://www.amazon.co.uk/Almost-Off-Grid-Traditional-Complete/dp/B093QG5VQF?tag=traditionalmead-21). Check the live contents before ordering: many kits still require honey, and some one-gallon kits are based on a smaller US gallon rather than this 4.5-litre recipe.
+
+> **Affiliate disclosure:** The Amazon links in this equipment note are affiliate links. If you make a qualifying purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
 
 ## Method
 
@@ -60,7 +64,7 @@ Tap water that tastes pleasant is often usable, but heavily chlorinated water ca
 
 Fill a sanitised trial jar with a sample and float the hydrometer without letting it touch the sides. Spin it gently to dislodge bubbles, then read at the liquid’s surface according to the instrument’s instructions. Record this as the **original gravity (OG)**, along with the sample temperature.
 
-Do not return a used sample to the fermenter; taste it or discard it. The [hydrometer guide](/mead-hydrometer-guide/) explains calibration, temperature correction and alcohol estimates.
+Do not return a used sample to the fermenter; taste it or discard it. [[Mead Hydrometer Guide|The hydrometer guide]] explains calibration, temperature correction and alcohol estimates.
 
 ### 4. Add yeast and nutrient
 
@@ -92,7 +96,7 @@ Fermentation can be treated as finished only when:
 
 A dry mead can finish below 1.000 because alcohol is less dense than water. That is normal. A higher reading is not automatically unsafe, but it may mean residual sugar or an incomplete fermentation and needs careful assessment.
 
-If gravity is still falling, wait. If it appears stuck unusually high, use the [fermentation troubleshooting guide](/mead-fermentation-troubleshooting/) rather than adding more yeast or bottling immediately.
+If gravity is still falling, wait. If it appears stuck unusually high, use [[Mead Fermentation Troubleshooting|the fermentation troubleshooting guide]] rather than adding more yeast or bottling immediately.
 
 ### 7. Rack and allow the mead to clear
 
@@ -150,11 +154,11 @@ For example, an OG of 1.100 and FG of 1.000 gives an estimate of about 13.1% ABV
 
 ## Next steps
 
-- [Choose the right mead-making equipment](/mead-making-equipment/)
-- [Learn to use a hydrometer](/mead-hydrometer-guide/)
-- [Diagnose a slow or stuck fermentation](/mead-fermentation-troubleshooting/)
-- [Explore different types of mead](/types-of-mead/)
-- Prefer tasting to brewing? See [where to buy mead in the UK](/buy-mead-uk/)
+- [[Mead Making Equipment|Choose the right mead-making equipment]]
+- [[Mead Hydrometer Guide|Learn to use a hydrometer]]
+- [[Mead Fermentation Troubleshooting|Diagnose a slow or stuck fermentation]]
+- [[Types of Mead|Explore different types of mead]]
+- Prefer tasting to brewing? See [[Buy Mead UK|where to buy mead in the UK]]
 
 ## Sources and further reading
 

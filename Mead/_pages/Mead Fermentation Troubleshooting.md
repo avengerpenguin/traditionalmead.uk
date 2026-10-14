@@ -4,7 +4,7 @@ Summary: Diagnose common mead fermentation problems including no activity, stall
 Date: 2026-10-11
 Status: published
 
-Mead fermentation problems are easier to solve when you measure before acting. An airlock can mislead you; a hydrometer, temperature reading and batch notes show whether yeast is consuming sugar.
+Mead fermentation problems are easier to solve when you measure before acting. An airlock can mislead you; a hydrometer, temperature reading and batch notes show whether yeast is consuming sugar. If you are still assembling equipment, buy a hydrometer, trial jar and sanitiser before worrying about optional gadgets.
 
 Start with three checks:
 
@@ -140,7 +140,7 @@ If ordinary bottles become over-carbonated, bulge, leak, push corks or break, tr
 - Cooling can reduce pressure, but does not make damaged glass safe.
 - Ask an experienced local brewer or homebrew shop how to manage the batch safely.
 
-Prevention is the priority: use [stable hydrometer readings](/mead-hydrometer-guide/) and make still mead for your first batches.
+Prevention is the priority: use [[Mead Hydrometer Guide|stable hydrometer readings]] and make still mead for your first batches.
 
 ## Information to record when asking for help
 
@@ -159,9 +159,11 @@ Provide:
 
 ## Related guides
 
-- [Make a beginner batch of traditional mead](/making-mead/)
-- [Mead hydrometer guide](/mead-hydrometer-guide/)
-- [Mead-making equipment checklist](/mead-making-equipment/)
+If you are missing measuring or transfer equipment, fix that before starting another batch. [[Mead Making Equipment|The equipment checklist]] compares the essentials and current starter-kit options.
+
+- [[Making Mead|Make a beginner batch of traditional mead]]
+- [[Mead Hydrometer Guide|Mead hydrometer guide]]
+- [[Mead Making Equipment|Mead-making equipment checklist]]
 
 Further reading: [BJCP Mead Faults](https://www.bjcp.org/education-training/education-resources/mead-faults/) and [BJCP’s Mead Making Process](https://www.bjcp.org/exam-certification/mead-judge-program/studying-for-the-mead-exams/mead-exam-study-guide/9-the-mead-making-process/).
 

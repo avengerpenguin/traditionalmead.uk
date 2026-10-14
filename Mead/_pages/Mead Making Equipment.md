@@ -6,7 +6,7 @@ Status: published
 
 You do not need a miniature winery to make good mead. For a first 4.5-litre batch, concentrate on equipment that keeps the must sanitary, lets carbon dioxide escape safely and helps you verify that fermentation has finished.
 
-This checklist pairs with the [beginner’s traditional mead recipe](/making-mead/).
+This checklist pairs with [[Making Mead|the beginner’s traditional mead recipe]].
 
 > **Affiliate disclosure:** Some links on this page are Amazon affiliate links. If you buy through one, Traditional Mead UK may receive a commission at no extra cost to you. See the full [Affiliate Disclosure](/affiliate-disclosure/).
 
@@ -41,7 +41,7 @@ A hydrometer measures specific gravity. It lets you:
 
 Choose a trial jar tall enough to float the hydrometer freely. A plastic hydrometer is less fragile; a traditional glass model is widely available. Read the scale and calibration temperature before buying.
 
-See [how to use a hydrometer for mead](/mead-hydrometer-guide/).
+See [[Mead Hydrometer Guide|how to use a hydrometer for mead]].
 
 ### Sampling tool
 
@@ -89,13 +89,22 @@ Your closure determines the tool. Hand corkers can be adequate for occasional us
 
 A kit can be economical if it includes a genuinely useful fermenter, proper airlock, hydrometer, siphon and sanitiser. Check the vessel size and bottle type rather than judging by the number of accessories.
 
-Examples already used elsewhere on this site include the [Balliihoo one-gallon mead-making kit](https://amzn.to/3fmWLnE) and [Brewbitz mead starter equipment kit](https://amzn.to/3UecRo1). Prices, contents and availability can change, so compare the current listing with the checklist above before ordering.
+When comparing kits, look for the unglamorous but essential items: a suitable fermenter, airlock, hydrometer, siphon or racking cane, sanitiser, yeast and nutrient. Many kits still require you to buy honey separately.
+
+Amazon UK options to compare include:
+
+- [Deluxe 1-gallon mead making kit](https://www.amazon.co.uk/Deluxe-Mead-Making-Kit-Compatibility/dp/B0FYSY1C7H?tag=traditionalmead-21) — a wide-mouth one-gallon kit with fermentation and transfer equipment, plus yeast, nutrient and sanitiser. The wide mouth should make cleaning and adding honey easier than with a narrow demijohn.
+- [Almost Off Grid deluxe traditional mead starter kit](https://www.amazon.co.uk/Almost-Off-Grid-Traditional-Complete/dp/B093QG5VQF?tag=traditionalmead-21) — a 4.5-litre/one-UK-gallon kit that matches the batch size used in our beginner recipe, making it a strong first option if you want to follow this site’s method closely.
+- [Almost Off Grid mead honey wine starter kit](https://www.amazon.co.uk/Mead-Honey-Making-Complete-Starter/dp/B07DFNV8DJ?tag=traditionalmead-21) — another mead-specific starter listing from the same supplier; compare the current contents with the deluxe kit before buying.
+- [Craft A Brew mead making kit](https://www.amazon.co.uk/Craft-Brew-Making-Reusable-Yields/dp/B09MR387CF?tag=traditionalmead-21) — a branded one-US-gallon kit that can make an attractive gift, but check whether the smaller batch size and included consumables suit your plan.
+
+Home-brewing listings change often, so check the live product page for the current contents, price, delivery cost and availability before ordering.
 
 Buying separately is better when you already own wine-making equipment or want a larger primary fermenter and a separate ageing demijohn.
 
 ## A sensible first setup
 
-For the [4.5-litre recipe](/making-mead/), a practical basket is:
+For the [[Making Mead|4.5-litre recipe]], a practical basket is:
 
 1. food-safe fermenter of at least 6 litres with drilled lid;
 2. matching airlock and bung or grommet;
@@ -118,8 +127,8 @@ Add yeast, an appropriate nutrient and 1.5 kg of honey, and you have the core of
 
 ## What to read next
 
-- [Make your first traditional mead](/making-mead/)
-- [Take and interpret hydrometer readings](/mead-hydrometer-guide/)
-- [Troubleshoot fermentation problems](/mead-fermentation-troubleshooting/)
+- [[Making Mead|Make your first traditional mead]]
+- [[Mead Hydrometer Guide|Take and interpret hydrometer readings]]
+- [[Mead Fermentation Troubleshooting|Troubleshoot fermentation problems]]
 
 *Reviewed 11 October 2026. Product links and kit contents should be checked before purchase.*

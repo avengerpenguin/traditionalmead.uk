@@ -14,8 +14,8 @@ This is a buying guide, not a permanent stock list. Small-batch releases sell ou
 - **Light and refreshing:** choose sparkling or session mead in a bottle or can.
 - **Fruit-led:** look for melomel, cherry, berry or rhubarb mead.
 - **Warming and spiced:** look for metheglin or a clearly described spiced mead.
-- **A Scottish producer:** see the carefully verified [Scottish mead guide](/scottish-meads/).
-- **A Christmas gift:** check the dated [Christmas mead guide](/christmas-meads/).
+- **A Scottish producer:** see the carefully verified [[Scottish Meads|Scottish mead guide]].
+- **A Christmas gift:** check the dated [[Christmas Meads|Christmas mead guide]].
 
 ## UK producer shops checked in 2026
 
@@ -29,19 +29,19 @@ This is a useful starting point when you want to compare traditional and modern 
 
 The [Lancashire Mead Company shop](https://www.lancashiremeadcompany.co.uk/product-category/meads-lancashire-mead) lists a broad selection of meads, including traditional, fruit, floral and spiced interpretations. The range changes, so use each product page for current sweetness, strength and serving information rather than assuming that every Norse-inspired name indicates the same style.
 
-Read our background page on [The Lancashire Mead Company](/the-lancashire-mead-company/).
+Read our background page on [[The Lancashire Mead Company]].
 
 ### Lyme Bay Winery, Devon
 
-[Lyme Bay Winery](https://lymebaywinery.co.uk/product-category/mead/) is a long-established source of widely distributed still meads, including traditional and fruit-flavoured bottles. Its range also includes the Scottish-origin [Moniack Mead](/moniack-mead/) brand following Lyme Bay’s acquisition of Highland Wineries.
+[Lyme Bay Winery](https://lymebaywinery.co.uk/product-category/mead/) is a long-established source of widely distributed still meads, including traditional and fruit-flavoured bottles. Its range also includes the Scottish-origin [[Moniack Mead]] brand following Lyme Bay’s acquisition of Highland Wineries.
 
-Lyme Bay’s [Christmas Mead](/lyme-bay-christmas-mead/) was available from the winery when checked, but seasonal stock should always be verified.
+Lyme Bay’s [[Lyme Bay Christmas Mead|Christmas Mead]] was available from the winery when checked, but seasonal stock should always be verified.
 
 ### The Rookery, Perthshire
 
 [The Rookery](https://www.rookery.scot/about-our-mead) makes seasonal craft meads using honey as the principal fermentable and ingredients associated with the Scottish landscape. Availability can be limited and some third-party listings show sold-out products, so check the producer’s channels or listed independent stockists before planning a purchase.
 
-See [The Rookery](/the-rookery/) and our [Scottish mead guide](/scottish-meads/) for context.
+See [[The Rookery]] and our [[Scottish Meads|Scottish mead guide]] for context.
 
 ### Gosnells, London
 
@@ -59,19 +59,19 @@ Still traditional mead works well for slow sipping, food pairing and gifts. Wine
 
 Fruit mead is often called **melomel**. Cherry, berry and rhubarb can add acidity that balances honey sweetness. Some products use fruit during fermentation; others may blend or flavour after fermentation, so consult the maker if production method matters to you.
 
-Explore [melomel and fruit-flavoured mead](/melomel-fruit-flavoured-mead/) and [Lyme Bay fruit meads](/lyme-bay-winery/).
+Explore [[Melomel (Fruit-flavoured Mead)|melomel and fruit-flavoured mead]] and [[Lyme Bay Winery|Lyme Bay fruit meads]].
 
 ### Spiced mead
 
 Spiced mead is often called **metheglin**. Cinnamon, ginger, cloves and other botanicals can suit colder weather, but intensity varies enormously. A Christmas label may indicate a seasonal spice blend rather than a distinct production method.
 
-Read more about [metheglin and spiced mead](/metheglin-spiced-mead/).
+Read more about [[Metheglin (Spiced Mead)|metheglin and spiced mead]].
 
 ### Sparkling and session mead
 
 These lighter drinks are usually served cold and may have an ABV closer to beer or cider than wine. Cans and smaller bottles are common. They are a good introduction for someone who associates traditional mead with heavy sweetness.
 
-See the [sparkling mead guide](/sparkling/).
+See the [[Sparkling|sparkling mead guide]].
 
 ### Mead liqueur and honey-flavoured drinks
 
@@ -106,7 +106,7 @@ Local retailers can provide advice and avoid delivery fees. Small meaderies also
 
 ### Amazon and marketplaces
 
-Marketplaces may be convenient, but compare the seller, dispatch date, bottle size and current producer price. Product pages can outlive the stock or even the product. Links on individual Traditional Mead UK reviews may be affiliate links and are marked under our [Affiliate Disclosure](/affiliate-disclosure/).
+Marketplaces may be convenient, but compare the seller, dispatch date, bottle size and current producer price. Product pages can outlive the stock or even the product. Links on individual Traditional Mead UK reviews may be affiliate links and are marked under our [[Affiliate Disclosure]].
 
 ## Before you buy
 
@@ -121,12 +121,12 @@ Check these six details:
 
 ## Explore by region and occasion
 
-- [English meads](/english-meads/)
-- [Scottish meads](/scottish-meads/)
-- [Welsh meads](/welsh-meads/)
-- [Christmas meads](/christmas-meads/)
-- [Types of mead](/types-of-mead/)
+- [[English Meads|English meads]]
+- [[Scottish Meads|Scottish meads]]
+- [[Welsh Meads|Welsh meads]]
+- [[Christmas Meads|Christmas meads]]
+- [[Types of Mead|Types of mead]]
 
-Want to make rather than buy it? Start with the [beginner’s 4.5-litre mead recipe](/making-mead/).
+Want to make rather than buy it? Start with the [[Making Mead|beginner’s 4.5-litre mead recipe]].
 
 *Availability reviewed 11 October 2026. This page does not claim to list every active UK producer.*

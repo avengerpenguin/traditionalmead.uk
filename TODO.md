@@ -8,7 +8,7 @@ Catalogue snapshot: 54 products listed across the Master of Malt mead category o
 
 ### Existing pages: generate and add Adtraction deep links
 
-Use the confirmed Adtraction pattern `https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url={canonical Master of Malt product URL}` for each exact product destination. In Markdown source, keep query separators as raw `&`; Pelican will escape them to `&amp;` when generating HTML. Confirm the canonical retailer destination before publishing and avoid pre-encoding or double-encoding parameters. One product page can cover bottle-size variants where the drink itself is unchanged.
+Use the confirmed Adtraction pattern `https://go.adt253.net/t/t?a=2039534580&amp;as=2061609749&amp;t=2&amp;tk=1&amp;url={canonical Master of Malt product URL}` for each exact product destination. In Markdown source, keep query separators as raw `&amp;`, following the established site convention. Confirm the canonical retailer destination before publishing and avoid double-encoding parameters. One product page can cover bottle-size variants where the drink itself is unchanged.
 
 - [x] Kinsale Atlantic Dry Mead — generated deep link manually confirmed and added to the page.
 - [x] Lyme Bay Winery Traditional Mead
@@ -47,21 +47,21 @@ Prioritise active, distinctive products that can support original research and u
 - [x] Wye Valley Honey & Hops Sparkling Mead — review created from first-hand tasting notes and checked producer/retailer details; affiliate link added.
 - [x] Wye Valley Honey & Rhubarb Sparkling Mead — review created from supplied tasting notes and checked producer/retailer details; direct and affiliate links added.
 - [x] Wye Valley Honey & Ginger Sparkling Mead — review created from supplied tasting notes and checked producer/retailer details; direct and affiliate links added.
-- [ ] Wye Valley Pure Honey Sparkling Mead
-- [ ] Wye Valley Mango Mosaic Sparkling Mead
-- [ ] Wye Valley Oak Whiskey Barrel-Aged Traditional Mead
-- [ ] Kinsale Mead Gift Set (3 x 5cl)
+- [x] Wye Valley Pure Honey Sparkling Mead — review created from supplied tasting notes and checked producer/retailer details; direct and affiliate links added.
+- [x] Wye Valley Mango Mosaic Sparkling Mead — historical/discontinued review created from supplied tasting notes and checked producer/retailer context; affiliate link added.
+- [x] Wye Valley Oak Whisky Barrel-Aged Traditional Mead — review created from supplied tasting notes and current producer details; direct and affiliate links added.
+- [ ] Kinsale Mead Gift Set (3 x 5cl) — deferred; prioritise individual products over sets.
 
 #### Priority 2: add currently uncovered producers and ranges
 
-- [ ] BloodMoon Viking Mead
+- [x] BloodMoon Viking Mead — review created from supplied tasting notes and verified Raven Forge product data; direct and affiliate links added, with Broadland Drinks attribution and composition caveats.
 - [ ] Berserker - Viking Mead
 - [ ] Loxwood Meadworks - Festival English Honey Wine
 - [ ] Loxwood Meadworks - GLOW 21 Mulled Honey Wine
 - [ ] Nidhoggr Mead Co. Traditional Mead
 - [ ] Nidhoggr Mead Co. Elderflower Mead
 - [ ] Nidhoggr Mead Co. Sour Cherry Mead
-- [ ] Nidhoggr Mead Co. Mead Hoard Gift Set
+- [ ] Nidhoggr Mead Co. Mead Hoard Gift Set — deferred; prioritise individual products over sets.
 - [ ] Moonhoney Hopped Sparkling Mead (8 x 330ml)
 - [ ] Moonhoney Winter Fruits Sparkling Mead (8 x 330ml)
 - [ ] Moonhoney Elderflower Sparkling Mead (8 x 330ml)
@@ -76,10 +76,10 @@ Prioritise active, distinctive products that can support original research and u
 - [ ] Border Reivers' Mead - 1970s
 - [ ] Lindisfarne Dry Mead - 1970s
 
-### Next recommended page: Wye Valley Pure Honey Sparkling Mead
+### Next recommended page: Berserker - Viking Mead
 
-- Continue extending the Wye Valley/Hive Mind cluster after Honey & Ginger.
-- Confirm the current producer ingredients, ABV, format and availability before drafting; older retailer stock may differ from the current 3.4% canned range.
-- Verify the canonical Master of Malt destination and use the confirmed Adtraction pattern.
-- Add original value through tasting notes, serving guidance and comparisons with Wye Valley's flavoured sparkling meads.
-- Do not invent tasting notes. If no bottle has been tasted, publish a clearly labelled researched product guide or wait for a tasting before writing a review.
+- Continue prioritising individual products; gift sets and multipacks remain deferred.
+- Establish the consumer-facing brand and physical producer rather than inferring production from the retailer name.
+- Verify current availability, complete published composition, allergens, ABV and bottle size before drafting.
+- Confirm the exact direct and Master of Malt destinations before adding buying links.
+- Obtain original tasting notes before publishing a review; otherwise prepare only a clearly labelled researched product guide.

@@ -8,3 +8,5 @@ Sparkling meads reviewed:
 - [[Wye Valley Honey & Hops Sparkling Mead]]
 - [[Wye Valley Honey & Rhubarb Sparkling Mead]]
 - [[Wye Valley Honey & Ginger Sparkling Mead]]
+- [[Wye Valley Pure Honey Sparkling Mead]]
+- [[Wye Valley Mango Mosaic Sparkling Mead]]

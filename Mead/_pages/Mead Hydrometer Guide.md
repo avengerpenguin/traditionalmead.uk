@@ -4,9 +4,9 @@ Summary: Learn how to use a hydrometer for mead, understand original and final g
 Date: 2026-10-11
 Status: published
 
-A hydrometer is the most useful safety and record-keeping tool in a beginner mead kit. It measures **specific gravity**: the density of a liquid compared with water.
+A hydrometer is the most useful safety and record-keeping tool in a beginner mead kit. If you buy only one specialist measuring tool, make it this one. It measures **specific gravity**: the density of a liquid compared with water.
 
-As yeast consumes sugar, gravity normally falls. Comparing readings tells you far more than counting bubbles—and helps prevent bottling a mead that is still fermenting.
+As yeast consumes sugar, gravity normally falls. Comparing readings tells you far more than counting bubbles—and helps prevent bottling a mead that is still fermenting. Most starter kits include a basic hydrometer; if yours does not, add a hydrometer and trial jar before you start.
 
 ## What OG and FG mean
 
@@ -57,7 +57,7 @@ Instead:
 4. If the number has fallen, fermentation is continuing—wait and test again.
 5. If readings match, assess whether the value is plausible for the recipe and yeast before packaging.
 
-Stable gravity is necessary before bottling, but context matters. A batch stuck at 1.060 for a week has not necessarily completed successfully; it may need [fermentation troubleshooting](/mead-fermentation-troubleshooting/).
+Stable gravity is necessary before bottling, but context matters. A batch stuck at 1.060 for a week has not necessarily completed successfully; it may need [[Mead Fermentation Troubleshooting|fermentation troubleshooting]].
 
 ## Reading the scale correctly
 
@@ -106,7 +106,7 @@ For still mead:
 - use sound bottles and compatible closures;
 - if gravity resumes falling, delay packaging.
 
-Carbonated mead requires additional calculations, pressure-rated bottles and controlled priming. The [beginner recipe](/making-mead/) deliberately makes still mead.
+Carbonated mead requires additional calculations, pressure-rated bottles and controlled priming. The [[Making Mead|beginner recipe]] deliberately makes still mead.
 
 ## Simple batch record
 
@@ -121,9 +121,11 @@ Your figures will differ; this table demonstrates the process, not a required ta
 
 ## Continue learning
 
-- [Beginner’s 4.5-litre mead recipe](/making-mead/)
-- [Mead-making equipment checklist](/mead-making-equipment/)
-- [Fermentation troubleshooting](/mead-fermentation-troubleshooting/)
+Need the rest of the kit as well? Use [[Mead Making Equipment|the equipment checklist]] to compare starter kits and individual items before buying.
+
+- [[Making Mead|Beginner’s 4.5-litre mead recipe]]
+- [[Mead Making Equipment|Mead-making equipment checklist]]
+- [[Mead Fermentation Troubleshooting|Fermentation troubleshooting]]
 
 Further reading: [American Homebrewers Association—How to Take an Accurate Hydrometer Reading](https://www.homebrewersassociation.org/how-to-brew/how-to-take-an-accurate-hydrometer-reading/).
 
