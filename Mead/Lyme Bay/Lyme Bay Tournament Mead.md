@@ -31,4 +31,8 @@ is a dominating flavour.
 * [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZW1WTH/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-4&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=c90c4f179eb183b38556984a9d0d4625)
 * [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-TOURNAMENT-MEAD-Case/dp/B075ZWDY1M/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-3&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=b0a0e5623a6a140108af859dd033bcbf)
 * [Single bottle (Amazon UK)](https://www.amazon.co.uk/Tournament-Mead-Lyme-Bay-Bottle/dp/B00F2JGLS4/ref=as_li_ss_tl?s=grocery&ie=UTF8&qid=1513034483&sr=1-1&keywords=tournament+mead&linkCode=ll1&tag=traditionalmead-21&linkId=21477314c9e212066e788321300b37fa)
-<!-- Obsolete Master of Malt affiliate link removed. -->
+* [Buy Lyme Bay Ginger Mead at Master of Malt—the listing identifies it as Tournament Mead flavoured with ginger (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lyme-bay-winery/lyme-bay-winery-giner-mead)
+
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
+
+Master of Malt sells the product as Ginger Mead and identifies it as Tournament Mead flavoured with ginger; this is the retailer listing for the Tournament Mead reviewed here.

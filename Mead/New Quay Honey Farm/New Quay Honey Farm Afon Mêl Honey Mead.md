@@ -29,3 +29,8 @@ The initial taste brings a duality of sweetness and acidity. There are notes of 
 ## Where to Buy
 
 * [New Quay Honey Farm](http://www.thehoneyfarm.co.uk/catalog_view.php?id=7)
+* [Buy the distinct Afon Mêl Medium Honey Mead at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/afon-mel/afon-mel-medium-honey-mead)
+
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
+
+The tasting notes above are for the sweet 13% Honey Mead. The Master of Malt link is for Medium Honey Mead, a distinct, less-sweet variant; the notes do not review the Medium version, so check the bottle details before ordering.

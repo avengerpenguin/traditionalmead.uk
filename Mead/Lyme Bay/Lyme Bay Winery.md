@@ -4,6 +4,7 @@ Country wines, cider, mead and fruit liqueurs made on a working winery.
 
 Their products:
 
+- [[Lyme Bay Chilli Mead]]
 - [[Lyme Bay Christmas Mead]]
 - [[Lyme Bay Garden Mead]]
 - [[Lyme Bay Traditional Mead]]

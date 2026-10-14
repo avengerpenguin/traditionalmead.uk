@@ -46,4 +46,7 @@ The dryness and acidity makes the drink more refreshing for drinking by itself
 * [Amazon UK](https://www.amazon.co.uk/Lindisfarne-Mead-Wine-70-cl-x/dp/B007K9EDFM/ref=as_li_ss_il?ie=UTF8&qid=1491769691&sr=8-1&keywords=lindisfarne+mead&linkCode=li3&tag=traditionalmead-21&linkId=3403dffe59153f8bffa245e9d1219cf4)
 * [All 3 Lindifarne miniatures in a gift set at Amazon](https://www.amazon.co.uk/Lindisfarne-Miniature-Mead-contains-bottles/dp/B01HOCTB1U/ref=as_li_ss_tl?ie=UTF8&qid=1493067774&sr=8-2&keywords=lindisfarne+mead&linkCode=ll1&tag=traditionalmead-21&linkId=f07bb0da9f026028c1e8ab5dada4d868)
 * [DrinkSupermarket](http://www.awin1.com/cread.php?awinaffid=333769&awinmid=3574&p=https%3A%2F%2Fwww.drinksupermarket.com%2Flindisfarne-mead-70cl-14-5-abv)
-<!-- Closed TheDrinkShop and obsolete Master of Malt affiliate links removed. -->
+* [Buy Lindisfarne Mead 70cl at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lindisfarne/lindisfarne-mead)
+* [Buy Lindisfarne Mead 35cl at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lindisfarne/lindisfarne-mead-35cl-mead)
+
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).

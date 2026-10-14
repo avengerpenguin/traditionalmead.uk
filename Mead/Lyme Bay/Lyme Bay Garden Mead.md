@@ -13,4 +13,6 @@ your opinions if you've tried it!
 * [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-GARDEN-MEAD-Case/dp/B075ZVX22W/ref=as_li_ss_tl?ie=UTF8&qid=1513033647&sr=8-4&keywords=garden+mead&linkCode=ll1&tag=traditionalmead-21&linkId=51a0fda3065009282eb472c93878b45e)
 * [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-GARDEN-MEAD-Case/dp/B075ZVLK5Z/ref=as_li_ss_tl?ie=UTF8&qid=1513033647&sr=8-2&keywords=garden+mead&linkCode=ll1&tag=traditionalmead-21&linkId=ee3a89859c9a4628569591056281968a)
 * [Single bottle (Amazon UK)](https://www.amazon.co.uk/Garden-Mead-Lyme-Bay-Bottle/dp/B00F52K7YM/ref=as_li_ss_il?ie=UTF8&qid=1513033484&sr=8-1&keywords=garden+mead&linkCode=li3&tag=traditionalmead-21&linkId=754ef3d5880cbfb2a419e85a28b044f2)
-<!-- Obsolete Master of Malt affiliate link removed. -->
+* [Buy Lyme Bay Garden Mead at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lyme-bay-winery/garden-mead-lyme-bay-winery-mead)
+
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).

@@ -8,31 +8,33 @@ Catalogue snapshot: 54 products listed across the Master of Malt mead category o
 
 ### Existing pages: generate and add Adtraction deep links
 
-Use Adtraction's **Create link** flow for each exact product destination; do not construct tracking URLs manually. Manually confirm the resulting redirect before publishing. One product page can cover bottle-size variants where the drink itself is unchanged.
+Use the confirmed Adtraction pattern `https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url={canonical Master of Malt product URL}` for each exact product destination. In Markdown source, keep query separators as raw `&`; Pelican will escape them to `&amp;` when generating HTML. Confirm the canonical retailer destination before publishing and avoid pre-encoding or double-encoding parameters. One product page can cover bottle-size variants where the drink itself is unchanged.
 
 - [x] Kinsale Atlantic Dry Mead — generated deep link manually confirmed and added to the page.
-- [ ] Lyme Bay Winery Traditional Mead
-- [ ] Moniack Mead
-- [ ] Lyme Bay Winery Rhubarb Mead
-- [ ] Afon Mêl Blackberry Mead
-- [ ] Afon Mêl Medium Honey Mead — use the existing Afon Mêl Honey Mead page, but refresh it to distinguish the reviewed sweet version from Master of Malt's medium version before linking.
-- [ ] Lyme Bay Winery Ginger Mead — verify that this is the current name/formulation of the existing Lyme Bay Tournament Mead before linking or renaming the page.
-- [ ] Lindisfarne Pink Mead — include the full bottle and 35cl listing on the existing page; no separate 35cl article.
-- [ ] Lyme Bay Winery Garden Mead
-- [ ] Lindisfarne Dark Mead — include the full bottle and 50ml miniature listing on the existing page; no separate miniature article.
-- [ ] Lyme Bay Winery West Country Mead
-- [ ] Lindisfarne Mead — include the full bottle and 35cl listing on the existing page; no separate 35cl article.
-- [ ] Lindisfarne Spiced Mead
-- [ ] Afon Mêl Heather Mead
-- [ ] Lyme Bay Winery Christmas Mead
-- [ ] Kinsale Hazy Summer Mead
-- [ ] Kinsale Wild Red Mead
-- [ ] Wye Valley Traditional Mead
-- [ ] Wye Valley Honey & Elderflower Sparkling Mead
-- [ ] Lindisfarne Cherry Wine Blód Mead
-- [ ] Mabinogion Mead Four Branches — current direct Master of Malt destination is an exact product match, but replace it with a generated Adtraction link.
-- [ ] The London Honey Co. Long Mynd Heather Honey Mead — current direct Master of Malt destination is an exact product match, but replace it with a generated Adtraction link.
-- [ ] Modern Mead Co. Original English Mead
+- [x] Lyme Bay Winery Traditional Mead
+- [x] Moniack Mead
+- [x] Lyme Bay Winery Rhubarb Mead
+- [x] Afon Mêl Blackberry Mead
+- [x] Afon Mêl Cherry Mead — page created; exact Adtraction deep link added.
+- [x] Afon Mêl Medium Honey Mead — existing Afon Mêl Honey Mead page distinguishes the reviewed sweet version from Master of Malt's medium version.
+- [x] Lyme Bay Winery Ginger Mead — existing Lyme Bay Tournament Mead page explains that the retailer's Ginger Mead is the current listing for the reviewed product.
+- [x] Lindisfarne Pink Mead — full bottle and 35cl listings included on the existing page; no separate 35cl article.
+- [x] Lyme Bay Winery Garden Mead
+- [x] Lindisfarne Dark Mead — full bottle and 50ml miniature listings included on the existing page; no separate miniature article.
+- [x] Lyme Bay Winery West Country Mead
+- [x] Lindisfarne Mead — full bottle and 35cl listings included on the existing page; no separate 35cl article.
+- [x] Lindisfarne Spiced Mead
+- [x] Afon Mêl Heather Mead
+- [x] Afon Mêl Raspberry Mead
+- [x] Lyme Bay Winery Christmas Mead
+- [x] Kinsale Hazy Summer Mead
+- [x] Kinsale Wild Red Mead
+- [x] Wye Valley Traditional Mead
+- [x] Wye Valley Honey & Elderflower Sparkling Mead
+- [x] Lindisfarne Cherry Wine Blód Mead
+- [x] Mabinogion Mead Four Branches — direct retailer destination replaced with an Adtraction affiliate link.
+- [x] The London Honey Co. Long Mynd Heather Honey Mead — direct retailer destination replaced with an Adtraction affiliate link.
+- [x] Modern Mead Co. Original English Mead
 
 ### New product pages needed
 
@@ -40,11 +42,11 @@ Prioritise active, distinctive products that can support original research and u
 
 #### Priority 1: extend strong existing producer clusters
 
-- [ ] Afon Mêl Cherry Mead
-- [ ] Lyme Bay Winery Chilli Mead
-- [ ] Wye Valley Honey & Hops Sparkling Mead
-- [ ] Wye Valley Honey & Rhubarb Sparkling Mead
-- [ ] Wye Valley Honey & Ginger Sparkling Mead
+- [x] Afon Mêl Cherry Mead — page created from first-hand tasting notes and checked retailer/producer details; affiliate link is recorded under existing-page coverage above.
+- [x] Lyme Bay Winery Chilli Mead — page created from first-hand tasting notes and checked producer details; affiliate link added.
+- [x] Wye Valley Honey & Hops Sparkling Mead — review created from first-hand tasting notes and checked producer/retailer details; affiliate link added.
+- [x] Wye Valley Honey & Rhubarb Sparkling Mead — review created from supplied tasting notes and checked producer/retailer details; direct and affiliate links added.
+- [x] Wye Valley Honey & Ginger Sparkling Mead — review created from supplied tasting notes and checked producer/retailer details; direct and affiliate links added.
 - [ ] Wye Valley Pure Honey Sparkling Mead
 - [ ] Wye Valley Mango Mosaic Sparkling Mead
 - [ ] Wye Valley Oak Whiskey Barrel-Aged Traditional Mead
@@ -74,11 +76,10 @@ Prioritise active, distinctive products that can support original research and u
 - [ ] Border Reivers' Mead - 1970s
 - [ ] Lindisfarne Dry Mead - 1970s
 
-### Next recommended page: Afon Mêl Cherry Mead
+### Next recommended page: Wye Valley Pure Honey Sparkling Mead
 
-- Confirm the live producer facts, ingredients, ABV, bottle size, sweetness, availability and canonical Master of Malt destination from primary sources.
-- Add original value rather than paraphrasing the retailer: explain how sour cherry changes sweetness/acidity and compare it with the site's existing Afon Mêl Blackberry, Raspberry, Heather and Honey pages.
-- Use a clear page title and stable slug such as `Afon Mêl Cherry Mead` / `afon-mel-cherry-mead`.
-- Link it from the Afon Mêl producer page, Welsh meads, melomel/fruit mead coverage, the existing Afon Mêl reviews and `/buy-mead-uk/` where useful.
-- Generate the exact product deep link in Adtraction, manually verify the redirect, mark it as an affiliate link under the site's disclosure conventions, and record the page name as the Adtraction Reference/EPI only if the platform officially supports that field.
+- Continue extending the Wye Valley/Hive Mind cluster after Honey & Ginger.
+- Confirm the current producer ingredients, ABV, format and availability before drafting; older retailer stock may differ from the current 3.4% canned range.
+- Verify the canonical Master of Malt destination and use the confirmed Adtraction pattern.
+- Add original value through tasting notes, serving guidance and comparisons with Wye Valley's flavoured sparkling meads.
 - Do not invent tasting notes. If no bottle has been tasted, publish a clearly labelled researched product guide or wait for a tasting before writing a review.

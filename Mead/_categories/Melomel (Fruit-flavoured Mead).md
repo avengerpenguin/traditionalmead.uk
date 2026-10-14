@@ -9,5 +9,6 @@ Melomels we have found so far:
 - [[Fisselier Hydromelix Strawberry Mead]]
 - [[New Quay Honey Farm Afon Mêl Apricot Mead]]
 - [[New Quay Honey Farm Afon Mêl Blackberry Mead]]
+- [[New Quay Honey Farm Afon Mêl Cherry Mead]]
 - [[New Quay Honey Farm Afon Mêl Raspberry Mead]]
 - [[Omnipollo Magic 1.618 Mead]]

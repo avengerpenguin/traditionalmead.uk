@@ -14,3 +14,4 @@ As a result, with a (potentially) very sweet drink like mead, simply adding a li
 Capsicumels found so far:
 
 - [[Ah Mucen Cab Chilli Craft Mead]]
+- [[Lyme Bay Chilli Mead]]

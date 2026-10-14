@@ -37,4 +37,6 @@ pairs wonderfully with Welsh cakes!
 * [3 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-WEST-COUNTRY-MEAD/dp/B075ZVR6JZ/ref=as_li_ss_tl?ie=UTF8&qid=1513035166&sr=8-2&keywords=west+country+mead&linkCode=ll1&tag=traditionalmead-21&linkId=45068055e07bf6b2d59804d5f1aaf6f0)
 * [2 bottles (Amazon UK)](https://www.amazon.co.uk/Lyme-Bay-WEST-COUNTRY-MEAD/dp/B075ZTVJGB/ref=as_li_ss_tl?ie=UTF8&qid=1513035166&sr=8-3&keywords=west+country+mead&linkCode=ll1&tag=traditionalmead-21&linkId=c20787c609199d8076edac5a9f31fe48)
 * [Single bottle (Amazon UK)](https://www.amazon.co.uk/Westcountry-Mead-Lyme-Bay-Bottle/dp/B00F2IYI6C/ref=as_li_ss_tl?ie=UTF8&qid=1513035166&sr=8-1&keywords=west+country+mead&linkCode=ll1&tag=traditionalmead-21&linkId=d4fd2219f9dd318c367b86c5617dc6dd)
-<!-- Obsolete Master of Malt affiliate link removed. -->
+* [Buy Lyme Bay West Country Mead at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lyme-bay-winery/west-country-mead-lyme-bay-winery-mead)
+
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
