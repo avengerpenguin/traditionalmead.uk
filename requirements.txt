@@ -26,7 +26,7 @@ pytz==2023.3
 requests==2.34.2
 rich==13.4.2
 sh==2.0.4
-six==1.16.0
+six==1.17.0
 smartypants==2.0.1
 soupsieve==2.4.1
 tornado==6.3.2
