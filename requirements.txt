@@ -22,7 +22,7 @@ pelican-webassets==2.0.0
 plantuml-markdown==3.11.3
 Pygments==2.15.1
 python-dateutil==2.8.2
-pytz==2023.3
+pytz==2026.5
 requests==2.34.2
 rich==13.4.2
 sh==2.0.4
