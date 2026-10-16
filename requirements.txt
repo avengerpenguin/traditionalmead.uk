@@ -20,7 +20,7 @@ pelican==4.12.0
 pelican-sitemap==1.2.2
 pelican-webassets==2.0.0
 plantuml-markdown==3.11.3
-Pygments==2.15.1
+Pygments==2.21.0
 python-dateutil==2.8.2
 pytz==2023.3
 requests==2.34.2
