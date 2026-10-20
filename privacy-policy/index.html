@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <title>Privacy Policy | Traditional Mead UK</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <meta name="description" content="This Privacy Policy explains how Traditional Mead UK (“we”, “us” or “our”) handles personal information when you visit traditionalmead.uk (the “Website”). 1. Information we may collect Information you provide If you contact us or use an interactive feature, we may receive information you choose to provide, such as your …" />
+    <link rel="canonical" href="https://traditionalmead.uk/privacy-policy/" />
+    <meta property="og:url" content="https://traditionalmead.uk/privacy-policy/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Privacy Policy" />
+    <meta property="og:description" content="This Privacy Policy explains how Traditional Mead UK (“we”, “us” or “our”) handles personal information when you visit traditionalmead.uk (the “Website”). 1. Information we may collect..." />
+
+    <link href="https://traditionalmead.uk/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Traditional Mead UK Full Atom Feed" />
+ 
+
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window["gtag_enable_tcf_support"] = true;
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+        region: [
+          "AT", "BE", "BG", "HR", "CY", "CZ", "DE", "DK", "EE", "ES",
+          "FI", "FR", "GB", "GR", "HU", "IE", "IS", "IT", "LI", "LT",
+          "LU", "LV", "MT", "NL", "NO", "PL", "PT", "RO", "SE", "SI",
+          "SK", "CH"
+        ]
+      });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L13NCF579B"></script>
+    <script>
+      gtag('js', new Date());
+      gtag('config', 'G-L13NCF579B');
+
+      const affiliateRules = [{"domain": "amazon.co.uk", "network": "amazon", "query_parameter": "tag"}, {"domain": "amzn.to", "network": "amazon"}, {"domain": "awin1.com", "network": "awin"}, {"domain": "go.adt253.net", "network": "adtraction"}];
+
+      function affiliateRuleFor(url) {
+        return affiliateRules.find((rule) => {
+          if (!rule.domain) {
+            return false;
+          }
+          const domain = rule.domain.toLowerCase().replace(/^\./, "");
+          const domainMatches = url.hostname === domain ||
+            url.hostname.endsWith(`.${domain}`);
+          const queryMatches = !rule.query_parameter ||
+            url.searchParams.has(rule.query_parameter);
+          return domainMatches && queryMatches;
+        });
+      }
+
+      document.addEventListener("click", (event) => {
+        const target = event.target;
+        const link = target instanceof Element ? target.closest("a[href]") : null;
+        if (!link) {
+          return;
+        }
+
+        let url;
+        try {
+          url = new URL(link.href, document.baseURI);
+        } catch (error) {
+          return;
+        }
+
+        if (url.protocol !== "http:" && url.protocol !== "https:") {
+          return;
+        }
+
+        const rule = affiliateRuleFor(url);
+        const isSponsored = link.relList.contains("sponsored");
+        if (!isSponsored && !rule) {
+          return;
+        }
+
+        const network = link.dataset.affiliateNetwork || rule?.network;
+        const parameters = {
+          link_url: url.href,
+          link_domain: url.hostname,
+          link_text: link.textContent.trim().replace(/\s+/g, " ").slice(0, 100),
+        };
+        if (network) {
+          parameters.affiliate_network = network;
+        }
+
+        gtag("event", "affiliate_click", parameters);
+      });
+    </script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7863038150136152"
+            crossorigin="anonymous"></script>
+
+
+
+    <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/awsm.css" />
+
+        <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/common.min.css?64950869">
+
+        <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/style.min.css?8bb077cb">
+
+
+</head>
+
+<body>
+    <header>
+        <h1><a href="https://traditionalmead.uk/">Traditional Mead UK</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/producers/">Mead Producers</a></li>
+                <li><a href="/what-is-mead/">What is mead?</a></li>
+                <li><a href="/types-of-mead/">Types of Mead</a></li>
+                <li><a href="/history-of-mead/">History of Mead</a></li>
+                <li><a href="/making-mead/">Making Mead</a></li>
+                <li><a href="/affiliate-disclosure/">Affiliate disclosure</a></li>
+                <li><a href="/search/">Search</a></li>
+            </ul>
+        </nav>
+    </header>
+	<main>
+<h1>Privacy&nbsp;Policy</h1>
+    <p>This Privacy Policy explains how Traditional Mead <span class="caps">UK</span> (&#8220;we&#8221;, &#8220;us&#8221; or &#8220;our&#8221;) handles personal information when you visit <a href="https://traditionalmead.uk/">traditionalmead.uk</a> (the&nbsp;&#8220;Website&#8221;).</p>
+<h2 id="1-information-we-may-collect">1. Information we may&nbsp;collect</h2>
+<h3 id="information-you-provide">Information you&nbsp;provide</h3>
+<p>If you contact us or use an interactive feature, we may receive information you choose to provide, such as your name, email address and&nbsp;message.</p>
+<h3 id="information-collected-automatically">Information collected&nbsp;automatically</h3>
+<p>Our hosting, security, analytics and advertising services may receive technical and usage information such as your <span class="caps">IP</span> address, browser and device type, referring page, pages viewed, approximate location, and the date and time of your&nbsp;visit.</p>
+<h2 id="2-cookies-and-similar-technologies">2. Cookies and similar&nbsp;technologies</h2>
+<p>The Website and third-party services used by it may use cookies, pixels, local storage or similar technologies. These can be used to operate the Website, measure usage, prevent fraud, remember preferences, show or measure advertising, and attribute purchases made after following an affiliate&nbsp;link.</p>
+<p>You can control or delete cookies through your browser settings. Blocking some cookies may affect how the Website or third-party services&nbsp;work.</p>
+<h2 id="3-analytics-and-advertising">3. Analytics and&nbsp;advertising</h2>
+<p>We may use Google Analytics to understand how visitors use the Website. Google may process technical and usage data under its own privacy&nbsp;terms.</p>
+<p>We may also use Google AdSense to display and measure advertisements. Google and its partners may use cookies or similar technologies to provide, personalise and measure advertising, subject to applicable consent requirements and Google&#8217;s own privacy&nbsp;terms.</p>
+<p>For more information about how Google uses information from sites that use its services, see <a href="https://policies.google.com/technologies/partner-sites">Google&#8217;s privacy and terms information</a>.</p>
+<h2 id="4-affiliate-links">4. Affiliate&nbsp;links</h2>
+<p>Some links to retailers are affiliate links. If you follow one and make a qualifying purchase, we may receive a commission at no additional cost to you. Affiliate links may include referral parameters, and the retailer or affiliate network may use cookies or similar technologies to record the referral and attribute a&nbsp;purchase.</p>
+<p>Affiliate partners and networks used by the Website may include Amazon Associates, Awin and Adtraction. Those organisations process information under their own privacy policies and determine the duration and operation of their tracking&nbsp;technologies.</p>
+<p>See our <a href="/affiliate-disclosure/">Affiliate Disclosure</a> for a plain-language explanation of these relationships and the required Amazon Associates&nbsp;statement.</p>
+<h2 id="5-why-we-process-information">5. Why we process&nbsp;information</h2>
+<p>Depending on the circumstances, we may process personal&nbsp;information:</p>
+<ul>
+<li>with your consent, where consent is&nbsp;required;</li>
+<li>for our legitimate interests in operating, securing, measuring and improving the Website, provided those interests are not overridden by your&nbsp;rights;</li>
+<li>to take steps at your request or perform a contract;&nbsp;or</li>
+<li>to comply with a legal&nbsp;obligation.</li>
+</ul>
+<p>You may withdraw consent at any time where processing relies on consent. This will not affect processing that occurred before&nbsp;withdrawal.</p>
+<h2 id="6-sharing-information">6. Sharing&nbsp;information</h2>
+<p>We may share information with service providers that help us host, secure, analyse, advertise or operate the Website, and with retailers or affiliate networks when you interact with their links or services. We may also disclose information where required by law, to protect legal rights, or as part of a business&nbsp;transfer.</p>
+<p>Third-party websites are governed by their own privacy policies. Following an external link takes you to a service we do not&nbsp;control.</p>
+<h2 id="7-international-transfers">7. International&nbsp;transfers</h2>
+<p>Some service providers may process information outside the United Kingdom. Where required, appropriate safeguards should be used for international transfers, such as an adequacy regulation or approved contractual&nbsp;protections.</p>
+<h2 id="8-data-retention-and-security">8. Data retention and&nbsp;security</h2>
+<p>We keep personal information only for as long as reasonably necessary for the purposes described above, including legal, accounting, security and dispute-resolution requirements. Third-party providers apply their own retention&nbsp;periods.</p>
+<p>We use reasonable technical and organisational measures to protect information, but no internet transmission or storage system can be guaranteed completely&nbsp;secure.</p>
+<h2 id="9-your-data-protection-rights">9. Your data protection&nbsp;rights</h2>
+<p>Depending on the law that applies, you may have rights&nbsp;to:</p>
+<ul>
+<li>access personal information held about&nbsp;you;</li>
+<li>correct inaccurate or incomplete&nbsp;information;</li>
+<li>request deletion or restriction of&nbsp;processing;</li>
+<li>object to processing based on legitimate interests or to direct&nbsp;marketing;</li>
+<li>receive certain information in a portable&nbsp;format;</li>
+<li>withdraw consent;&nbsp;and</li>
+<li>complain to a data protection authority, including the <span class="caps">UK</span> Information Commissioner&#8217;s&nbsp;Office.</li>
+</ul>
+<p>These rights may be subject to legal conditions or exceptions. To make a request, contact us using the address&nbsp;below.</p>
+<h2 id="10-childrens-privacy">10. Children&#8217;s&nbsp;privacy</h2>
+<p>The Website concerns alcoholic drinks and is not directed at children. We do not knowingly collect personal information from children. If you believe a child has provided personal information, please contact&nbsp;us.</p>
+<h2 id="11-changes-to-this-policy">11. Changes to this&nbsp;policy</h2>
+<p>We may update this Privacy Policy. Material changes will be posted on this page with a revised&nbsp;date.</p>
+<h2 id="12-contact">12.&nbsp;Contact</h2>
+<p>For questions or requests about this Privacy Policy, email&nbsp;privacy@functionalprogramming.co.uk.</p>
+<p>Last updated: 13 October&nbsp;2026</p> <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = "https://traditionalmead.uk/privacy-policy/";
+    this.page.identifier = "privacy-policy";
+  };
+
+  (function () {
+    var d = document,
+      s = d.createElement("script");
+    s.src = "https://traditionalmead.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+ 	</main>
+
+<script type="text/javascript">
+const copyButtonLabel = "Copy";
+
+let blocks = document.querySelectorAll("pre");
+
+blocks.forEach((block) => {
+  // only add button if browser supports Clipboard API
+  if (navigator.clipboard) {
+    let button = document.createElement("button");
+
+    button.innerText = copyButtonLabel;
+    block.appendChild(button);
+
+    button.addEventListener("click", async () => {
+      await copyCode(block, button);
+    });
+  }
+});
+
+async function copyCode(block, button) {
+  let code = block.querySelector("code");
+  let text = code.innerText;
+
+  await navigator.clipboard.writeText(text);
+
+  // visual feedback that task is completed
+  button.innerText = "Copied";
+
+  setTimeout(() => {
+    button.innerText = copyButtonLabel;
+  }, 2000);
+}
+</script>
+</body>
+</html>

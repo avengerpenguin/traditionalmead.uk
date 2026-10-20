@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <title>Mead Hydrometer Guide: OG, FG, ABV and Safe Bottling | Traditional Mead UK</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <meta name="description" content="Learn how to use a hydrometer for mead, understand original and final gravity, estimate ABV and confirm fermentation is stable before bottling." />
+    <link rel="canonical" href="https://traditionalmead.uk/mead-hydrometer-guide/" />
+    <meta property="og:url" content="https://traditionalmead.uk/mead-hydrometer-guide/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mead Hydrometer Guide: OG, FG, ABV and Safe Bottling" />
+    <meta property="og:description" content="Learn how to use a hydrometer for mead, understand original and final gravity, estimate ABV and confirm fermentation is stable before bottling." />
+
+    <link href="https://traditionalmead.uk/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Traditional Mead UK Full Atom Feed" />
+ 
+
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      window["gtag_enable_tcf_support"] = true;
+      gtag("consent", "default", {
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied",
+        analytics_storage: "denied",
+        wait_for_update: 500,
+        region: [
+          "AT", "BE", "BG", "HR", "CY", "CZ", "DE", "DK", "EE", "ES",
+          "FI", "FR", "GB", "GR", "HU", "IE", "IS", "IT", "LI", "LT",
+          "LU", "LV", "MT", "NL", "NO", "PL", "PT", "RO", "SE", "SI",
+          "SK", "CH"
+        ]
+      });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-L13NCF579B"></script>
+    <script>
+      gtag('js', new Date());
+      gtag('config', 'G-L13NCF579B');
+
+      const affiliateRules = [{"domain": "amazon.co.uk", "network": "amazon", "query_parameter": "tag"}, {"domain": "amzn.to", "network": "amazon"}, {"domain": "awin1.com", "network": "awin"}, {"domain": "go.adt253.net", "network": "adtraction"}];
+
+      function affiliateRuleFor(url) {
+        return affiliateRules.find((rule) => {
+          if (!rule.domain) {
+            return false;
+          }
+          const domain = rule.domain.toLowerCase().replace(/^\./, "");
+          const domainMatches = url.hostname === domain ||
+            url.hostname.endsWith(`.${domain}`);
+          const queryMatches = !rule.query_parameter ||
+            url.searchParams.has(rule.query_parameter);
+          return domainMatches && queryMatches;
+        });
+      }
+
+      document.addEventListener("click", (event) => {
+        const target = event.target;
+        const link = target instanceof Element ? target.closest("a[href]") : null;
+        if (!link) {
+          return;
+        }
+
+        let url;
+        try {
+          url = new URL(link.href, document.baseURI);
+        } catch (error) {
+          return;
+        }
+
+        if (url.protocol !== "http:" && url.protocol !== "https:") {
+          return;
+        }
+
+        const rule = affiliateRuleFor(url);
+        const isSponsored = link.relList.contains("sponsored");
+        if (!isSponsored && !rule) {
+          return;
+        }
+
+        const network = link.dataset.affiliateNetwork || rule?.network;
+        const parameters = {
+          link_url: url.href,
+          link_domain: url.hostname,
+          link_text: link.textContent.trim().replace(/\s+/g, " ").slice(0, 100),
+        };
+        if (network) {
+          parameters.affiliate_network = network;
+        }
+
+        gtag("event", "affiliate_click", parameters);
+      });
+    </script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7863038150136152"
+            crossorigin="anonymous"></script>
+
+
+
+    <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/awsm.css" />
+
+        <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/common.min.css?64950869">
+
+        <link rel="stylesheet" href="https://traditionalmead.uk/theme/css/style.min.css?8bb077cb">
+
+
+</head>
+
+<body>
+    <header>
+        <h1><a href="https://traditionalmead.uk/">Traditional Mead UK</a></h1>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/producers/">Mead Producers</a></li>
+                <li><a href="/what-is-mead/">What is mead?</a></li>
+                <li><a href="/types-of-mead/">Types of Mead</a></li>
+                <li><a href="/history-of-mead/">History of Mead</a></li>
+                <li><a href="/making-mead/">Making Mead</a></li>
+                <li><a href="/affiliate-disclosure/">Affiliate disclosure</a></li>
+                <li><a href="/search/">Search</a></li>
+            </ul>
+        </nav>
+    </header>
+	<main>
+<h1>Mead Hydrometer Guide: <span class="caps">OG</span>, <span class="caps">FG</span>, <span class="caps">ABV</span> and Safe&nbsp;Bottling</h1>
+    <p>A hydrometer is the most useful safety and record-keeping tool in a beginner mead kit. If you buy only one specialist measuring tool, make it this one. It measures <strong>specific gravity</strong>: the density of a liquid compared with&nbsp;water.</p>
+<p>As yeast consumes sugar, gravity normally falls. Comparing readings tells you far more than counting bubbles—and helps prevent bottling a mead that is still fermenting. Most starter kits include a basic hydrometer; if yours does not, add a hydrometer and trial jar before you&nbsp;start.</p>
+<h2 id="what-og-and-fg-mean">What <span class="caps">OG</span> and <span class="caps">FG</span>&nbsp;mean</h2>
+<ul>
+<li><strong>Original gravity (<span class="caps">OG</span>):</strong> the reading after honey and water are mixed, before&nbsp;fermentation.</li>
+<li><strong>Final gravity (<span class="caps">FG</span>):</strong> the stable reading after fermentation has&nbsp;ended.</li>
+<li><strong>Specific gravity (<span class="caps">SG</span>):</strong> any gravity reading, whether taken at the start, middle or&nbsp;end.</li>
+</ul>
+<p>Pure water reads approximately 1.000 at the hydrometer’s calibration temperature. A honey-rich must might begin around 1.090–1.120. A dry fermented mead can finish <strong>below 1.000</strong> because alcohol is less dense than&nbsp;water.</p>
+<p>Gravity does not map perfectly to perceived sweetness. Acidity, tannin, alcohol and aroma all change how sweet the same <span class="caps">FG</span>&nbsp;tastes.</p>
+<h2 id="how-to-take-a-reading">How to take a&nbsp;reading</h2>
+<ol>
+<li><strong>Check calibration.</strong> Read the hydrometer’s instructions and calibration temperature, commonly 20°C or 15.6°C. Test it in water at that temperature; it should be close to&nbsp;1.000.</li>
+<li><strong>Clean and sanitise.</strong> Treat the trial jar, sample tool and anything else that may contact the&nbsp;mead.</li>
+<li><strong>Remove a sample.</strong> Take enough liquid for the hydrometer to float without touching the&nbsp;bottom.</li>
+<li><strong>Release bubbles.</strong> Lower the hydrometer gently and spin it. Carbon-dioxide bubbles stuck to the stem can lift it and distort the&nbsp;result.</li>
+<li><strong>Read at eye level.</strong> Follow the instrument’s directions for the meniscus, normally reading at the bottom of the liquid’s curved&nbsp;surface.</li>
+<li><strong>Record gravity and temperature.</strong> Also note the date, batch and how the mead looks and&nbsp;smells.</li>
+<li><strong>Do not pour the sample back.</strong> Taste it or discard it to avoid introducing&nbsp;contamination.</li>
+</ol>
+<p>Temperature changes liquid density. If your sample is far from calibration temperature, use the correction table supplied with the hydrometer or a reputable calculator. Cooling the sample near the calibration temperature is usually&nbsp;simplest.</p>
+<h2 id="estimating-alcohol-by-volume">Estimating alcohol by&nbsp;volume</h2>
+<p>A common homebrew approximation&nbsp;is:</p>
+<p><strong><span class="caps">ABV</span> ≈ (<span class="caps">OG</span> − <span class="caps">FG</span>) ×&nbsp;131.25</strong></p>
+<p>Example:</p>
+<ul>
+<li><span class="caps">OG</span>:&nbsp;1.100</li>
+<li><span class="caps">FG</span>:&nbsp;1.000</li>
+<li>Difference:&nbsp;0.100</li>
+<li>Estimated <span class="caps">ABV</span>: 0.100 × 131.25 = <strong>13.1%</strong></li>
+</ul>
+<p>This is an estimate. It assumes accurate readings and is less exact for unusual or very strong fermentations. Without an actual <span class="caps">OG</span> reading, the recipe’s predicted <span class="caps">OG</span> can only give you a rough&nbsp;result.</p>
+<h2 id="how-to-confirm-fermentation-has-finished">How to confirm fermentation has&nbsp;finished</h2>
+<p>An airlock cannot confirm completion. It can stop because the lid leaks, and it can bubble because temperature or air pressure&nbsp;changes.</p>
+<p>Instead:</p>
+<ol>
+<li>Take a reading when active fermentation appears to have&nbsp;subsided.</li>
+<li>Wait several days; for a new mead maker, a week is a cautious&nbsp;interval.</li>
+<li>Take a second reading under similar&nbsp;conditions.</li>
+<li>If the number has fallen, fermentation is continuing—wait and test&nbsp;again.</li>
+<li>If readings match, assess whether the value is plausible for the recipe and yeast before&nbsp;packaging.</li>
+</ol>
+<p>Stable gravity is necessary before bottling, but context matters. A batch stuck at 1.060 for a week has not necessarily completed successfully; it may need <a href="/mead-fermentation-troubleshooting/">fermentation&nbsp;troubleshooting</a>.</p>
+<h2 id="reading-the-scale-correctly">Reading the scale&nbsp;correctly</h2>
+<p>Hydrometer scales vary. On a specific-gravity&nbsp;scale:</p>
+<ul>
+<li>each numbered step may represent&nbsp;0.010;</li>
+<li>smaller marks often represent 0.001 or&nbsp;0.002;</li>
+<li>values decrease as fermentation&nbsp;progresses.</li>
+</ul>
+<p>Do not confuse specific gravity with Brix, Balling or potential-alcohol scales printed on the same instrument. Use one scale consistently in your&nbsp;notes.</p>
+<h2 id="common-errors">Common&nbsp;errors</h2>
+<h3 id="reading-foam-instead-of-liquid">Reading foam instead of&nbsp;liquid</h3>
+<p>Move foam aside or use a clean sample. The actual liquid surface is what&nbsp;matters.</p>
+<h3 id="bubbles-attached-to-the-hydrometer">Bubbles attached to the&nbsp;hydrometer</h3>
+<p>Spin the instrument gently. If the sample is highly carbonated, let it release gas without exposing the main&nbsp;batch.</p>
+<h3 id="the-hydrometer-touches-the-jar">The hydrometer touches the&nbsp;jar</h3>
+<p>Use a wider or fuller trial jar so it floats&nbsp;freely.</p>
+<h3 id="forgetting-temperature">Forgetting&nbsp;temperature</h3>
+<p>A warm sample can read differently from a cool one. Record temperature and correct when&nbsp;required.</p>
+<h3 id="using-a-refractometer-after-fermentation-without-correction">Using a refractometer after fermentation without&nbsp;correction</h3>
+<p>Alcohol changes refractometer readings. A raw post-fermentation Brix reading is not equivalent to a hydrometer <span class="caps">FG</span>; it needs an alcohol correction based on the original&nbsp;reading.</p>
+<h3 id="assuming-a-target-fg-is-guaranteed">Assuming a target <span class="caps">FG</span> is&nbsp;guaranteed</h3>
+<p>Recipe numbers are predictions. Honey composition, yeast health and fermentation conditions vary. Look for a stable, plausible result rather than forcing the mead to hit one exact&nbsp;number.</p>
+<h2 id="bottling-safety">Bottling&nbsp;safety</h2>
+<p>Never bottle because a certain number of days has elapsed. Never assume that clear mead, settled sediment or a silent airlock means it is&nbsp;finished.</p>
+<p>For still&nbsp;mead:</p>
+<ul>
+<li>confirm stable gravity across repeated&nbsp;readings;</li>
+<li>do not add honey or priming sugar at&nbsp;bottling;</li>
+<li>use sound bottles and compatible&nbsp;closures;</li>
+<li>if gravity resumes falling, delay&nbsp;packaging.</li>
+</ul>
+<p>Carbonated mead requires additional calculations, pressure-rated bottles and controlled priming. The <a href="/making-mead/">beginner recipe</a> deliberately makes still&nbsp;mead.</p>
+<h2 id="simple-batch-record">Simple batch&nbsp;record</h2>
+<table>
+<thead>
+<tr>
+<th>Date</th>
+<th style="text-align: right;">Temperature</th>
+<th style="text-align: right;">Gravity</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mixing day</td>
+<td style="text-align: right;">20°C</td>
+<td style="text-align: right;">1.100</td>
+<td><span class="caps">OG</span>; yeast pitched</td>
+</tr>
+<tr>
+<td>Check 1</td>
+<td style="text-align: right;">20°C</td>
+<td style="text-align: right;">1.002</td>
+<td>Airlock slow</td>
+</tr>
+<tr>
+<td>Check 2</td>
+<td style="text-align: right;">20°C</td>
+<td style="text-align: right;">1.000</td>
+<td>Wait and recheck</td>
+</tr>
+<tr>
+<td>Check 3</td>
+<td style="text-align: right;">20°C</td>
+<td style="text-align: right;">1.000</td>
+<td>Stable; assess for racking</td>
+</tr>
+</tbody>
+</table>
+<p>Your figures will differ; this table demonstrates the process, not a required&nbsp;target.</p>
+<h2 id="continue-learning">Continue&nbsp;learning</h2>
+<p>Need the rest of the kit as well? Use <a href="/mead-making-equipment/">the equipment checklist</a> to compare starter kits and individual items before&nbsp;buying.</p>
+<ul>
+<li><a href="/making-mead/">Beginner’s 4.5-litre mead&nbsp;recipe</a></li>
+<li><a href="/mead-making-equipment/">Mead-making equipment&nbsp;checklist</a></li>
+<li><a href="/mead-fermentation-troubleshooting/">Fermentation&nbsp;troubleshooting</a></li>
+</ul>
+<p>Further reading: <a href="https://www.homebrewersassociation.org/how-to-brew/how-to-take-an-accurate-hydrometer-reading/">American Homebrewers Association—How to Take an Accurate Hydrometer Reading</a>.</p>
+<p><em>Reviewed 11 October&nbsp;2026.</em></p> <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = "https://traditionalmead.uk/mead-hydrometer-guide/";
+    this.page.identifier = "mead-hydrometer-guide";
+  };
+
+  (function () {
+    var d = document,
+      s = d.createElement("script");
+    s.src = "https://traditionalmead.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+ 	</main>
+
+<script type="text/javascript">
+const copyButtonLabel = "Copy";
+
+let blocks = document.querySelectorAll("pre");
+
+blocks.forEach((block) => {
+  // only add button if browser supports Clipboard API
+  if (navigator.clipboard) {
+    let button = document.createElement("button");
+
+    button.innerText = copyButtonLabel;
+    block.appendChild(button);
+
+    button.addEventListener("click", async () => {
+      await copyCode(block, button);
+    });
+  }
+});
+
+async function copyCode(block, button) {
+  let code = block.querySelector("code");
+  let text = code.innerText;
+
+  await navigator.clipboard.writeText(text);
+
+  // visual feedback that task is completed
+  button.innerText = "Copied";
+
+  setTimeout(() => {
+    button.innerText = copyButtonLabel;
+  }, 2000);
+}
+</script>
+</body>
+</html>
