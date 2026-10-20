@@ -25,9 +25,21 @@ DELETE_OUTPUT_DIRECTORY = True
 # GOOGLE_ANALYTICS = ""
 
 
-# GOOGLE_ANALYTICS_ID = 'UA-80839950-4'
 DISQUS_SITE = "traditionalmead"
-GOOGLE_TAG_ID = "G-L13NCF579B"
+GA4_MEASUREMENT_ID = "G-L13NCF579B"
+# Works with a certified IAB TCF CMP (for example, a published AdSense
+# Privacy & messaging European regulations message). This is not the CMP.
+GOOGLE_TCF_CONSENT_MODE = True
+AFFILIATE_RULES = [
+    {
+        "domain": "amazon.co.uk",
+        "query_parameter": "tag",
+        "network": "amazon",
+    },
+    {"domain": "amzn.to", "network": "amazon"},
+    {"domain": "awin1.com", "network": "awin"},
+    {"domain": "go.adt253.net", "network": "adtraction"},
+]
 GOOGLE_ADSENSE_ID = "ca-pub-7863038150136152"
 
 SHOW_STATS = False
