@@ -21,7 +21,7 @@ pelican-sitemap==1.2.2
 pelican-webassets==2.1.0
 plantuml-markdown==3.11.3
 Pygments==2.21.0
-python-dateutil==2.9.0.post0
+python-dateutil==3.0.0
 pytz==2026.5
 requests==2.34.2
 rich==15.0.0
