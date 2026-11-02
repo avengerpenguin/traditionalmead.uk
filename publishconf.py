@@ -3,13 +3,14 @@
 import os
 import sys
 
-from pelicanconf import *  # noqa
+# Pelican loads this file from its console-script directory, which does not
+# reliably put the repository root on Python's import path.
+sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+
+from pelicanconf import *  # noqa: E402,F403,F401
 
 # This file is only used if you use `make publish` or
 # explicitly specify it as your config file.
-
-
-sys.path.append(os.curdir)
 
 SITEURL = "https://traditionalmead.uk"
 RELATIVE_URLS = False

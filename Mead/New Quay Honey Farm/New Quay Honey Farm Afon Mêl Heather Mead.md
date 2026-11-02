@@ -2,7 +2,7 @@ Title: Afon Mêl Heather Mead
 Tags: [[Welsh Meads]], [[Pure Honey Mead]]
 Rating: 5
 
-![](/images/afon-mel-heather.jpg)
+![A bottle of Afon Mêl Heather Mead](/images/afon-mel-heather.png)
 
 This is a [pure honey mead](/pure-honey-mead/) from
 [New Quay Honey Farm](/new-quay-honey-farm/) made with heather honey which gives it a richer taste and fuller body.

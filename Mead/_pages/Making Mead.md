@@ -4,13 +4,13 @@ Summary: Learn how to make traditional mead at home with a safe, beginner-friend
 Date: 2026-10-11
 Status: published
 
-Making mead is straightforward: honey, water and yeast become honey wine through fermentation. The part that rewards care is not the ingredient list, but **clean equipment, healthy yeast and patience**.
+Making mead is straightforward: honey, water and yeast become honey wine through fermentation. This simple honey mead recipe is designed for making at home, where **clean equipment, healthy yeast and patience** matter more than a complicated ingredient list.
 
-This guide gives you a dependable first recipe for about **4.5 litres (one UK gallon) of still, dry traditional mead**. It also explains how to tell when fermentation has actually finished. Do not rely on an airlock going quiet: only stable hydrometer readings can confirm that.
+The guide gives you a dependable first recipe for about **4.5 litres (one UK gallon) of still, dry traditional mead**. It also explains how to tell when fermentation has actually finished. Do not rely on an airlock going quiet: only stable hydrometer readings can confirm that.
 
 > **Safety first:** ferment in a food-safe vessel fitted with a proper airlock. Never seal an actively fermenting drink in ordinary bottles. For a first batch, make still mead rather than attempting bottle carbonation.
 
-## Traditional mead recipe at a glance
+## Ingredients for a 4.5-litre traditional mead recipe
 
 | Item | Amount |
 |---|---:|
@@ -40,7 +40,9 @@ You will need:
 
 A second 5-litre demijohn is useful for clearing and ageing, but you can keep the first batch simple. See [[Mead Making Equipment|the mead-making equipment guide]] for what is essential, what is optional and how starter kits compare.
 
-If you are starting from nothing, a starter kit is the quickest way to avoid missing small but important parts such as an airlock, siphon or sanitiser. Two current Amazon UK options to compare are the [Deluxe 1-gallon mead making kit](https://www.amazon.co.uk/Deluxe-Mead-Making-Kit-Compatibility/dp/B0FYSY1C7H?tag=traditionalmead-21) and the [Almost Off Grid 4.5L traditional mead starter kit](https://www.amazon.co.uk/Almost-Off-Grid-Traditional-Complete/dp/B093QG5VQF?tag=traditionalmead-21). Check the live contents before ordering: many kits still require honey, and some one-gallon kits are based on a smaller US gallon rather than this 4.5-litre recipe.
+If you want a kit whose stated batch size matches this 4.5-litre recipe, the [Almost Off Grid deluxe traditional mead starter kit](https://www.amazon.co.uk/Almost-Off-Grid-Traditional-Complete/dp/B093QG5VQF?tag=traditionalmead-21){data-placement-id="making-mead-kit-almost-off-grid" data-affiliate-network="amazon" data-product-id="B093QG5VQF"} is the clearest fit of the options compared. Its listing includes a hydrometer, syphon, yeast and cleaner/steriliser, although its 5-litre bucket provides less primary-fermentation headspace than a 6-litre fermenter.
+
+The [Fermtech deluxe mead-making kit](https://www.amazon.co.uk/Deluxe-Mead-Making-Kit-Compatibility/dp/B0FYSY1C7H?tag=traditionalmead-21){data-placement-id="making-mead-kit-deluxe" data-affiliate-network="amazon" data-product-id="B0FYSY1C7H"} includes useful fermentation and transfer equipment, but its approximately 3.8-litre US-gallon vessel is too small for this recipe as written. Scale the ingredients and final volume to the vessel rather than overfilling it. Check the live contents before ordering: both listings exclude honey, and Amazon prices, stock and delivery terms can change.
 
 > **Affiliate disclosure:** The Amazon links in this equipment note are affiliate links. If you make a qualifying purchase, Traditional Mead UK may receive a commission at no extra cost to you. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
 

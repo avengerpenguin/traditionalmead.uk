@@ -4,7 +4,7 @@ Summary: Lyme Bay Christmas Mead is a rich, sweet 10% honey wine with festive sp
 Date: 2026-10-11
 Status: published
 
-![A bottle of Lyme Bay Christmas Mead](/images/lyme-bay-christmas-mead.jpg)
+![A bottle of Lyme Bay Christmas Mead](/images/lyme-bay-christmas.jpg)
 
 Lyme Bay Christmas Mead is a sweet, gently spiced honey wine designed for colder evenings and festive food. It is richer and more seasonal than the winery’s standard [traditional mead](/lyme-bay-traditional-mead/), without becoming a spirit-strength mead liqueur.
 
@@ -60,10 +60,9 @@ If they prefer beer, cider or drier wine, consider a mixed pack of modern sparkl
 Lyme Bay Winery’s official page showed the bottle at **£12.99** when checked on **11 October 2026**. Seasonal stock and prices can change, so use that only as a dated reference.
 
 - [Check current stock at Lyme Bay Winery](https://lymebaywinery.co.uk/product/christmas-mead)
-- [Buy Lyme Bay Christmas Mead at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lyme-bay-winery/christmas-mead-lyme-bay-winery-mead)
-- [Check availability on Amazon](https://amzn.to/3eOs4Eb)
+- [Buy Lyme Bay Christmas Mead at Master of Malt (affiliate link)](https://go.adt253.net/t/t?a=2039534580&as=2061609749&t=2&tk=1&url=https://www.masterofmalt.com/mead/lyme-bay-winery/christmas-mead-lyme-bay-winery-mead){data-placement-id="lyme-bay-christmas-master-of-malt" data-affiliate-network="adtraction"}
 
-> **Affiliate disclosure:** The Master of Malt and Amazon links are affiliate links. If you make a qualifying purchase, Traditional Mead UK may receive a commission at no extra cost to you. The winery link is provided as a direct non-affiliate source. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
+> **Affiliate disclosure:** The Master of Malt link is an affiliate link. If you make a qualifying purchase, Traditional Mead UK may receive a commission at no extra cost to you. The winery link is provided as a direct non-affiliate source. Read the full [Affiliate Disclosure](/affiliate-disclosure/).
 
 ## How it compares
 

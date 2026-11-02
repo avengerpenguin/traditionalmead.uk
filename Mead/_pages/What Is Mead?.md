@@ -16,7 +16,7 @@ There are many [types or variants of mead](/types-of-mead/) including
 See also:
 
 * [UK History](/history-of-mead/)
-* [Making Mead](/making-mead/)
+* [How to make mead at home: beginner recipe](/making-mead/)
 * [English Meads](/english-meads/)
 * [Scottish Meads](/scottish-meads/)
 * [Welsh Meads](/welsh-meads/)
@@ -36,7 +36,7 @@ See [History of mead in the UK](/history-of-mead/)
 
 Mead is made by mixing honey with water and then fermenting with yeast (with
 wine yeasts being popular among producers). See
-[Making Mead](/making-mead/) for a more thorough step-by-step guide.
+[Follow the beginner’s honey mead recipe](/making-mead/) for a more thorough step-by-step guide.
 
 ## Varieties
 

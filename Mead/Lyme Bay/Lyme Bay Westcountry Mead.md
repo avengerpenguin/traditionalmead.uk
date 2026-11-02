@@ -8,8 +8,8 @@ award in 2016. The added spices strictly make this drink is a
 [metheglin](/types-of-mead) rather than a pure mead.
 
 This is one of three spiced offerings from Lyme Bay. See also their
-[Tournament mead](/lyme-bay-tournament/) spiced with ginger or their excellent
-[Christmas mead](/lyme-bay-christmas/).
+[Tournament mead](/lyme-bay-tournament-mead/) spiced with ginger or their excellent
+[Christmas mead](/lyme-bay-christmas-mead/).
 
 ## Colour
 
