@@ -17,7 +17,7 @@ markdown-it-py==3.0.0
 MarkupSafe==3.0.4
 mdurl==0.1.2
 pelican==4.8.0
-pelican-sitemap==1.0.2
+pelican-sitemap==1.2.2
 pelican-webassets==2.1.0
 plantuml-markdown==3.9.1
 Pygments==2.21.0
