@@ -24,7 +24,7 @@ Pygments==2.21.0
 python-dateutil==4.0.0
 pytz==2026.6
 requests==2.34.2
-rich==13.4.2
+rich==15.0.0
 sh==2.4.0
 six==1.17.0
 smartypants==2.0.1
